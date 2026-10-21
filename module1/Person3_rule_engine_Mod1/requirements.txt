@@ -1,0 +1,10 @@
+# Needed to run the rule engine and the tests
+pandas
+pyyaml
+pytest
+presidio-analyzer
+spacy
+
+# Only needed for the demo notebook (explore.ipynb)
+faker
+jinja2
