@@ -1,9 +1,0 @@
-suspicious:
-  near_unique_ratio: 0.98
-  extreme_skew_abs: 3.0
-  leakage_name_hints: [target, label, outcome, result, y_true]
-format:
-  mixed_type_min_share: 0.05
-pii:
-  min_confidence: 0.5
-  name_hints: [email, phone, ssn, passport, dob, birth, address, salary, card, iban]
