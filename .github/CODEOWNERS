@@ -1,0 +1,9 @@
+# Each folder's owner is automatically asked to review pull requests that touch it.
+# Replace the placeholders with real GitHub usernames and remove the leading '#'.
+# Branch protection (Settings -> Branches) can then require these reviews.
+
+# /modules/module1_profiling/   @username-1 @username-2
+# /modules/module2_cleaning/    @username-3
+# /modules/module3_validation/  @username-4
+# /modules/module4_automation/  @username-1
+# /schemas/                     @username-1 @username-3 @username-4
