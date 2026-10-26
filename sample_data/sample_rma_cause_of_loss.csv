@@ -1,0 +1,2001 @@
+State,State name,County,County name,Year,Month,Commodity,Cause of loss,Payment acreage,Payment indemnity (US$),Liability (US$),Subsidy (US$)
+1,Alabama,1,Autauga,1989,Unspecified,All Other Crops,Drought,79.2,1826.0,4398.0,286.0
+1,Alabama,1,Autauga,1989,Unspecified,Cotton,Drought,330.1,49181.0,86736.0,2101.0
+1,Alabama,1,Autauga,1989,10,All Other Crops,Drought,107.0,9053.0,41924.0,503.0
+1,Alabama,1,Autauga,1989,10,All Other Crops,Excess Moisture/Precip/Rain,143.35,12095.0,20393.0,231.0
+1,Alabama,1,Autauga,1989,10,Cotton,Drought,539.66,27467.6,140813.0,3730.2
+1,Alabama,1,Autauga,1989,10,Cotton,Drought Deviation,0.0,0.0,0.0,0.0
+1,Alabama,1,Autauga,1989,10,Cotton,Excess Moisture/Precip/Rain,1123.44,44621.4,301266.0,7159.8
+1,Alabama,1,Autauga,1990,Unspecified,All Other Crops,Drought,332.2,52640.0,110392.0,2941.0
+1,Alabama,1,Autauga,1990,3,All Other Crops,Excess Moisture/Precip/Rain,66.4,2256.0,3805.0,80.0
+1,Alabama,1,Autauga,1990,5,All Other Crops,Drought,40.0,1415.0,4871.0,44.0
+1,Alabama,1,Autauga,1990,6,All Other Crops,Drought,64.5,2597.0,16835.0,479.0
+1,Alabama,1,Autauga,1990,6,All Other Crops,Excess Moisture/Precip/Rain,148.7,6331.0,10485.0,192.0
+1,Alabama,1,Autauga,1990,8,All Other Crops,Drought,108.0,8584.0,22333.0,781.0
+1,Alabama,1,Autauga,1990,9,All Other Crops,Drought,418.5,49525.0,162338.0,2481.0
+1,Alabama,1,Autauga,1990,10,All Other Crops,Drought,82.8,2134.0,3019.0,281.0
+1,Alabama,1,Autauga,1990,11,All Other Crops,Drought,1840.2,99159.0,461812.0,12880.0
+1,Alabama,1,Autauga,1990,12,All Other Crops,Drought,114.1,22887.0,42364.0,1046.0
+1,Alabama,1,Autauga,1991,5,All Other Crops,Excess Moisture/Precip/Rain,289.2,14210.0,71480.0,1976.0
+1,Alabama,1,Autauga,1991,6,All Other Crops,Excess Moisture/Precip/Rain,81.5,3870.0,7176.0,93.0
+1,Alabama,1,Autauga,1991,8,All Other Crops,Drought,39.38,2559.0,14742.0,238.0
+1,Alabama,1,Autauga,1991,9,All Other Crops,Drought,56.81,8574.0,19290.0,312.0
+1,Alabama,1,Autauga,1991,10,All Other Crops,Drought,2.76,0.0,5290.0,85.0
+1,Alabama,1,Autauga,1991,11,All Other Crops,Drought,44.0,1067.0,14010.0,378.0
+1,Alabama,1,Autauga,1992,11,All Other Crops,Drought,20.7,2242.0,6541.0,159.0
+1,Alabama,1,Autauga,1993,6,All Other Crops,Drought,1071.16,60808.5,298688.0,6094.7
+1,Alabama,1,Autauga,1993,7,All Other Crops,Drought,1079.39,50418.8,269914.2,7150.9
+1,Alabama,1,Autauga,1993,7,All Other Crops,Insects,103.0,7909.0,37195.0,1153.0
+1,Alabama,1,Autauga,1993,8,All Other Crops,Drought,415.95,11218.7,247103.8,6671.4
+1,Alabama,1,Autauga,1994,5,All Other Crops,Drought,217.03,48513.6,93554.0,2134.0
+1,Alabama,1,Autauga,1994,6,All Other Crops,Drought,172.37,30659.4,68655.2,1686.4
+1,Alabama,1,Autauga,1994,6,All Other Crops,Excess Moisture/Precip/Rain,95.7599999999999,6912.6,36029.5,846.3
+1,Alabama,1,Autauga,1994,7,All Other Crops,Excess Moisture/Precip/Rain,1192.04,117289.4,350855.3,9347.3
+1,Alabama,1,Autauga,1995,4,Corn,Drought,6.0,53.0,53.0,13.0
+1,Alabama,1,Autauga,1995,4,Corn,No Indemnity,21.4,0.0,304.0,73.0
+1,Alabama,1,Autauga,1995,5,Corn,Drought,55.1,153.0,920.0,192.0
+1,Alabama,1,Autauga,1995,5,Corn,No Indemnity,8.0,0.0,135.0,24.0
+1,Alabama,1,Autauga,1995,5,Corn,Other,177.0,0.0,10395.0,627.0
+1,Alabama,1,Autauga,1995,5,Cotton,Drought,595.24,61912.8999999999,119198.9,6295.79999999999
+1,Alabama,1,Autauga,1995,5,Cotton,Wind/Excess Wind,13.59,676.8,1917.8,132.9
+1,Alabama,1,Autauga,1995,6,Corn,Drought,62.1,1276.0,1428.0,206.0
+1,Alabama,1,Autauga,1995,6,Corn,No Indemnity,9.5,0.0,61.0,14.5
+1,Alabama,1,Autauga,1995,6,Cotton,Drought,1621.1,154428.4,223404.8,15678.0
+1,Alabama,1,Autauga,1995,6,Cotton,No Indemnity,48.0,0.0,4576.0,453.0
+1,Alabama,1,Autauga,1995,6,Peanuts,Drought,65.0,828.0,15698.0,1570.0
+1,Alabama,1,Autauga,1995,6,Soybeans,Drought,72.8,631.0,842.0,278.0
+1,Alabama,1,Autauga,1995,7,Corn,Drought,17.0,1136.0,1206.0,73.0
+1,Alabama,1,Autauga,1995,7,Cotton,Drought,4449.36,779906.3,1132589.2,51056.2
+1,Alabama,1,Autauga,1995,7,Cotton,Hurricane/Tropical Depression,75.57,16437.3,27084.3,945.3
+1,Alabama,1,Autauga,1995,7,Cotton,Insects,194.22,29969.4,51888.6,2678.4
+1,Alabama,1,Autauga,1995,7,Cotton,Wind/Excess Wind,15.32,942.0,2239.2,145.2
+1,Alabama,1,Autauga,1995,7,Peanuts,Drought,79.33,28763.8,48341.3,1264.3
+1,Alabama,1,Autauga,1995,8,Corn,Drought,73.7,252.0,883.0,212.5
+1,Alabama,1,Autauga,1995,8,Corn,No Indemnity,36.2,0.0,392.0,94.0
+1,Alabama,1,Autauga,1995,8,Cotton,Drought,509.64,31933.0,69800.2,4985.0
+1,Alabama,1,Autauga,1995,8,Cotton,Hurricane/Tropical Depression,12.06,894.0,2010.8,123.0
+1,Alabama,1,Autauga,1995,8,Peanuts,Excess Moisture/Precip/Rain,6.546,3681.3,4543.2,115.5
+1,Alabama,1,Autauga,1995,10,Cotton,Drought,1544.24,110867.2,190682.4,14244.0
+1,Alabama,1,Autauga,1995,10,Cotton,Excess Moisture/Precip/Rain,114.8,24863.1999999999,31581.6,1351.2
+1,Alabama,1,Autauga,1995,10,Cotton,Freeze,97.84,2448.4,7382.6,478.4
+1,Alabama,1,Autauga,1995,10,Cotton,Hurricane/Tropical Depression,2894.46,477875.3,691073.0,31508.6
+1,Alabama,1,Autauga,1995,10,Cotton,Wind/Excess Wind,386.06,27716.8,47670.6,3561.0
+1,Alabama,1,Autauga,1995,10,Peanuts,Excess Moisture/Precip/Rain,21.024,5091.9,14822.1,376.95
+1,Alabama,1,Autauga,1996,5,Cotton,Drought,59.94,11469.0,20320.8,898.8
+1,Alabama,1,Autauga,1996,5,Cotton,Excess Moisture/Precip/Rain,60.0,2012.0,3346.0,512.0
+1,Alabama,1,Autauga,1996,6,Cotton,Excess Moisture/Precip/Rain,322.3,41857.0,74331.0,4946.0
+1,Alabama,1,Autauga,1996,7,Cotton,Excess Moisture/Precip/Rain,66.7,6537.0,22881.0,935.0
+1,Alabama,1,Autauga,1996,8,Cotton,Drought,35.0,6874.0,9732.0,478.0
+1,Alabama,1,Autauga,1996,10,Cotton,Frost,39.96,7646.0,13547.2,599.2
+1,Alabama,1,Autauga,1996,11,Income Protection Cotton,Excess Moisture/Precip/Rain,220.5,11809.0,89693.0,3176.0
+1,Alabama,1,Autauga,1997,5,Peaches,Frost,47.9,24773.0,31752.0,2168.0
+1,Alabama,1,Autauga,1997,6,Cotton,Drought,42.0,7984.0,8967.0,607.0
+1,Alabama,1,Autauga,1997,6,Cotton,Excess Moisture/Precip/Rain,104.0,7197.0,26499.0,1606.0
+1,Alabama,1,Autauga,1997,7,Cotton,Drought,31.8,2418.0,6633.6,459.0
+1,Alabama,1,Autauga,1997,7,Soybeans,Heat,104.8,2621.0,4256.0,992.0
+1,Alabama,1,Autauga,1997,8,Cotton,Excess Moisture/Precip/Rain,21.2,1612.0,4422.4,306.0
+1,Alabama,1,Autauga,1997,8,Soybeans,Drought,104.4,4700.0,5603.0,921.0
+1,Alabama,1,Autauga,1997,8,Soybeans,Heat,55.2,2344.0,2786.0,409.0
+1,Alabama,1,Autauga,1997,12,Wheat,Freeze,144.9,7640.0,9429.0,552.0
+1,Alabama,1,Autauga,1998,Unspecified,Cotton,Drought,74.3,-1269.0,9016.0,764.0
+1,Alabama,1,Autauga,1998,Unspecified,Soybeans,Drought,36.0,-356.0,1638.0,171.0
+1,Alabama,1,Autauga,1998,5,Peaches,Freeze,106.5,47150.0,65434.0,6237.0
+1,Alabama,1,Autauga,1998,6,Corn,Drought,298.299999999999,12266.0,15608.0,1202.0
+1,Alabama,1,Autauga,1998,6,Soybeans,Drought,225.7,7086.0,9090.0,1110.0
+1,Alabama,1,Autauga,1998,7,Cotton,Drought,1412.69999999999,103603.0,351832.0,22680.0
+1,Alabama,1,Autauga,1998,7,Soybeans,Drought,75.0,2366.0,2700.0,451.0
+1,Alabama,1,Autauga,1999,Unspecified,Wheat,Drought,15.3,-218.0,5191.0,731.0
+1,Alabama,1,Autauga,1999,4,Soybeans,Drought,15.0,672.0,672.0,173.0
+1,Alabama,1,Autauga,1999,4,Wheat,Drought,304.2,13531.0,19718.0,1840.0
+1,Alabama,1,Autauga,1999,7,Corn,Drought,38.0,710.0,1461.0,271.0
+1,Alabama,1,Autauga,1999,7,Cotton,Drought,1061.0,58278.0,313640.0,25466.0
+1,Alabama,1,Autauga,1999,7,Soybeans,Drought,83.0,2673.8,2673.8,469.6
+1,Alabama,1,Autauga,1999,8,Corn,Drought,8.0,16.0,364.0,82.0
+1,Alabama,1,Autauga,1999,8,Soybeans,Wildlife,12.0,655.2,655.2,124.4
+1,Alabama,1,Autauga,1999,12,Peaches,Insufficient Chilling Hours,125.0,47589.0,81221.0,11410.0
+1,Alabama,1,Autauga,2000,Unspecified,Cotton,Drought,155.0,-1522.0,74587.5,3538.5
+1,Alabama,1,Autauga,2000,1,Cotton,Decline In Price,6.624,1024.56,1336.56,157.14
+1,Alabama,1,Autauga,2000,3,Peaches,Frost,1.0,139.0,1027.0,138.0
+1,Alabama,1,Autauga,2000,4,Peaches,Freeze,139.0,73161.0,114933.0,16273.0
+1,Alabama,1,Autauga,2000,4,Wheat,Freeze,72.3,3334.79999999999,4443.0,400.8
+1,Alabama,1,Autauga,2000,5,All Other Crops,Drought,17.0,3621.0,7931.0,353.0
+1,Alabama,1,Autauga,2000,5,Corn,Drought,120.6,2754.0,9364.8,510.0
+1,Alabama,1,Autauga,2000,5,Cotton,Drought,3059.24,388706.2,527400.1,43307.1
+1,Alabama,1,Autauga,2000,5,Wheat,Drought,48.2,2223.2,2962.0,267.2
+1,Alabama,1,Autauga,2000,6,Corn,Drought,653.3,22415.2,48891.4,3754.0
+1,Alabama,1,Autauga,2000,6,Cotton,Drought,4181.13,588219.0,959026.2,80814.8
+1,Alabama,1,Autauga,2000,6,Soybeans,Drought,66.0,3375.0,3375.0,564.0
+1,Alabama,1,Autauga,2000,7,All Other Crops,Drought,43.2,20904.0,23944.8,903.6
+1,Alabama,1,Autauga,2000,7,Corn,Drought,96.6,5476.8,5749.8,917.0
+1,Alabama,1,Autauga,2000,7,Cotton,Drought,209.055999999999,34317.64,104466.64,6860.46
+1,Alabama,1,Autauga,2000,8,All Other Crops,Excess Moisture/Precip/Rain,28.8,13936.0,15963.1999999999,602.4
+1,Alabama,1,Autauga,2000,9,Cotton,Drought,16.0,4333.6,47535.4,2581.4
+1,Alabama,1,Autauga,2001,Unspecified,Cotton,Decline In Price,80.0,-1652.0,19666.0,1033.0
+1,Alabama,1,Autauga,2001,2,Wheat,Excess Moisture/Precip/Rain,14.8,538.4,729.2,70.0
+1,Alabama,1,Autauga,2001,5,Corn,Drought,47.8,1530.0,3962.0,443.0
+1,Alabama,1,Autauga,2001,5,Cotton,Drought,25.0,4095.0,4583.0,845.0
+1,Alabama,1,Autauga,2001,5,Soybeans,Wildlife,8.1,210.6,476.4,105.0
+1,Alabama,1,Autauga,2001,6,Corn,Drought,293.3,6726.6,20906.2,2830.8
+1,Alabama,1,Autauga,2001,7,Cotton,Excess Moisture/Precip/Rain,150.0,19722.0,31198.0,5462.0
+1,Alabama,1,Autauga,2001,8,Corn,Wildlife,18.18,406.2,1210.8,151.8
+1,Alabama,1,Autauga,2001,8,Corn,Wind/Excess Wind,16.8,1042.4,758.8,97.2
+1,Alabama,1,Autauga,2001,8,Cotton,Drought,12.0,1842.4,3674.6,231.6
+1,Alabama,1,Autauga,2001,10,Corn,Wind/Excess Wind,12.12,270.8,807.2,101.2
+1,Alabama,1,Autauga,2001,10,Soybeans,Drought,5.4,140.4,317.6,70.0
+1,Alabama,1,Autauga,2001,11,Cotton,Decline In Price,523.7,23600.0,116460.0,18197.0
+1,Alabama,1,Autauga,2001,11,Cotton,Other,263.0,29270.6,76046.4,5708.4
+1,Alabama,1,Autauga,2001,12,Wheat,Cold Winter,22.2,807.6,1093.8,105.0
+1,Alabama,1,Autauga,2002,3,Peaches,Drought,27.4,25684.0,56615.0,11424.0
+1,Alabama,1,Autauga,2002,5,Corn,Drought,26.4,1627.12,1438.8,375.76
+1,Alabama,1,Autauga,2002,5,Cotton,Drought,548.01,22875.9,107982.0,13986.6999999999
+1,Alabama,1,Autauga,2002,6,Corn,Drought,180.899999999999,5046.0,10347.0,2589.0
+1,Alabama,1,Autauga,2002,6,Soybeans,Drought,21.0,849.8,1029.0,281.4
+1,Alabama,1,Autauga,2002,7,Corn,Drought,28.7,1165.0,1235.0,236.0
+1,Alabama,1,Autauga,2002,7,Cotton,Drought,24.6,2290.8,4323.6,640.8
+1,Alabama,1,Autauga,2002,8,All Other Crops,Drought,7.2,1708.4,2202.0,94.8
+1,Alabama,1,Autauga,2002,8,Cotton,Drought,8.07,424.2,1204.2,229.2
+1,Alabama,1,Autauga,2002,8,Cotton,Excess Moisture/Precip/Rain,41.22,2458.4,9000.0,958.8
+1,Alabama,1,Autauga,2002,8,Peaches,Drought,19.6,20586.0,34129.0,6198.0
+1,Alabama,1,Autauga,2002,9,Corn,Decline In Price,3.6,221.88,196.2,51.24
+1,Alabama,1,Autauga,2002,9,Cotton,Excess Moisture/Precip/Rain,64.82,5250.4,8142.0,1480.0
+1,Alabama,1,Autauga,2002,10,Cotton,Excess Moisture/Precip/Rain,284.83,9528.3,59163.2,7559.5
+1,Alabama,1,Autauga,2002,10,Soybeans,Excess Moisture/Precip/Rain,9.0,364.2,441.0,120.6
+1,Alabama,1,Autauga,2002,11,All Other Crops,Excess Moisture/Precip/Rain,10.8,2562.6,3303.0,142.2
+1,Alabama,1,Autauga,2003,3,Peaches,Freeze,144.549999999999,126173.5,126355.5,25092.5
+1,Alabama,1,Autauga,2003,3,Peaches,Frost,0.45,577.5,577.5,104.5
+1,Alabama,1,Autauga,2003,4,Corn,Excess Moisture/Precip/Rain,10.0,503.0,503.0,179.0
+1,Alabama,1,Autauga,2003,5,Corn,Excess Moisture/Precip/Rain,267.4,6885.0,13761.0,3469.0
+1,Alabama,1,Autauga,2003,5,Cotton,Excess Moisture/Precip/Rain,52.422,7633.59,7350.83,1307.12
+1,Alabama,1,Autauga,2003,5,Cotton,Flood,15.0,745.0,2637.0,345.0
+1,Alabama,1,Autauga,2003,6,Corn,Excess Moisture/Precip/Rain,60.7,862.0,3516.0,851.0
+1,Alabama,1,Autauga,2003,9,Cotton,Decline In Price,8.778,1185.41,958.17,218.88
+1,Alabama,1,Autauga,2004,Unspecified,All Other Crops,Excess Moisture/Precip/Rain,0.0,136381.5,394324.0,2277.5
+1,Alabama,1,Autauga,2004,4,Corn,Excess Moisture/Precip/Rain,25.9,1540.0,1759.5,724.5
+1,Alabama,1,Autauga,2004,5,Corn,Excess Moisture/Precip/Rain,25.9,1540.0,1759.5,724.5
+1,Alabama,1,Autauga,2004,9,All Other Crops,Hurricane/Tropical Depression,0.0,136381.5,394324.0,2277.5
+1,Alabama,1,Autauga,2004,9,Corn,Hurricane/Tropical Depression,274.2,8683.0,15875.0,4831.0
+1,Alabama,1,Autauga,2004,9,Cotton,Excess Moisture/Precip/Rain,29.8,3307.0,5613.0,429.0
+1,Alabama,1,Autauga,2004,9,Cotton,Hurricane/Tropical Depression,215.85,22054.0,56902.0,6742.0
+1,Alabama,1,Autauga,2004,9,Soybeans,Excess Moisture/Precip/Rain,45.4,1465.0,1849.5,809.0
+1,Alabama,1,Autauga,2004,11,Soybeans,Excess Moisture/Precip/Rain,45.4,1465.0,1849.5,809.0
+1,Alabama,1,Autauga,2005,5,Corn,Drought,51.25,1233.0,2596.5,1000.5
+1,Alabama,1,Autauga,2005,5,Corn,Excess Moisture/Precip/Rain,15.85,354.0,797.0,359.5
+1,Alabama,1,Autauga,2005,6,Corn,Drought,55.75,1356.0,2822.5,1060.5
+1,Alabama,1,Autauga,2005,6,Corn,Excess Moisture/Precip/Rain,28.25,996.0,1482.0,422.5
+1,Alabama,1,Autauga,2005,6,Peaches,Excess Moisture/Precip/Rain,0.9,730.0,1571.0,366.0
+1,Alabama,1,Autauga,2005,7,Corn,Drought,4.5,123.0,226.0,60.0
+1,Alabama,1,Autauga,2006,3,Peaches,Freeze,174.69,231220.0,278786.1,49519.35
+1,Alabama,1,Autauga,2006,4,Corn,Drought,23.75,1201.5,1263.5,465.0
+1,Alabama,1,Autauga,2006,4,Peaches,Hail,89.21,115421.0,136712.9,22845.65
+1,Alabama,1,Autauga,2006,5,Corn,Drought,521.575,17223.5,25742.5,3123.75
+1,Alabama,1,Autauga,2006,5,Cotton,Drought,528.225,58712.0,135324.0,11921.0
+1,Alabama,1,Autauga,2006,5,Peanuts,Drought,56.0,11534.0,20564.5,1157.0
+1,Alabama,1,Autauga,2006,6,Peanuts,Drought,88.0,9554.0,26817.0,1324.0
+1,Alabama,1,Autauga,2006,7,Corn,Drought,94.1,6230.5,7026.5,1253.0
+1,Alabama,1,Autauga,2006,8,Corn,Drought,228.95,6804.5,10316.0,1492.0
+1,Alabama,1,Autauga,2006,8,Cotton,Decline In Price,23.7,908.0,6526.3,534.9
+1,Alabama,1,Autauga,2006,8,Cotton,Drought,528.064,58563.61,135387.26,11854.8
+1,Alabama,1,Autauga,2006,8,Peanuts,Drought,56.0,6866.5,8349.0,469.0
+1,Alabama,1,Autauga,2006,9,Corn,Wildlife,4.425,482.0,500.5,51.25
+1,Alabama,1,Autauga,2006,9,Peanuts,Drought,50.0,9842.5,18645.5,1039.0
+1,Alabama,1,Autauga,2006,9,Peanuts,Mycotoxin (Aflatoxin),34.7,4197.5,8763.0,449.5
+1,Alabama,1,Autauga,2006,10,Peanuts,Mycotoxin (Aflatoxin),34.7,4197.5,8763.0,449.5
+1,Alabama,1,Autauga,2006,11,Cotton,Decline In Price,13.125,587.5,2496.5,248.5
+1,Alabama,1,Autauga,2006,11,Cotton,Drought,13.725,750.0,2512.0,324.5
+1,Alabama,1,Autauga,2006,12,Cotton,Decline In Price,256.761,9568.89,66533.94,5784.3
+1,Alabama,1,Autauga,2007,3,Corn,Drought,9.0,771.0,771.0,387.5
+1,Alabama,1,Autauga,2007,3,Cotton,Drought,80.0,4296.0,4296.0,678.0
+1,Alabama,1,Autauga,2007,4,Corn,Drought,730.08,46205.6,76397.45,8448.35
+1,Alabama,1,Autauga,2007,4,Cotton,Drought,2519.7,329203.5,455032.0,41409.0
+1,Alabama,1,Autauga,2007,4,Peaches,Freeze,66.34,78325.6,92412.0,20220.0
+1,Alabama,1,Autauga,2007,4,Peanuts,Drought,365.2,66471.0,76362.0,5203.0
+1,Alabama,1,Autauga,2007,5,Cotton,Drought,1026.93,54071.5,76654.8,10588.5
+1,Alabama,1,Autauga,2007,5,Peaches,Drought,9.96,6149.4,22599.0,4524.0
+1,Alabama,1,Autauga,2007,5,Peanuts,Drought,381.8,75088.0,82600.5,5580.5
+1,Alabama,1,Autauga,2007,6,All Other Crops,Drought,166.0,1021.0,6806.0,3873.0
+1,Alabama,1,Autauga,2007,6,Corn,Drought,24.7,3019.0,3019.0,536.0
+1,Alabama,1,Autauga,2007,6,Corn,Heat,40.65,5129.4,5724.6,521.099999999999
+1,Alabama,1,Autauga,2007,6,Cotton,Drought,314.45,64672.0,70068.5,5647.0
+1,Alabama,1,Autauga,2007,6,Peanuts,Drought,15.5,5469.0,5890.0,367.5
+1,Alabama,1,Autauga,2007,7,Corn,Decline In Price,96.26,5487.2,12266.6,1245.4
+1,Alabama,1,Autauga,2007,7,Corn,Drought,9.0,771.0,771.0,387.5
+1,Alabama,1,Autauga,2007,7,Corn,Heat,37.5,1312.8,1809.3,281.7
+1,Alabama,1,Autauga,2007,7,Cotton,Drought,183.4,32017.0,40922.0,3623.0
+1,Alabama,1,Autauga,2007,7,Peanuts,Drought,5.0,727.0,1889.0,112.0
+1,Alabama,1,Autauga,2007,8,Corn,Decline In Price,13.56,1425.0,1528.8,198.2
+1,Alabama,1,Autauga,2007,8,Corn,Drought,108.45,3525.0,3636.75,800.75
+1,Alabama,1,Autauga,2007,8,Cotton,Decline In Price,26.57,1940.0,4689.2,540.0
+1,Alabama,1,Autauga,2007,10,Cotton,Drought,143.5,5362.5,14240.0,1417.5
+1,Alabama,1,Autauga,2007,11,Cotton,Drought,16.85,3268.0,4572.5,327.0
+1,Alabama,1,Autauga,2007,11,Peanuts,Drought,36.8,10607.0,12508.5,888.0
+1,Alabama,1,Autauga,2007,12,Cotton,Drought,32.4,5615.5,6268.0,638.0
+1,Alabama,1,Autauga,2008,3,Peaches,Freeze,51.5,36273.0,46304.0,9383.0
+1,Alabama,1,Autauga,2008,4,Wheat,Drought,17.04,1076.4,2181.0,256.8
+1,Alabama,1,Autauga,2008,5,Corn,Drought,43.6,5304.5,6438.5,1530.0
+1,Alabama,1,Autauga,2008,5,Wheat,Drought,11.36,717.6,1454.0,171.2
+1,Alabama,1,Autauga,2008,6,Corn,Drought,17.3,2670.5,2433.0,475.0
+1,Alabama,1,Autauga,2008,6,Cotton,Drought,35.75,5684.0,7908.5,881.0
+1,Alabama,1,Autauga,2008,6,Soybeans,Drought,36.0,2327.4,4095.6,1086.6
+1,Alabama,1,Autauga,2008,7,Corn,Drought,43.6,5304.5,6438.5,1530.0
+1,Alabama,1,Autauga,2008,7,Cotton,Drought,46.47,5541.6,11371.8,1456.8
+1,Alabama,1,Autauga,2008,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,50.5,40.0,3364.0,289.0
+1,Alabama,1,Autauga,2008,7,Soybeans,Wildlife,24.0,1551.6,2730.4,724.4
+1,Alabama,1,Autauga,2008,8,Corn,Drought,3.2,442.5,459.0,74.0
+1,Alabama,1,Autauga,2008,8,Cotton,Drought,35.75,5684.0,7908.5,881.0
+1,Alabama,1,Autauga,2008,9,Cotton,Decline In Price,13.8,1151.0,3347.0,390.5
+1,Alabama,1,Autauga,2008,11,Cotton,Decline In Price,62.13,5820.4,15257.2,1792.7
+1,Alabama,1,Autauga,2009,4,Peaches,Freeze,80.9,70236.0,70777.0,15875.0
+1,Alabama,1,Autauga,2009,4,Wheat,Excess Moisture/Precip/Rain,24.15,4009.25,4462.15,758.45
+1,Alabama,1,Autauga,2009,5,Corn,Drought,30.8,4024.5,4276.5,998.5
+1,Alabama,1,Autauga,2009,5,Wheat,Excess Moisture/Precip/Rain,164.55,17885.15,24072.25,2580.95
+1,Alabama,1,Autauga,2009,6,Corn,Drought,84.1,7491.5,11890.5,2082.5
+1,Alabama,1,Autauga,2009,6,Wheat,Excess Moisture/Precip/Rain,79.8,6959.6,10523.6,781.6
+1,Alabama,1,Autauga,2009,7,Corn,Drought,10.08,908.16,1032.96,658.56
+1,Alabama,1,Autauga,2009,7,Corn,Heat,172.9,15751.4,16678.55,3767.39999999999
+1,Alabama,1,Autauga,2009,7,Soybeans,Drought,62.64,3778.8,5431.2,1082.4
+1,Alabama,1,Autauga,2009,9,Corn,Decline In Price,0.42,37.84,43.04,27.44
+1,Alabama,1,Autauga,2009,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,25.0,172.0,1607.0,93.0
+1,Alabama,1,Autauga,2009,9,Soybeans,Excess Moisture/Precip/Rain,41.76,2519.2,3620.8,721.6
+1,Alabama,1,Autauga,2009,11,Corn,Excess Moisture/Precip/Rain,74.1,6750.6,7147.95,1614.6
+1,Alabama,1,Autauga,2009,11,Cotton,Excess Moisture/Precip/Rain,309.3,12118.0,56469.0,5251.0
+1,Alabama,1,Autauga,2009,11,Peanuts,Excess Moisture/Precip/Rain,75.6,25571.0,25572.0,1702.0
+1,Alabama,1,Autauga,2009,12,Cotton,Excess Moisture/Precip/Rain,34.35,550.0,7173.0,698.0
+1,Alabama,1,Autauga,2010,6,All Other Crops,Drought,166.0,4986.0,7636.0,3558.0
+1,Alabama,1,Autauga,2010,6,Corn,Drought,64.352,5766.07,6168.72,1212.33
+1,Alabama,1,Autauga,2010,6,Cotton,Heat,142.89,19520.16,26553.78,3020.82
+1,Alabama,1,Autauga,2010,6,Soybeans,Drought,27.88,654.16,2296.02,370.26
+1,Alabama,1,Autauga,2010,7,Cotton,Drought,81.9,6426.0,19256.0,2265.0
+1,Alabama,1,Autauga,2010,7,Peanuts,Drought,117.5,27672.0,37092.0,2790.0
+1,Alabama,1,Autauga,2010,7,Soybeans,Drought,129.346,5788.16,10725.16,1714.08
+1,Alabama,1,Autauga,2010,8,Cotton,Drought,73.61,10055.84,13679.22,1556.17999999999
+1,Alabama,1,Autauga,2010,8,Soybeans,Drought,48.774,1384.67999999999,3713.82,693.66
+1,Alabama,1,Autauga,2010,9,All Other Crops,Area Plan Crops Only,10.5,101.0,790.0,50.0
+1,Alabama,1,Autauga,2010,9,Corn,Decline In Price,0.148,16.93,17.28,4.67
+1,Alabama,1,Autauga,2010,10,All Other Crops,Area Plan Crops Only,11.6,44.0,1099.0,69.0
+1,Alabama,1,Autauga,2010,10,Wheat,Excess Moisture/Precip/Rain,44.4,1018.2,2909.4,133.8
+1,Alabama,1,Autauga,2010,11,Soybeans,Excess Moisture/Precip/Rain,32.7,500.0,1428.0,134.0
+1,Alabama,1,Autauga,2010,11,Wheat,Excess Moisture/Precip/Rain,131.799999999999,4761.8,9174.6,904.2
+1,Alabama,1,Autauga,2010,12,All Other Crops,Area Plan Crops Only,361.2,6571.0,18155.0,850.0
+1,Alabama,1,Autauga,2011,4,All Other Crops,Hail,28.1,3231.0,10721.0,2433.0
+1,Alabama,1,Autauga,2011,6,Corn,Drought,14.457,3520.75,3210.02,313.31
+1,Alabama,1,Autauga,2011,6,Corn,Wildlife,5.243,1286.25,1225.98,88.69
+1,Alabama,1,Autauga,2011,6,Soybeans,Drought,134.18,5874.28,19793.42,2678.38
+1,Alabama,1,Autauga,2011,7,Soybeans,Drought,125.4,5066.82,15180.99,1911.36
+1,Alabama,1,Autauga,2011,8,Cotton,Drought,154.6,57055.0,85873.0,8848.0
+1,Alabama,1,Autauga,2011,8,Soybeans,Wildlife,29.82,1398.9,1779.6,303.9
+1,Alabama,1,Autauga,2012,2,All Other Crops,Insufficient Chilling Hours,3.75,183.0,1261.0,272.5
+1,Alabama,1,Autauga,2012,6,Corn,Drought,2.5,615.0,451.5,83.0
+1,Alabama,1,Autauga,2012,6,Soybeans,Drought,145.248,5390.01999999999,25135.5199999999,2793.44
+1,Alabama,1,Autauga,2012,7,Corn,Decline In Price,0.05,12.3,9.03,1.66
+1,Alabama,1,Autauga,2012,7,Corn,Drought,2.45,602.7,442.47,81.34
+1,Alabama,1,Autauga,2012,7,Soybeans,Drought,112.514,4130.94,19579.89,2043.2
+1,Alabama,1,Autauga,2012,7,Soybeans,Heat,140.976,5231.49,24396.2399999999,2711.27999999999
+1,Alabama,1,Autauga,2012,7,Soybeans,Wildlife,62.7,4545.09,8260.89,1167.54
+1,Alabama,1,Autauga,2012,8,Soybeans,Wildlife,197.562,19841.46,29088.46,6254.54
+1,Alabama,1,Autauga,2012,9,All Other Crops,Area Plan Crops Only,10.5,45.0,872.0,53.0
+1,Alabama,1,Autauga,2012,10,All Other Crops,Insufficient Chilling Hours,3.75,183.0,1261.0,272.5
+1,Alabama,1,Autauga,2012,10,Cotton,Decline In Price,53.9,952.0,19507.0,1847.0
+1,Alabama,1,Autauga,2013,3,All Other Crops,Excess Moisture/Precip/Rain,41.646,7798.56,64158.27,12637.35
+1,Alabama,1,Autauga,2013,3,All Other Crops,Freeze,47.096,10542.56,77430.27,16271.85
+1,Alabama,1,Autauga,2013,5,Corn,Drought,44.8499999999999,7155.0,8856.0,1177.0
+1,Alabama,1,Autauga,2013,5,Wheat,Excess Moisture/Precip/Rain,203.1,3490.0,17921.0,1951.0
+1,Alabama,1,Autauga,2013,6,Corn,Excess Moisture/Precip/Rain,44.8499999999999,7155.0,8856.0,1177.0
+1,Alabama,1,Autauga,2013,6,Soybeans,Wildlife,29.58,860.199999999999,4748.44,778.6
+1,Alabama,1,Autauga,2013,7,All Other Crops,Excess Moisture/Precip/Rain,5.45,2744.0,13272.0,3634.5
+1,Alabama,1,Autauga,2013,7,Soybeans,Decline In Price,12.58,-1611.94,2276.3,280.159999999999
+1,Alabama,1,Autauga,2013,7,Soybeans,Wildlife,44.8399999999999,3281.74,6941.26,1231.24
+1,Alabama,1,Autauga,2013,8,All Other Crops,Area Plan Crops Only,28.45,162.0,1528.0,108.0
+1,Alabama,1,Autauga,2013,10,All Other Crops,Insufficient Chilling Hours,42.908,8034.88,66102.46,13020.3
+1,Alabama,1,Autauga,2013,11,All Other Crops,Area Plan Crops Only,28.45,29.0,1528.0,90.0
+1,Alabama,1,Autauga,2014,3,All Other Crops,Freeze,133.0,201502.0,118980.5,25034.5
+1,Alabama,1,Autauga,2014,4,Corn,Excess Moisture/Precip/Rain,28.6,2442.0,2442.0,864.0
+1,Alabama,1,Autauga,2014,6,Soybeans,Drought,41.0,1376.0,4129.0,525.0
+1,Alabama,1,Autauga,2014,7,Corn,Drought,48.41,4717.3,9029.2,1754.3
+1,Alabama,1,Autauga,2014,7,Peanuts,Drought,41.0,3599.0,14141.75,1272.0
+1,Alabama,1,Autauga,2014,8,Corn,Drought,30.65,3110.5,6358.0,1224.5
+1,Alabama,1,Autauga,2014,8,Corn,Wildlife,27.84,2328.2,5803.8,559.2
+1,Alabama,1,Autauga,2014,8,Cotton,Drought,57.273,2446.2,23659.7,2060.33
+1,Alabama,1,Autauga,2014,8,Peanuts,Drought,41.0,3599.0,16663.0,1533.0
+1,Alabama,1,Autauga,2014,9,All Other Crops,Area Plan Crops Only,0.0,3678.0,12861.0,531.0
+1,Alabama,1,Autauga,2014,9,Corn,Wildlife,16.0,1257.0,4023.0,206.0
+1,Alabama,1,Autauga,2014,9,Soybeans,Decline In Price,74.3,1204.0,10836.0,1377.0
+1,Alabama,1,Autauga,2014,11,Cotton,Decline In Price,1073.175,35451.4799999999,551146.11,49121.97
+1,Alabama,1,Autauga,2014,12,All Other Crops,Area Plan Crops Only,0.0,3821.0,14392.0,893.0
+1,Alabama,1,Autauga,2014,12,Cotton,Decline In Price,351.252,5314.32,188972.19,18938.7
+1,Alabama,1,Autauga,2015,4,Wheat,Drought,20.05,1583.97,2860.17,349.03
+1,Alabama,1,Autauga,2015,4,Wheat,Excess Moisture/Precip/Rain,282.4,162.0,54518.5,5039.5
+1,Alabama,1,Autauga,2015,4,Wheat,Insects,5.55,791.4,823.5,100.5
+1,Alabama,1,Autauga,2015,5,Corn,Wildlife,36.0,8471.0,8471.0,497.0
+1,Alabama,1,Autauga,2015,5,Wheat,Excess Moisture/Precip/Rain,309.8,2310.4,58425.7,5516.3
+1,Alabama,1,Autauga,2015,7,Soybeans,Drought,16.84,1360.0,2442.4,232.4
+1,Alabama,1,Autauga,2015,7,Wheat,Decline In Price,15.5,847.23,2177.13,265.67
+1,Alabama,1,Autauga,2015,8,Corn,Wildlife,26.1,3115.0,3147.0,673.0
+1,Alabama,1,Autauga,2015,11,Soybeans,Decline In Price,5.052,408.0,732.72,69.72
+1,Alabama,1,Autauga,2015,11,Soybeans,Excess Moisture/Precip/Rain,20.208,1632.0,2930.88,278.88
+1,Alabama,1,Autauga,2015,12,All Other Crops,Area Plan Crops Only,0.0,328.0,1531.0,89.0
+1,Alabama,1,Autauga,2016,1,All Other Crops,Insufficient Chilling Hours,9.55,2835.5,23935.5,6420.5
+1,Alabama,1,Autauga,2016,2,Wheat,Excess Moisture/Precip/Rain,44.166,4735.52,5131.62,694.28
+1,Alabama,1,Autauga,2016,3,All Other Crops,Freeze,4.775,1417.75,11967.75,3210.25
+1,Alabama,1,Autauga,2016,3,Wheat,Excess Moisture/Precip/Rain,42.235,4547.24,4925.9,663.93
+1,Alabama,1,Autauga,2016,4,All Other Crops,Freeze,6.579,29265.33,35515.38,9277.92
+1,Alabama,1,Autauga,2016,4,All Other Crops,Insufficient Chilling Hours,6.321,28117.67,34122.62,8914.08
+1,Alabama,1,Autauga,2016,5,Corn,Drought,31.05,4952.5,4952.5,1368.5
+1,Alabama,1,Autauga,2016,5,Wheat,Drought,22.011,2979.24,3172.62,346.17
+1,Alabama,1,Autauga,2016,6,Corn,Drought,313.075,19433.0,70116.5,11571.0
+1,Alabama,1,Autauga,2016,7,All Other Crops,Excess Moisture/Precip/Rain,4.775,1417.75,11967.75,3210.25
+1,Alabama,1,Autauga,2016,7,Corn,Drought,51.775,5596.5,14904.0,2894.0
+1,Alabama,1,Autauga,2016,7,Corn,Wildlife,11.85,1228.0,1228.0,333.5
+1,Alabama,1,Autauga,2016,7,Soybeans,Drought,7.5,966.5,995.5,154.5
+1,Alabama,1,Autauga,2016,7,Wheat,Decline In Price,21.488,1666.0,1862.86,337.62
+1,Alabama,1,Autauga,2016,8,All Other Crops,Area Plan Crops Only,0.0,456.0,1562.0,109.0
+1,Alabama,1,Autauga,2016,8,Cotton,Drought,103.0,1303.0,23669.0,2399.0
+1,Alabama,1,Autauga,2016,8,Soybeans,Drought,7.35,947.17,975.59,151.41
+1,Alabama,1,Autauga,2016,11,All Other Crops,Area Plan Crops Only,0.0,883.0,18297.0,1116.0
+1,Alabama,1,Autauga,2016,12,Soybeans,Decline In Price,0.15,19.33,19.91,3.09
+1,Alabama,1,Autauga,2017,1,All Other Crops,Insufficient Chilling Hours,54.22,63743.2,105004.2,29076.6
+1,Alabama,1,Autauga,2017,3,All Other Crops,Cold Winter,7.64,14476.0,18370.8,5221.6
+1,Alabama,1,Autauga,2017,3,All Other Crops,Freeze,38.84,14036.4,48594.0,13380.8
+1,Alabama,1,Autauga,2017,4,All Other Crops,Freeze,5.16,23487.2,25359.6,6982.8
+1,Alabama,1,Autauga,2017,5,Wheat,Excess Moisture/Precip/Rain,34.25,3039.75,3294.25,532.5
+1,Alabama,1,Autauga,2017,6,Soybeans,Excess Moisture/Precip/Rain,5.04,847.8,852.6,114.0
+1,Alabama,1,Autauga,2017,6,Wheat,Excess Moisture/Precip/Rain,54.8,4863.6,5270.8,852.0
+1,Alabama,1,Autauga,2017,7,Cotton,Area Plan Crops Only,770.4,24713.0,33852.0,14443.0
+1,Alabama,1,Autauga,2017,7,Soybeans,Excess Moisture/Precip/Rain,98.8,9544.0,9544.0,866.0
+1,Alabama,1,Autauga,2017,7,Wheat,Excess Moisture/Precip/Rain,47.9499999999999,4255.65,4611.95,745.5
+1,Alabama,1,Autauga,2017,8,Cotton,Excess Moisture/Precip/Rain,7.4,52.73,4104.52,361.29
+1,Alabama,1,Autauga,2017,8,Soybeans,Wildlife,3.36,565.2,568.4,76.0
+1,Alabama,1,Autauga,2017,9,Cotton,Excess Moisture/Precip/Rain,14.0,1663.5,3771.0,382.0
+1,Alabama,1,Autauga,2017,10,Cotton,Excess Moisture/Precip/Rain,14.0,1663.5,3771.0,382.0
+1,Alabama,1,Autauga,2017,11,All Other Crops,Area Plan Crops Only,0.0,93.0,1605.0,96.0
+1,Alabama,1,Autauga,2017,11,All Other Crops,Drought,23.24,14256.2,33482.4,9301.2
+1,Alabama,1,Autauga,2017,11,Wheat,Drought,105.0,3323.0,9494.0,547.0
+1,Alabama,1,Autauga,2017,12,Cotton,Decline In Price,732.6,5220.27,406347.48,35767.71
+1,Alabama,1,Autauga,2018,5,Soybeans,Excess Moisture/Precip/Rain,20.0,605.0,4728.0,227.0
+1,Alabama,1,Autauga,2018,10,Cotton,Excess Moisture/Precip/Rain,22.814,2606.44,9699.18,790.5
+1,Alabama,1,Autauga,2018,10,Peanuts,Excess Moisture/Precip/Rain,22.9,5453.5,6592.5,650.0
+1,Alabama,1,Autauga,2018,10,Soybeans,Excess Moisture/Precip/Rain,17.094,3114.54,3242.58,244.53
+1,Alabama,1,Autauga,2018,11,Cotton,Excess Moisture/Precip/Rain,22.143,2529.78,9413.91,767.25
+1,Alabama,1,Autauga,2018,11,Peanuts,Excess Moisture/Precip/Rain,22.9,5453.5,6592.5,650.0
+1,Alabama,1,Autauga,2018,11,Soybeans,Excess Moisture/Precip/Rain,17.612,3208.92,3340.84,251.94
+1,Alabama,1,Autauga,2018,12,Cotton,Excess Moisture/Precip/Rain,22.143,2529.78,9413.91,767.25
+1,Alabama,1,Autauga,2018,12,Soybeans,Excess Moisture/Precip/Rain,17.094,3114.54,3242.58,244.53
+1,Alabama,1,Autauga,2019,3,Peaches,Freeze,56.027,89477.0,88055.7099999999,25805.0
+1,Alabama,1,Autauga,2019,6,Corn,Drought,111.02,17086.0,25293.0,3696.0
+1,Alabama,1,Autauga,2019,6,Cotton,Drought,466.086,55929.57,185337.44,12321.47
+1,Alabama,1,Autauga,2019,6,Peanuts,Drought,143.3,49740.0,74657.0,8179.0
+1,Alabama,1,Autauga,2019,7,Cotton,Drought,91.8,13168.52,42351.78,2093.4
+1,Alabama,1,Autauga,2019,7,Cotton,Wildlife,11.13,522.5,5849.71,296.36
+1,Alabama,1,Autauga,2019,8,Cotton,Drought,369.022,20163.9,188038.6,13369.1
+1,Alabama,1,Autauga,2019,8,Peanuts,Drought,38.5,4819.0,15829.5,1844.5
+1,Alabama,1,Autauga,2019,8,Soybeans,Drought,20.15,4315.0,6280.5,343.5
+1,Alabama,1,Autauga,2019,9,All Other Crops,Area Plan Crops Only,656.85,1375.0,23698.0,991.0
+1,Alabama,1,Autauga,2019,9,Cotton,Drought,579.241,46973.75,303764.889999999,22131.76
+1,Alabama,1,Autauga,2019,9,Cotton,Heat,298.89,50921.0,158228.0,11207.0
+1,Alabama,1,Autauga,2019,9,Peanuts,Drought,38.5,4819.0,15829.5,1844.5
+1,Alabama,1,Autauga,2019,9,Soybeans,Drought,105.7,16144.5,22460.0,1626.0
+1,Alabama,1,Autauga,2019,9,Soybeans,Heat,85.55,11829.5,16179.5,1282.5
+1,Alabama,1,Autauga,2019,10,Cotton,Decline In Price,1059.92,48986.41,510658.87,26564.97
+1,Alabama,1,Autauga,2019,11,All Other Crops,Area Plan Crops Only,49.16,510.0,1221.0,71.0
+1,Alabama,1,Autauga,2019,11,Cotton,Decline In Price,159.2,6491.2,84255.0,5921.6
+1,Alabama,1,Autauga,2019,11,Wheat,Excess Moisture/Precip/Rain,390.54,6992.0,19976.0,467.0
+1,Alabama,1,Autauga,2019,12,All Other Crops,Area Plan Crops Only,656.85,1896.0,23698.0,1883.0
+1,Alabama,1,Autauga,2019,12,Cotton,Decline In Price,209.781,4638.15,65665.71,1946.34
+1,Alabama,1,Autauga,2020,1,All Other Crops,Area Plan Crops Only,3.4,15.0,444.0,40.0
+1,Alabama,1,Autauga,2020,1,All Other Crops,Insufficient Chilling Hours,7.7,3908.5,29231.0,8137.5
+1,Alabama,1,Autauga,2020,3,All Other Crops,Frost,7.7,3908.5,29231.0,8137.5
+1,Alabama,1,Autauga,2020,3,All Other Crops,Insufficient Chilling Hours,7.74,69099.6,73929.6,20842.8
+1,Alabama,1,Autauga,2020,4,All Other Crops,Frost,5.16,46066.4,49286.4,13895.2
+1,Alabama,1,Autauga,2020,5,Corn,Wildlife,30.0,439.0,5915.5,559.0
+1,Alabama,1,Autauga,2020,6,All Other Crops,Area Plan Crops Only,15.7,107.0,2049.0,121.0
+1,Alabama,1,Autauga,2020,6,Corn,Wildlife,9.0,1117.8,1774.65,167.7
+1,Alabama,1,Autauga,2020,7,Corn,Drought,8.1,1006.02,1597.185,150.93
+1,Alabama,1,Autauga,2020,8,Soybeans,Excess Moisture/Precip/Rain,5.4,663.6,606.6,99.0
+1,Alabama,1,Autauga,2020,8,Soybeans,Wildlife,30.0,3429.0,3369.6,549.6
+1,Alabama,1,Autauga,2020,9,All Other Crops,Hurricane/Tropical Depression,137.5,13596.5,18905.5,3567.0
+1,Alabama,1,Autauga,2020,9,Corn,Decline In Price,12.9,1602.18,2543.665,240.37
+1,Alabama,1,Autauga,2020,9,Cotton,Excess Moisture/Precip/Rain,38.925,1938.0,11519.0,819.0
+1,Alabama,1,Autauga,2020,9,Cotton,Hurricane/Tropical Depression,392.6,18962.0,220061.0,13658.0
+1,Alabama,1,Autauga,2020,9,Soybeans,Excess Moisture/Precip/Rain,3.6,442.4,404.4,66.0
+1,Alabama,1,Autauga,2020,9,Soybeans,Wildlife,13.0,1496.8,1460.2,238.2
+1,Alabama,1,Autauga,2020,10,All Other Crops,Hurricane/Tropical Depression,137.5,13596.5,18905.5,3567.0
+1,Alabama,1,Autauga,2020,10,Cotton,Hurricane/Tropical Depression,992.425,95015.0,495420.0,30128.0
+1,Alabama,1,Autauga,2020,10,Soybeans,Excess Moisture/Precip/Rain,7.0,789.2,786.2,128.2
+1,Alabama,1,Autauga,2020,11,All Other Crops,Area Plan Crops Only,2.1,15.0,274.0,17.0
+1,Alabama,1,Autauga,2021,2,All Other Crops,Area Plan Crops Only,16.5,72.0,1230.0,98.0
+1,Alabama,1,Autauga,2021,3,Corn,Excess Moisture/Precip/Rain,212.0,3784.0,92655.0,10019.0
+1,Alabama,1,Autauga,2021,4,All Other Crops,Area Plan Crops Only,11.6,563.0,1468.0,62.0
+1,Alabama,1,Autauga,2021,7,Cotton,Excess Moisture/Precip/Rain,30.702,2383.4,10524.7,801.38
+1,Alabama,1,Autauga,2021,8,Corn,Wildlife,81.3,7111.0,17375.0,2511.0
+1,Alabama,1,Autauga,2021,8,Cotton,Excess Moisture/Precip/Rain,29.799,2313.3,10215.15,777.81
+1,Alabama,1,Autauga,2021,9,Cotton,Excess Moisture/Precip/Rain,29.799,2313.3,10215.15,777.81
+1,Alabama,1,Autauga,2022,2,All Other Crops,Area Plan Crops Only,49.0,49.0,8.25,97.0
+1,Alabama,1,Autauga,2022,3,All Other Crops,Freeze,56083.0,107415.0,23.12,87628.0
+1,Alabama,1,Autauga,2022,6,Corn,Drought,19934.92,43208.62,326.222,25888.52
+1,Alabama,1,Autauga,2022,6,Corn,Heat,12694.04,102160.69,330.379,20928.24
+1,Alabama,1,Autauga,2022,6,Cotton,Area Plan Crops Only,189051.0,82924.0,0.0,236315.0
+1,Alabama,1,Autauga,2022,6,Cotton,Drought,294.7,1291.3,8.528,368.4
+1,Alabama,1,Autauga,2022,7,Corn,Drought,1481.04,9303.69,39.039,1923.24
+1,Alabama,1,Autauga,2022,9,All Other Crops,Area Plan Crops Only,1556.0,8478.0,391.45,2880.0
+1,Alabama,1,Autauga,2022,10,Cotton,Decline In Price,34822.16,77387.84,923.132,44884.0399999999
+1,Alabama,1,Autauga,2022,11,Cotton,Excess Moisture/Precip/Rain,326.14,311.86,6.3,423.56
+1,Alabama,1,Autauga,2022,12,All Other Crops,Area Plan Crops Only,2040.0,11046.0,328.5,3710.0
+1,Alabama,1,Autauga,2023,1,All Other Crops,Area Plan Crops Only,2339.0,6570.0,338.525,4297.0
+1,Alabama,1,Autauga,2023,2,All Other Crops,Area Plan Crops Only,137.0,321.0,23.1,268.0
+1,Alabama,1,Autauga,2023,3,All Other Crops,Freeze,48156.0,162903.0,11.02,75244.0
+1,Alabama,1,Autauga,2023,5,Corn,Drought,2861.0,16185.5,66.75,3715.5
+1,Alabama,1,Autauga,2023,6,Corn,Drought,2861.0,16185.5,66.75,3715.5
+1,Alabama,1,Autauga,2023,7,Cotton,Drought,2361.0,1567.5,61.9,4292.5
+1,Alabama,1,Autauga,2023,8,All Other Crops,Drought,2948.0,11715.0,65.55,3685.5
+1,Alabama,1,Autauga,2023,8,All Other Crops,Heat,2948.0,11715.0,65.55,3685.5
+1,Alabama,1,Autauga,2023,8,Cotton,Drought,62227.5,233998.5,1539.14,81665.0
+1,Alabama,1,Autauga,2023,8,Cotton,Heat,38306.5,166030.0,873.0,49371.5
+1,Alabama,1,Autauga,2023,8,Peanuts,Drought,3728.5,11016.5,52.3,4660.5
+1,Alabama,1,Autauga,2023,8,Peanuts,Heat,3728.5,11016.5,52.3,4660.5
+1,Alabama,1,Autauga,2023,8,Soybeans,Drought,5295.0,39210.0,138.15,6877.0
+1,Alabama,1,Autauga,2023,12,All Other Crops,Area Plan Crops Only,281.0,1620.0,79.085,552.0
+1,Alabama,1,Autauga,2024,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,2692.0,10738.0,348.525,4985.0
+1,Alabama,1,Autauga,2024,2,All Other Crops,Area Plan Crops Only,708.0,4435.0,60.8,1388.0
+1,Alabama,1,Autauga,2024,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,135.0,1014.0,23.1,265.0
+1,Alabama,1,Autauga,2024,6,Corn,Drought,25758.1,68668.3,531.792,33575.9
+1,Alabama,1,Autauga,2024,6,Corn,Heat,469.5,5183.5,20.6,733.5
+1,Alabama,1,Autauga,2024,6,Cotton,Drought,33480.0,114522.0,936.9,43478.0
+1,Alabama,1,Autauga,2024,7,All Other Crops,Area Plan Crops Only,155.0,7.0,18.0,303.0
+1,Alabama,1,Autauga,2024,7,Corn,Heat,3552.0,46808.8,153.408,6457.6
+1,Alabama,1,Autauga,2024,8,Corn,Decline In Price,2602.4,21550.4,80.9,3841.0
+1,Alabama,1,Autauga,2024,8,Corn,Drought,4185.0,27786.5,111.9,5434.0
+1,Alabama,1,Autauga,2024,8,Corn,Heat,4185.0,27786.5,111.9,5434.0
+1,Alabama,1,Autauga,2024,8,Cotton,Drought,30097.63,113866.97,1032.922,40248.7
+1,Alabama,1,Autauga,2024,8,Cotton,Heat,23865.4,17834.3,683.98,30911.7
+1,Alabama,1,Autauga,2024,8,Peanuts,Drought,4672.5,31773.5,48.5,6068.0
+1,Alabama,1,Autauga,2024,8,Peanuts,Heat,4672.5,31773.5,48.5,6068.0
+1,Alabama,1,Autauga,2024,10,All Other Crops,Area Plan Crops Only,157.0,1016.0,21.4,309.0
+1,Alabama,1,Autauga,2024,10,Cotton,Decline In Price,380.0,272.0,19.35,644.0
+1,Alabama,1,Autauga,2024,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,2927.0,19615.0,661.215,5565.0
+1,Alabama,1,Autauga,2024,11,All Other Crops,Area Plan Crops Only,286.0,1138.0,32.7,559.0
+1,Alabama,1,Autauga,2024,11,Cotton,Decline In Price,17427.97,53627.73,561.548,23758.6
+1,Alabama,1,Autauga,2024,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,2532.0,19935.0,375.74,4813.0
+1,Alabama,1,Autauga,2025,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,2599.0,19127.0,77.5,5096.0
+1,Alabama,1,Autauga,2025,2,All Other Crops,Area Plan Crops Only,907.0,4368.0,78.1,1778.0
+1,Alabama,1,Autauga,2025,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,2136.0,12233.0,74.1275,3884.0
+1,Alabama,1,Autauga,2025,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,3033.0,15064.0,240.796,5946.0
+1,Alabama,1,Autauga,2025,5,All Other Crops,Area Plan Crops Only,187.0,1229.0,27.5,366.0
+1,Alabama,1,Autauga,2025,5,Corn,Excess Moisture/Precip/Rain,2755.2,14757.1,87.762,4865.7
+1,Alabama,1,Autauga,2025,5,Peanuts,Excess Moisture/Precip/Rain,1900.0,3800.0,20.0,2467.5
+1,Alabama,1,Autauga,2025,6,All Other Crops,Area Plan Crops Only,372.0,979.0,44.0,731.0
+1,Alabama,1,Autauga,2025,6,Corn,Drought,479.5,2040.5,11.7,622.5
+1,Alabama,1,Autauga,2025,6,Corn,Excess Moisture/Precip/Rain,2367.8,13023.9,76.918,4209.3
+1,Alabama,1,Autauga,2025,6,Cotton,Excess Moisture/Precip/Rain,12531.0,118986.0,419.9,22782.0
+1,Alabama,1,Autauga,2025,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,769.0,3127.0,163.296,1508.0
+1,Alabama,1,Autauga,2025,8,Corn,Drought,479.5,2040.5,11.7,622.5
+1,Alabama,1,Autauga,2025,8,Peanuts,Drought,17627.5,20161.5,192.6,22893.25
+1,Alabama,1,Autauga,2025,9,Cotton,Drought,37.7,18.98,1.382,68.54
+1,Alabama,1,Autauga,2025,9,Peanuts,Drought,17627.5,20161.5,192.6,22893.25
+1,Alabama,1,Autauga,2025,11,Cotton,Decline In Price,1847.3,930.02,67.718,3358.46
+1,Alabama,1,Autauga,2025,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,1201.0,6348.0,197.061,2275.0
+1,Alabama,1,Autauga,2025,12,All Other Crops,Area Plan Crops Only,378.0,2220.0,42.9,741.0
+1,Alabama,1,Autauga,2025,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,5334.0,40721.0,712.4035,9934.0
+1,Alabama,3,Baldwin,1989,Unspecified,Corn,Drought,18.7,671.0,1894.0,70.0
+1,Alabama,3,Baldwin,1989,Unspecified,Fresh Market Sweet Corn,Tornado,50.0,19288.0,20000.0,540.0
+1,Alabama,3,Baldwin,1989,Unspecified,Potatoes,Excess Moisture/Precip/Rain,16.04,4484.75,4846.1,146.4
+1,Alabama,3,Baldwin,1989,Unspecified,Potatoes,Freeze,5.4,1078.64999999999,1374.3,57.6
+1,Alabama,3,Baldwin,1989,Unspecified,Potatoes,Heat,2.36,791.6,791.6,19.0
+1,Alabama,3,Baldwin,1989,Unspecified,Soybeans,Drought,153.42,5733.4,18018.6,416.799998999999
+1,Alabama,3,Baldwin,1989,Unspecified,Soybeans,Excess Moisture/Precip/Rain,394.28,12751.6,44615.4,1130.2
+1,Alabama,3,Baldwin,1989,Unspecified,Wheat,Drought,84.0,594.3,5922.0,70.7
+1,Alabama,3,Baldwin,1989,Unspecified,Wheat,Freeze,170.64,7490.2,13258.8,160.4
+1,Alabama,3,Baldwin,1989,Unspecified,Wheat,Insects,725.56,30538.5,55928.2,678.3
+1,Alabama,3,Baldwin,1989,Unspecified,Wheat,Plant Disease,28.0,1292.0,1420.0,25.6
+1,Alabama,3,Baldwin,1989,5,Corn,Insects,52.9,3169.0,7152.0,208.0
+1,Alabama,3,Baldwin,1989,6,Cotton,Excess Moisture/Precip/Rain,30.8,2181.0,5895.0,154.0
+1,Alabama,3,Baldwin,1989,6,Soybeans,Excess Moisture/Precip/Rain,164.4,3492.0,41277.0,1954.0
+1,Alabama,3,Baldwin,1989,7,Soybeans,Excess Moisture/Precip/Rain,57.0,1055.0,29844.0,1511.0
+1,Alabama,3,Baldwin,1989,10,Soybeans,Drought,386.3,7648.0,72881.0,1332.0
+1,Alabama,3,Baldwin,1989,10,Wheat,Freeze,237.0,7443.0,14361.0,244.0
+1,Alabama,3,Baldwin,1990,Unspecified,Potatoes,Excess Moisture/Precip/Rain,533.7,136104.0,303888.75,7109.25
+1,Alabama,3,Baldwin,1990,Unspecified,Potatoes,Heat,227.95,47951.7,130531.75,3057.85
+1,Alabama,3,Baldwin,1990,Unspecified,Potatoes,Other,21.45,1107.3,12529.5,294.9
+1,Alabama,3,Baldwin,1990,Unspecified,Potatoes,Plant Disease,103.0,4232.0,68845.0,1583.0
+1,Alabama,3,Baldwin,1990,Unspecified,Soybeans,Drought,1079.2,60472.0,106868.0,2927.0
+1,Alabama,3,Baldwin,1990,Unspecified,Wheat,Excess Moisture/Precip/Rain,510.46,9779.0,40579.4,567.4
+1,Alabama,3,Baldwin,1990,Unspecified,Wheat,Insects,574.94,10174.2,43914.6,666.0
+1,Alabama,3,Baldwin,1990,Unspecified,Wheat,Plant Disease,27.0,1231.8,1677.0,33.6
+1,Alabama,3,Baldwin,1990,3,Corn,Drought,148.0,8554.0,45342.0,1306.0
+1,Alabama,3,Baldwin,1990,3,Corn,Excess Moisture/Precip/Rain,56.2,1035.0,8278.0,277.0
+1,Alabama,3,Baldwin,1990,3,Wheat,Insects,534.98,3482.0,28408.0,680.0
+1,Alabama,3,Baldwin,1990,5,Wheat,Cold Wet Weather,756.0,31712.0,43710.0,472.5
+1,Alabama,3,Baldwin,1990,5,Wheat,Insects,130.0,12652.0,43710.0,472.5
+1,Alabama,3,Baldwin,1990,6,Potatoes,Heat,45.0,25416.0,28665.0,917.0
+1,Alabama,3,Baldwin,1990,6,Wheat,Plant Disease,651.1,11317.0,58635.0,680.0
+1,Alabama,3,Baldwin,1990,8,Corn,Drought,583.7,14208.0,79476.0,2291.0
+1,Alabama,3,Baldwin,1990,8,Soybeans,Excess Moisture/Precip/Rain,62.0,1032.0,9596.0,579.0
+1,Alabama,3,Baldwin,1990,9,Corn,Wind/Excess Wind,20.0,936.0,2125.0,79.0
+1,Alabama,3,Baldwin,1990,9,Potatoes,Heat,39.8,15574.0,26868.0,860.0
+1,Alabama,3,Baldwin,1990,10,Potatoes,Heat,15.0,8440.0,8440.0,271.0
+1,Alabama,3,Baldwin,1990,10,Soybeans,Drought,970.5,38988.0,121808.0,2462.0
+1,Alabama,3,Baldwin,1990,11,Cotton,Drought,76.6,3160.0,19948.0,427.0
+1,Alabama,3,Baldwin,1990,11,Soybeans,Drought,190.0,6615.0,9518.0,610.0
+1,Alabama,3,Baldwin,1990,12,Soybeans,Drought,170.2,6034.0,9257.0,558.0
+1,Alabama,3,Baldwin,1990,12,Wheat,Excess Moisture/Precip/Rain,134.0,2565.0,11423.0,161.0
+1,Alabama,3,Baldwin,1991,Unspecified,Corn,Excess Moisture/Precip/Rain,93.2,9646.0,10739.0,415.0
+1,Alabama,3,Baldwin,1991,Unspecified,Wheat,Excess Moisture/Precip/Rain,134.7,4294.0,6297.0,147.0
+1,Alabama,3,Baldwin,1991,3,Corn,Excess Moisture/Precip/Rain,51.8,952.0,27099.333333,927.0
+1,Alabama,3,Baldwin,1991,3,Potatoes,Excess Moisture/Precip/Rain,14.0,4889.0,5897.0,159.0
+1,Alabama,3,Baldwin,1991,4,Corn,Excess Moisture/Precip/Rain,36.7,3233.0,4339.0,168.0
+1,Alabama,3,Baldwin,1991,4,Corn,Wildlife,86.5,589.0,6863.5,199.0
+1,Alabama,3,Baldwin,1991,4,Fresh Market Sweet Corn,Tornado,20.0,5369.0,8700.0,235.0
+1,Alabama,3,Baldwin,1991,4,Potatoes,Excess Moisture/Precip/Rain,641.2,239179.0,413935.0,13151.0
+1,Alabama,3,Baldwin,1991,5,Corn,Excess Moisture/Precip/Rain,172.2,4794.0,12681.5,435.0
+1,Alabama,3,Baldwin,1991,5,Fresh Market Sweet Corn,Excess Moisture/Precip/Rain,20.0,8700.0,8700.0,235.0
+1,Alabama,3,Baldwin,1991,5,Fresh Market Sweet Corn,Tornado,144.0,37275.0,61763.0,1667.0
+1,Alabama,3,Baldwin,1991,5,Potatoes,Excess Moisture/Precip/Rain,1087.7,498807.0,608824.0,18767.0
+1,Alabama,3,Baldwin,1991,5,Wheat,Excess Moisture/Precip/Rain,927.4,41637.0,68655.0,990.0
+1,Alabama,3,Baldwin,1991,6,Corn,Excess Moisture/Precip/Rain,681.5,42803.0,59580.666666,2052.0
+1,Alabama,3,Baldwin,1991,6,Cotton,Excess Moisture/Precip/Rain,22.4,1662.0,4358.0,148.0
+1,Alabama,3,Baldwin,1991,6,Cotton,Freeze,29.45,5788.5,6371.5,197.5
+1,Alabama,3,Baldwin,1991,6,Potatoes,Excess Moisture/Precip/Rain,33.0,11074.0,14671.0,441.0
+1,Alabama,3,Baldwin,1991,6,Potatoes,Heat,23.0,10776.0,10776.0,302.0
+1,Alabama,3,Baldwin,1991,6,Wheat,Excess Moisture/Precip/Rain,268.3,15348.0,19236.0,308.0
+1,Alabama,3,Baldwin,1991,7,Corn,Excess Moisture/Precip/Rain,142.6,95.0,23016.0,697.0
+1,Alabama,3,Baldwin,1991,7,Cotton,Excess Moisture/Precip/Rain,38.0,3123.0,9307.0,316.0
+1,Alabama,3,Baldwin,1991,8,Corn,Excess Moisture/Precip/Rain,127.2,11793.0,15077.0,630.0
+1,Alabama,3,Baldwin,1991,8,Soybeans,Excess Moisture/Precip/Rain,11.2,727.0,844.0,29.0
+1,Alabama,3,Baldwin,1991,9,Corn,Excess Moisture/Precip/Rain,85.1,6257.0,8856.0,399.0
+1,Alabama,3,Baldwin,1991,10,Cotton,Excess Moisture/Precip/Rain,29.45,5788.5,6371.5,197.5
+1,Alabama,3,Baldwin,1991,11,Cotton,Excess Moisture/Precip/Rain,75.0,6473.0,14399.0,490.0
+1,Alabama,3,Baldwin,1991,11,Cotton,Freeze,68.0,3592.0,16510.0,562.0
+1,Alabama,3,Baldwin,1992,2,Potatoes,Excess Moisture/Precip/Rain,9.6,4744.8,6145.5,233.7
+1,Alabama,3,Baldwin,1992,3,Potatoes,Drought,23.75,7926.5,15203.75,492.75
+1,Alabama,3,Baldwin,1992,5,Corn,Drought,71.9,2886.0,4914.0,278.0
+1,Alabama,3,Baldwin,1992,5,Cotton,Drought,112.7,25694.0,27891.0,921.0
+1,Alabama,3,Baldwin,1992,5,Potatoes,Drought,33.66,15214.2,18237.0,729.6
+1,Alabama,3,Baldwin,1992,5,Potatoes,Plant Disease,380.95,77575.7,231749.75,8142.55
+1,Alabama,3,Baldwin,1992,6,Cotton,Excess Moisture/Precip/Rain,33.0,4046.0,6160.0,244.0
+1,Alabama,3,Baldwin,1992,6,Potatoes,Plant Disease,819.84,180937.8,445029.0,17608.4
+1,Alabama,3,Baldwin,1992,6,Soybeans,Drought,69.2,1144.0,51866.0,1260.0
+1,Alabama,3,Baldwin,1992,7,Corn,Excess Moisture/Precip/Rain,145.7,12556.0,19458.0,681.0
+1,Alabama,3,Baldwin,1992,10,Corn,Drought,196.2,3643.0,32852.0,1035.0
+1,Alabama,3,Baldwin,1992,11,Soybeans,Excess Moisture/Precip/Rain,518.9,13149.0,72591.0,1601.0
+1,Alabama,3,Baldwin,1992,12,Soybeans,Excess Moisture/Precip/Rain,140.2,9840.0,10219.0,500.0
+1,Alabama,3,Baldwin,1993,3,Potatoes,Freeze,165.6,91456.0,141224.0,6213.0
+1,Alabama,3,Baldwin,1993,3,Wheat,Plant Disease,33.0,1368.0,1803.0,50.0
+1,Alabama,3,Baldwin,1993,5,Potatoes,Heat,27.0,22198.0,27672.0,996.0
+1,Alabama,3,Baldwin,1993,6,Corn,Drought,401.9,36897.0,61889.0,2075.0
+1,Alabama,3,Baldwin,1993,6,Corn,Heat,77.0,7294.0,9872.0,293.0
+1,Alabama,3,Baldwin,1993,6,Potatoes,Drought,260.4,85752.4,169105.8,6406.4
+1,Alabama,3,Baldwin,1993,6,Potatoes,Heat,26.0,9299.59999999999,19198.4,691.4
+1,Alabama,3,Baldwin,1993,6,Wheat,Excess Moisture/Precip/Rain,100.0,2008.0,4680.0,143.0
+1,Alabama,3,Baldwin,1993,6,Wheat,Other,108.0,4807.0,6537.0,185.0
+1,Alabama,3,Baldwin,1993,7,Corn,Drought,202.8,17739.0,30213.0,997.0
+1,Alabama,3,Baldwin,1993,7,Potatoes,Heat,4.6,2284.0,3278.8,144.2
+1,Alabama,3,Baldwin,1993,7,Soybeans,Drought,252.3,9638.0,36755.0,826.0
+1,Alabama,3,Baldwin,1993,8,Soybeans,Drought,88.4,5076.0,14763.0,281.0
+1,Alabama,3,Baldwin,1994,Unspecified,Wheat,Plant Disease,25.2,0.0,2129.4,46.8
+1,Alabama,3,Baldwin,1994,2,Potatoes,Cold Wet Weather,9.5,6444.0,8792.0,378.0
+1,Alabama,3,Baldwin,1994,4,Wheat,Excess Moisture/Precip/Rain,159.18,4402.5,11966.0,304.2
+1,Alabama,3,Baldwin,1994,4,Wheat,Plant Disease,171.82,3897.5,14467.6,315.0
+1,Alabama,3,Baldwin,1994,5,Wheat,Excess Moisture/Precip/Rain,54.0,1971.9,4001.4,103.5
+1,Alabama,3,Baldwin,1994,5,Wheat,Plant Disease,6.0,219.1,444.6,11.5
+1,Alabama,3,Baldwin,1994,6,Corn,Excess Moisture/Precip/Rain,5.6,150.0,621.2,26.0
+1,Alabama,3,Baldwin,1994,7,Cotton,Excess Moisture/Precip/Rain,209.2,18216.0,62222.0,1875.0
+1,Alabama,3,Baldwin,1994,7,Soybeans,Excess Moisture/Precip/Rain,74.0,4749.0,11481.0,229.0
+1,Alabama,3,Baldwin,1994,9,Corn,Wind/Excess Wind,8.4,225.0,931.8,39.0
+1,Alabama,3,Baldwin,1995,1,Oats,Plant Disease,125.2,959.0,1089.0,176.0
+1,Alabama,3,Baldwin,1995,2,Oats,Plant Disease,248.8,5075.0,5814.0,287.0
+1,Alabama,3,Baldwin,1995,3,Oats,Excess Moisture/Precip/Rain,60.0,1775.0,1775.0,77.0
+1,Alabama,3,Baldwin,1995,3,Oats,Plant Disease,73.6,1857.0,1857.0,85.0
+1,Alabama,3,Baldwin,1995,3,Wheat,Excess Moisture/Precip/Rain,243.765,8201.65,17928.15,729.2
+1,Alabama,3,Baldwin,1995,4,Potatoes,Excess Moisture/Precip/Rain,3.0,620.0,918.0,106.0
+1,Alabama,3,Baldwin,1995,4,Potatoes,Heat,25.0,4607.0,19763.0,1739.0
+1,Alabama,3,Baldwin,1995,4,Wheat,Drought,113.0,1848.0,5905.0,255.0
+1,Alabama,3,Baldwin,1995,4,Wheat,Excess Moisture/Precip/Rain,42.3,1368.6,1615.8,94.8
+1,Alabama,3,Baldwin,1995,4,Wheat,Plant Disease,792.135,7848.35,38989.85,1984.8
+1,Alabama,3,Baldwin,1995,4,Wheat,Wind/Excess Wind,28.2,912.4,1077.2,63.2
+1,Alabama,3,Baldwin,1995,5,Corn,Excess Moisture/Precip/Rain,5.0,806.0,806.0,44.0
+1,Alabama,3,Baldwin,1995,5,Fresh Market Sweet Corn,Excess Moisture/Precip/Rain,2.5,750.0,750.0,57.0
+1,Alabama,3,Baldwin,1995,5,Oats,Excess Moisture/Precip/Rain,49.98,210.7,457.1,58.8
+1,Alabama,3,Baldwin,1995,5,Oats,Plant Disease,191.12,1524.3,1990.9,244.2
+1,Alabama,3,Baldwin,1995,5,Potatoes,Excess Moisture/Precip/Rain,10.0,4322.0,7574.0,600.0
+1,Alabama,3,Baldwin,1995,5,Potatoes,Plant Disease,167.2,37902.0,100904.0,6357.0
+1,Alabama,3,Baldwin,1995,5,Wheat,Drought,180.3,1092.0,3624.0,466.0
+1,Alabama,3,Baldwin,1995,5,Wheat,Plant Disease,140.5,5459.0,11842.0,446.0
+1,Alabama,3,Baldwin,1995,6,Corn,Drought,44.5,706.0,2584.0,209.0
+1,Alabama,3,Baldwin,1995,6,Potatoes,Plant Disease,146.0,37978.0,117969.0,7201.0
+1,Alabama,3,Baldwin,1995,6,Wheat,Excess Moisture/Precip/Rain,70.3,528.0,5792.0,270.0
+1,Alabama,3,Baldwin,1995,6,Wheat,No Indemnity,389.2,0.0,7431.0,956.0
+1,Alabama,3,Baldwin,1995,7,Corn,Excess Moisture/Precip/Rain,21.2,1512.4,2250.8,125.2
+1,Alabama,3,Baldwin,1995,7,Corn,Heat,36.8,2545.6,3683.2,212.8
+1,Alabama,3,Baldwin,1995,7,Cotton,Drought,510.2975,55171.25,141882.75,6592.75
+1,Alabama,3,Baldwin,1995,8,Corn,Drought,90.4,3412.0,3784.0,447.0
+1,Alabama,3,Baldwin,1995,8,Corn,Hurricane/Tropical Depression,98.3,3848.0,3849.0,433.0
+1,Alabama,3,Baldwin,1995,8,Corn,Wind/Excess Wind,14.1,1022.0,1384.0,77.0
+1,Alabama,3,Baldwin,1995,8,Cotton,Hurricane/Tropical Depression,1517.5025,156655.41,370957.65,19845.39
+1,Alabama,3,Baldwin,1995,9,Cotton,Hurricane/Tropical Depression,473.15,76256.34,137143.6,6014.76
+1,Alabama,3,Baldwin,1995,9,Soybeans,Plant Disease,88.0,4674.0,13068.0,402.0
+1,Alabama,3,Baldwin,1995,10,Corn,Hurricane/Tropical Depression,5.0,277.0,307.0,25.0
+1,Alabama,3,Baldwin,1995,10,Cotton,Hurricane/Tropical Depression,1358.85,84735.0,361661.0,17622.1
+1,Alabama,3,Baldwin,1995,11,Cotton,Wind/Excess Wind,33.0,3518.0,8408.0,383.0
+1,Alabama,3,Baldwin,1996,Unspecified,Corn,Freeze,29.0,0.0,7487.5,339.5
+1,Alabama,3,Baldwin,1996,Unspecified,Soybeans,Excess Moisture/Precip/Rain,473.4,0.0,33895.5,1275.0
+1,Alabama,3,Baldwin,1996,2,Potatoes,Freeze,79.5,68867.0,68867.0,4166.0
+1,Alabama,3,Baldwin,1996,3,Corn,Freeze,65.5,1389.0,7487.5,339.5
+1,Alabama,3,Baldwin,1996,3,Potatoes,Freeze,45.5,11535.0,40222.0,2433.0
+1,Alabama,3,Baldwin,1996,4,Potatoes,Plant Disease,10.0,6303.0,7072.0,563.0
+1,Alabama,3,Baldwin,1996,5,Potatoes,Heat,14.0,1607.0,9826.0,594.0
+1,Alabama,3,Baldwin,1996,6,Corn,Heat,36.0,1660.2,1660.2,183.6
+1,Alabama,3,Baldwin,1996,6,Cotton,Drought,114.64,4777.9,40518.1,1805.0
+1,Alabama,3,Baldwin,1996,6,Soybeans,Excess Moisture/Precip/Rain,25.0,506.0,33895.5,1275.0
+1,Alabama,3,Baldwin,1996,7,Corn,Drought,39.0,2530.8,2685.8,223.4
+1,Alabama,3,Baldwin,1996,7,Cotton,Excess Moisture/Precip/Rain,14.0,1427.0,4137.0,212.0
+1,Alabama,3,Baldwin,1996,7,Cotton,Hail,312.9,34646.0,101173.0,4687.0
+1,Alabama,3,Baldwin,1996,7,Cotton,Wildlife,35.8,2108.5,11465.5,521.0
+1,Alabama,3,Baldwin,1996,7,Cotton,Wind/Excess Wind,52.56,1779.6,19368.4,856.0
+1,Alabama,3,Baldwin,1996,7,Potatoes,Heat,32.5,8965.0,16741.0,1423.0
+1,Alabama,3,Baldwin,1996,8,Cotton,Excess Moisture/Precip/Rain,64.0,12976.0,21281.0,959.0
+1,Alabama,3,Baldwin,1996,8,Cotton,Hail,112.0,22166.0,43298.0,1914.0
+1,Alabama,3,Baldwin,1996,9,Cotton,Hail,100.0,33331.0,35912.0,1588.0
+1,Alabama,3,Baldwin,1996,10,Cotton,Excess Moisture/Precip/Rain,108.1,10634.0,27020.0,1615.0
+1,Alabama,3,Baldwin,1997,4,Cotton,Excess Moisture/Precip/Rain,30.6,6640.2,6640.2,372.81
+1,Alabama,3,Baldwin,1997,4,Wheat,Plant Disease,34.4,1158.0,1827.0,92.0
+1,Alabama,3,Baldwin,1997,5,Cotton,Cold Wet Weather,13.8,4233.0,5265.0,187.2
+1,Alabama,3,Baldwin,1997,5,Potatoes,Plant Disease,37.0,38245.0,38245.0,2082.0
+1,Alabama,3,Baldwin,1997,5,Wheat,Excess Moisture/Precip/Rain,73.3,890.0,5332.0,254.0
+1,Alabama,3,Baldwin,1997,5,Wheat,Plant Disease,195.3,0.0,2841.0,593.0
+1,Alabama,3,Baldwin,1997,6,Corn,Excess Moisture/Precip/Rain,15.0,679.0,2389.0,108.0
+1,Alabama,3,Baldwin,1997,6,Cotton,Excess Moisture/Precip/Rain,178.2,21698.4,50533.2,2300.39999999999
+1,Alabama,3,Baldwin,1997,6,Potatoes,Excess Moisture/Precip/Rain,50.0,59254.0,59254.0,3584.0
+1,Alabama,3,Baldwin,1997,6,Potatoes,Insects,30.0,9888.0,20670.0,1302.0
+1,Alabama,3,Baldwin,1997,6,Soybeans,Excess Moisture/Precip/Rain,118.38,4342.8,13251.0,576.6
+1,Alabama,3,Baldwin,1997,7,Corn,Hurricane/Tropical Depression,120.4,7215.0,11244.0,704.0
+1,Alabama,3,Baldwin,1997,7,Cotton,Excess Moisture/Precip/Rain,425.0,61643.0,137313.0,6950.0
+1,Alabama,3,Baldwin,1997,7,Cotton,Hurricane/Tropical Depression,400.0,41919.0,107784.0,5664.0
+1,Alabama,3,Baldwin,1997,7,Soybeans,Drought,29.625,135.75,885.75,126.0
+1,Alabama,3,Baldwin,1997,7,Soybeans,Hurricane/Tropical Depression,1235.228,37535.3699999999,91386.4599999999,5695.77
+1,Alabama,3,Baldwin,1997,7,Soybeans,Wildlife,9.875,45.25,295.25,42.0
+1,Alabama,3,Baldwin,1997,8,Cotton,Drought,197.69,29771.6,66889.4,3090.39999999999
+1,Alabama,3,Baldwin,1997,8,Soybeans,Drought,260.0,11857.0,21679.0,1245.0
+1,Alabama,3,Baldwin,1997,9,Cotton,Excess Moisture/Precip/Rain,34.0,2158.0,11771.2,531.6
+1,Alabama,3,Baldwin,1997,9,Cotton,Wildlife,29.4,6379.8,6379.8,358.19
+1,Alabama,3,Baldwin,1997,9,Nursery (Container),Tornado,3.0,1014.0,22984.0,253.0
+1,Alabama,3,Baldwin,1997,10,Cotton,Drought,118.8,14465.6,33688.8,1533.6
+1,Alabama,3,Baldwin,1997,10,Soybeans,Drought,110.771999999999,12297.63,15939.5399999999,598.23
+1,Alabama,3,Baldwin,1997,10,Soybeans,Hurricane/Tropical Depression,78.92,2895.2,8834.0,384.4
+1,Alabama,3,Baldwin,1997,11,Cotton,Excess Moisture/Precip/Rain,3.66,728.4,932.4,42.8
+1,Alabama,3,Baldwin,1998,1,Wheat,Excess Moisture/Precip/Rain,77.0,739.2,2866.5,193.2
+1,Alabama,3,Baldwin,1998,3,Potatoes,Excess Moisture/Precip/Rain,266.0,206083.0,301451.0,18233.0
+1,Alabama,3,Baldwin,1998,4,Wheat,Drought,33.0,316.8,1228.5,82.8
+1,Alabama,3,Baldwin,1998,5,Corn,Drought,156.2,13024.6,17581.2,991.9
+1,Alabama,3,Baldwin,1998,5,Cotton,Drought,1242.89,342580.4,407093.5,18437.1
+1,Alabama,3,Baldwin,1998,5,Potatoes,Drought,15.0,5679.6,14170.8,1127.4
+1,Alabama,3,Baldwin,1998,5,Potatoes,Heat,30.0,30931.0,30931.0,1871.0
+1,Alabama,3,Baldwin,1998,5,Soybeans,Drought,50.0,900.0,27684.0,1338.0
+1,Alabama,3,Baldwin,1998,6,Corn,Drought,110.3,4476.0,12398.0,684.0
+1,Alabama,3,Baldwin,1998,6,Corn,Heat,71.8,6049.4,8158.79999999999,454.1
+1,Alabama,3,Baldwin,1998,6,Potatoes,Heat,359.0,178917.4,309219.2,19423.6
+1,Alabama,3,Baldwin,1998,6,Soybeans,Drought,432.6,24914.4,113420.4,4349.8
+1,Alabama,3,Baldwin,1998,6,Soybeans,Heat,21.5,387.0,13932.0,512.6
+1,Alabama,3,Baldwin,1998,7,Corn,Drought,72.6,6265.0,10366.0,499.0
+1,Alabama,3,Baldwin,1998,7,Soybeans,Drought,114.0,3379.8,6771.6,432.6
+1,Alabama,3,Baldwin,1998,8,Cotton,Hurricane/Tropical Depression,141.0,16573.0,30221.0,1711.0
+1,Alabama,3,Baldwin,1998,8,Soybeans,Hurricane/Tropical Depression,100.0,6557.0,9600.0,368.0
+1,Alabama,3,Baldwin,1998,9,Cotton,Drought,25.2,5355.7,7389.9,385.0
+1,Alabama,3,Baldwin,1998,9,Cotton,Excess Moisture/Precip/Rain,54.0,11470.0,14159.0,646.0
+1,Alabama,3,Baldwin,1998,9,Cotton,Hurricane/Tropical Depression,6356.11,1571241.9,2020720.6,90765.9
+1,Alabama,3,Baldwin,1998,9,Soybeans,Hurricane/Tropical Depression,1096.0,21174.8,91925.0,4969.0
+1,Alabama,3,Baldwin,1998,10,Cotton,Excess Moisture/Precip/Rain,1160.0,237859.0,331873.0,16430.0
+1,Alabama,3,Baldwin,1998,10,Cotton,Hurricane/Tropical Depression,1660.8,414005.0,574363.0,24858.0
+1,Alabama,3,Baldwin,1998,10,Soybeans,Excess Moisture/Precip/Rain,829.7,49832.0,110754.0,4331.0
+1,Alabama,3,Baldwin,1998,11,Soybeans,Excess Moisture/Precip/Rain,62.4,1459.0,3031.0,262.0
+1,Alabama,3,Baldwin,1999,Unspecified,Potatoes,Plant Disease,20.0,-7232.0,29165.5,2469.0
+1,Alabama,3,Baldwin,1999,4,Potatoes,Drought,2.5,1866.0,2802.5,311.5
+1,Alabama,3,Baldwin,1999,5,Potatoes,Heat,12.0,12513.0,13651.0,1155.0
+1,Alabama,3,Baldwin,1999,5,Potatoes,Insects,3.5,2003.0,2802.5,311.5
+1,Alabama,3,Baldwin,1999,5,Potatoes,Plant Disease,174.0,162606.0,193563.5,17847.0
+1,Alabama,3,Baldwin,1999,5,Wheat,Drought,65.0,406.0,3627.0,335.0
+1,Alabama,3,Baldwin,1999,6,Corn,Excess Moisture/Precip/Rain,91.9,2123.0,14435.0,1008.0
+1,Alabama,3,Baldwin,1999,6,Cotton,Drought,35.0,5450.9,12474.0,806.4
+1,Alabama,3,Baldwin,1999,6,Potatoes,Insects,40.0,40435.0,40435.0,3081.0
+1,Alabama,3,Baldwin,1999,6,Soybeans,Excess Moisture/Precip/Rain,43.0,677.0,49079.0,2588.0
+1,Alabama,3,Baldwin,1999,7,Corn,Drought,95.3,4204.0,15971.0,1196.0
+1,Alabama,3,Baldwin,1999,7,Cotton,Drought,478.6,45109.0,129456.0,11262.0
+1,Alabama,3,Baldwin,1999,7,Soybeans,Wildlife,54.0,865.0,1873.0,172.0
+1,Alabama,3,Baldwin,1999,8,Cotton,Drought,245.05,14485.5,61328.0,5465.0
+1,Alabama,3,Baldwin,1999,8,Cotton,Heat,15.0,2336.1,5346.0,345.6
+1,Alabama,3,Baldwin,1999,8,Cotton,Wildlife,28.75,2349.5,8311.0,620.0
+1,Alabama,3,Baldwin,1999,8,Soybeans,Drought,315.5,11009.0,26728.0,2404.0
+1,Alabama,3,Baldwin,2000,2,Wheat,Drought,55.0,1517.0,4974.0,258.0
+1,Alabama,3,Baldwin,2000,3,Cotton,Excess Moisture/Precip/Rain,25.9,6139.0,7628.0,394.0
+1,Alabama,3,Baldwin,2000,3,Peanuts,Excess Moisture/Precip/Rain,283.9,20072.0,168547.5,6260.0
+1,Alabama,3,Baldwin,2000,3,Potatoes,Heat,24.0,31099.0,35207.0,2836.0
+1,Alabama,3,Baldwin,2000,4,Corn,Drought,570.25,54833.1,70141.8,4780.09999999999
+1,Alabama,3,Baldwin,2000,4,Sweetpotatoes,Drought,53.0,93816.0,93816.0,2673.0
+1,Alabama,3,Baldwin,2000,5,Corn,Drought,662.4,55440.0,81649.0,5198.0
+1,Alabama,3,Baldwin,2000,5,Cotton,Drought,950.54,135056.2,262497.5,17519.3
+1,Alabama,3,Baldwin,2000,5,Potatoes,Heat,218.0,227587.0,259921.0,21277.0
+1,Alabama,3,Baldwin,2000,5,Soybeans,Drought,297.7,16263.0,23456.0,2079.0
+1,Alabama,3,Baldwin,2000,6,All Other Crops,Excess Moisture/Precip/Rain,97.5,30024.0,38025.0,2589.0
+1,Alabama,3,Baldwin,2000,6,All Other Crops,Wind/Excess Wind,32.5,10008.0,12675.0,863.0
+1,Alabama,3,Baldwin,2000,6,Corn,Drought,804.355,39222.75,92656.35,6194.15
+1,Alabama,3,Baldwin,2000,6,Corn,Heat,52.0,6171.0,8417.0,559.0
+1,Alabama,3,Baldwin,2000,6,Cotton,Drought,920.65,120659.2,264598.3,16370.7
+1,Alabama,3,Baldwin,2000,6,Peanuts,Drought,152.0,64579.0,76835.5,2854.0
+1,Alabama,3,Baldwin,2000,6,Potatoes,Heat,90.0,73342.0,90742.0,7309.0
+1,Alabama,3,Baldwin,2000,6,Soybeans,Drought,418.9,33803.0,39572.0,2537.0
+1,Alabama,3,Baldwin,2000,7,Corn,Drought,7.0,377.0,460.0,36.0
+1,Alabama,3,Baldwin,2000,7,Corn,Heat,32.805,3884.85,5105.25,338.85
+1,Alabama,3,Baldwin,2000,7,Corn,Mycotoxin (Aflatoxin),124.2,6202.2,20812.8,1310.4
+1,Alabama,3,Baldwin,2000,7,Cotton,Drought,815.0,130750.6,225283.4,16536.6
+1,Alabama,3,Baldwin,2000,7,Soybeans,Drought,903.2,29017.9,60930.1,3646.4
+1,Alabama,3,Baldwin,2000,8,Corn,Heat,98.94,9744.3,9995.7,704.099999999999
+1,Alabama,3,Baldwin,2000,8,Corn,Mycotoxin (Aflatoxin),121.04,10215.2,14649.6,875.6
+1,Alabama,3,Baldwin,2000,8,Cotton,Drought,1175.8,71759.0,356141.0,22790.0
+1,Alabama,3,Baldwin,2000,8,Soybeans,Drought,681.3,11418.0,44599.0,2686.0
+1,Alabama,3,Baldwin,2000,9,Corn,Heat,8.61,804.599999999999,883.5,58.8
+1,Alabama,3,Baldwin,2000,9,Cotton,Drought,163.66,34555.78,49064.19,3286.43
+1,Alabama,3,Baldwin,2000,9,Cotton,Heat,45.69,4978.5,14820.3,891.6
+1,Alabama,3,Baldwin,2000,10,Cotton,Drought,85.8,5414.0,20955.0,1712.0
+1,Alabama,3,Baldwin,2000,10,Cotton,Heat,357.12,40678.5,104221.5,6346.8
+1,Alabama,3,Baldwin,2000,10,Soybeans,Heat,10.5,680.1,993.9,66.6
+1,Alabama,3,Baldwin,2000,11,Cotton,Drought,170.34,35966.22,51066.81,3420.57
+1,Alabama,3,Baldwin,2001,4,Potatoes,Drought,26.0,17714.0,29681.0,3012.0
+1,Alabama,3,Baldwin,2001,4,Potatoes,Plant Disease,55.0,57791.0,57791.0,4842.0
+1,Alabama,3,Baldwin,2001,5,Corn,Excess Moisture/Precip/Rain,23.0,1305.0,3401.0,268.0
+1,Alabama,3,Baldwin,2001,5,Cotton,Decline In Price,577.4,25407.0,146585.0,12293.0
+1,Alabama,3,Baldwin,2001,5,Cotton,Excess Moisture/Precip/Rain,163.1,1944.0,38465.0,5996.0
+1,Alabama,3,Baldwin,2001,5,Peanuts,Drought,355.299999999999,31483.0,242817.0,11375.0
+1,Alabama,3,Baldwin,2001,5,Potatoes,Heat,112.0,131706.0,131706.0,11586.0
+1,Alabama,3,Baldwin,2001,6,All Other Crops,Excess Moisture/Precip/Rain,150.0,50749.0,63000.0,4617.0
+1,Alabama,3,Baldwin,2001,6,Cotton,Drought,205.8,41543.0,51657.0,4606.0
+1,Alabama,3,Baldwin,2001,6,Peanuts,Excess Moisture/Precip/Rain,70.0,10932.8,70861.6,3228.0
+1,Alabama,3,Baldwin,2001,6,Potatoes,Heat,69.7,69951.0,72011.0,6322.0
+1,Alabama,3,Baldwin,2001,7,Corn,Drought,49.8,6254.0,9342.0,700.0
+1,Alabama,3,Baldwin,2001,7,Cotton,Drought,855.1,104718.0,291916.0,21310.0
+1,Alabama,3,Baldwin,2001,7,Potatoes,Plant Disease,50.9,39429.0,51211.0,4363.0
+1,Alabama,3,Baldwin,2001,8,Corn,Drought,199.5,18469.0,31247.0,2080.0
+1,Alabama,3,Baldwin,2001,8,Cotton,Drought,108.29,16596.3,32686.92,3360.42
+1,Alabama,3,Baldwin,2001,8,Sweetpotatoes,Excess Moisture/Precip/Rain,204.0,147974.0,311376.0,11703.0
+1,Alabama,3,Baldwin,2001,9,Cotton,Frost,24.0,5042.0,6200.0,898.0
+1,Alabama,3,Baldwin,2001,10,Cotton,Decline In Price,968.1,102091.0,276428.0,29986.0
+1,Alabama,3,Baldwin,2001,10,Cotton,Drought,181.709999999999,25110.3,53278.08,4896.78
+1,Alabama,3,Baldwin,2001,10,Cotton,Excess Moisture/Precip/Rain,209.075,28504.9,62273.05,5538.15
+1,Alabama,3,Baldwin,2001,10,Cotton,Frost,570.15,75870.1,148366.4,13265.45
+1,Alabama,3,Baldwin,2001,10,Cotton,Wildlife,46.0,5224.4,12838.0,932.8
+1,Alabama,3,Baldwin,2001,10,Cotton,Wind/Excess Wind,155.0,30183.0,43454.0,4717.0
+1,Alabama,3,Baldwin,2001,10,Peanuts,Excess Moisture/Precip/Rain,12.0,2293.2,6279.4,463.0
+1,Alabama,3,Baldwin,2001,11,All Other Crops,Wildlife,35.45,1296.0,1296.0,202.0
+1,Alabama,3,Baldwin,2001,11,Cotton,Freeze,100.9,11668.0,26714.0,1964.0
+1,Alabama,3,Baldwin,2001,11,Soybeans,Drought,140.0,6392.0,10089.0,1027.0
+1,Alabama,3,Baldwin,2001,12,Cotton,Excess Moisture/Precip/Rain,191.25,22491.9,45066.6,4400.55
+1,Alabama,3,Baldwin,2001,12,Cotton,Frost,310.025,10678.1,72813.95,7409.85
+1,Alabama,3,Baldwin,2002,Unspecified,Cotton,Hurricane/Tropical Depression,86.8,-647.0,13250.0,1152.0
+1,Alabama,3,Baldwin,2002,Unspecified,Sweetpotatoes,Excess Moisture/Precip/Rain,77.2,-10444.0,81177.5,3136.5
+1,Alabama,3,Baldwin,2002,3,Oats,Plant Disease,166.5,2277.6,8653.8,233.4
+1,Alabama,3,Baldwin,2002,3,Potatoes,Freeze,30.0,24749.0,40761.0,3415.0
+1,Alabama,3,Baldwin,2002,4,Oats,Drought,111.0,1518.4,5769.2,155.6
+1,Alabama,3,Baldwin,2002,7,Cotton,Wind/Excess Wind,24.8,4489.0,4181.0,706.0
+1,Alabama,3,Baldwin,2002,8,Peanuts,Excess Moisture/Precip/Rain,158.0,18708.0,46134.0,2860.0
+1,Alabama,3,Baldwin,2002,9,Corn,Excess Moisture/Precip/Rain,36.3,3173.0,3398.0,228.0
+1,Alabama,3,Baldwin,2002,9,Cotton,Excess Moisture/Precip/Rain,2539.1,187787.0,699772.0,55035.0
+1,Alabama,3,Baldwin,2002,9,Cotton,Hurricane/Tropical Depression,770.0,145455.0,195515.0,19448.0
+1,Alabama,3,Baldwin,2002,9,Peanuts,Excess Moisture/Precip/Rain,34.0,4632.0,9928.0,615.0
+1,Alabama,3,Baldwin,2002,9,Peanuts,Hurricane/Tropical Depression,194.2,57606.0,63943.0,3549.0
+1,Alabama,3,Baldwin,2002,9,Sweetpotatoes,Excess Moisture/Precip/Rain,199.3,126228.0,219765.5,11662.5
+1,Alabama,3,Baldwin,2002,10,All Other Crops,Hurricane/Tropical Depression,55.0,3727.0,3778.0,372.0
+1,Alabama,3,Baldwin,2002,10,Corn,Excess Moisture/Precip/Rain,54.0,3523.0,7722.0,499.0
+1,Alabama,3,Baldwin,2002,10,Cotton,Excess Moisture/Precip/Rain,4810.3,682648.0,1271935.0,105123.0
+1,Alabama,3,Baldwin,2002,10,Cotton,Hurricane/Tropical Depression,526.5,102969.0,111643.0,8562.0
+1,Alabama,3,Baldwin,2002,10,Peanuts,Excess Moisture/Precip/Rain,1228.9,198069.0,353539.0,16980.0
+1,Alabama,3,Baldwin,2002,10,Soybeans,Excess Moisture/Precip/Rain,1201.4,89830.0,92388.0,6999.0
+1,Alabama,3,Baldwin,2002,10,Soybeans,Hurricane/Tropical Depression,343.4,17372.0,25760.0,2397.0
+1,Alabama,3,Baldwin,2002,10,Sweetpotatoes,Excess Moisture/Precip/Rain,87.6,57174.0,83928.0,3585.0
+1,Alabama,3,Baldwin,2002,11,Cotton,Excess Moisture/Precip/Rain,1508.1,257682.0,359753.0,31256.0
+1,Alabama,3,Baldwin,2002,11,Peanuts,Excess Moisture/Precip/Rain,857.3,110789.0,173776.0,9073.0
+1,Alabama,3,Baldwin,2002,11,Soybeans,Excess Moisture/Precip/Rain,50.0,2245.0,2245.0,307.0
+1,Alabama,3,Baldwin,2002,12,Cotton,Excess Moisture/Precip/Rain,1083.5,189939.0,208997.0,19357.0
+1,Alabama,3,Baldwin,2002,12,Soybeans,Excess Moisture/Precip/Rain,14.0,805.0,805.0,56.0
+1,Alabama,3,Baldwin,2003,3,Potatoes,Cold Winter,7.95,6858.5,4312.0,474.0
+1,Alabama,3,Baldwin,2003,3,Potatoes,Freeze,2.05,1412.5,4312.0,474.0
+1,Alabama,3,Baldwin,2003,3,Potatoes,Frost,21.4,22806.0,23490.6,2193.6
+1,Alabama,3,Baldwin,2003,3,Soybeans,Excess Moisture/Precip/Rain,178.272,7544.64,7233.6,1638.72
+1,Alabama,3,Baldwin,2003,4,Potatoes,Plant Disease,107.0,120455.0,138918.0,16966.0
+1,Alabama,3,Baldwin,2003,4,Wheat,Excess Moisture/Precip/Rain,63.0,6072.0,6072.0,340.0
+1,Alabama,3,Baldwin,2003,5,Cotton,Excess Moisture/Precip/Rain,272.1,40661.0,80532.0,7311.0
+1,Alabama,3,Baldwin,2003,5,Peanuts,Excess Moisture/Precip/Rain,750.5,46720.0,215339.5,10605.0
+1,Alabama,3,Baldwin,2003,5,Potatoes,Excess Moisture/Precip/Rain,780.3,682244.0,959839.4,82608.4
+1,Alabama,3,Baldwin,2003,5,Sweetpotatoes,Excess Moisture/Precip/Rain,105.0,104325.0,127808.0,4734.0
+1,Alabama,3,Baldwin,2003,6,All Other Crops,Excess Moisture/Precip/Rain,326.8,108253.0,143138.0,10490.0
+1,Alabama,3,Baldwin,2003,6,Cotton,Excess Moisture/Precip/Rain,988.15,152977.0,227448.0,29752.0
+1,Alabama,3,Baldwin,2003,6,Peanuts,Excess Moisture/Precip/Rain,881.8,79828.0,263089.0,15240.0
+1,Alabama,3,Baldwin,2003,6,Soybeans,Drought,146.3,3107.0,3107.0,491.0
+1,Alabama,3,Baldwin,2003,7,Cotton,Excess Moisture/Precip/Rain,50.5,9515.0,12335.0,1455.0
+1,Alabama,3,Baldwin,2003,7,Peanuts,Excess Moisture/Precip/Rain,329.8,36890.0,96272.0,4926.0
+1,Alabama,3,Baldwin,2003,7,Soybeans,Excess Moisture/Precip/Rain,43.3,2873.0,2873.0,271.0
+1,Alabama,3,Baldwin,2003,7,Sweetpotatoes,Drought,53.0,66458.0,116508.0,3882.0
+1,Alabama,3,Baldwin,2003,7,Sweetpotatoes,Excess Moisture/Precip/Rain,130.1,158334.0,179774.0,10215.0
+1,Alabama,3,Baldwin,2003,8,Corn,Excess Moisture/Precip/Rain,40.0,2481.0,4743.0,565.0
+1,Alabama,3,Baldwin,2003,8,Cotton,Excess Moisture/Precip/Rain,447.2,43905.0,100471.0,12874.0
+1,Alabama,3,Baldwin,2003,8,Cotton,Freeze,376.7,109383.0,88405.0,7709.0
+1,Alabama,3,Baldwin,2003,8,Peanuts,Excess Moisture/Precip/Rain,215.5,29277.0,68210.0,3203.0
+1,Alabama,3,Baldwin,2003,8,Potatoes,Plant Disease,11.0,7832.0,11481.0,1223.0
+1,Alabama,3,Baldwin,2003,8,Soybeans,Excess Moisture/Precip/Rain,41.5,2864.0,3376.0,307.0
+1,Alabama,3,Baldwin,2003,9,Cotton,Excess Moisture/Precip/Rain,346.25,64910.0,106550.0,10137.0
+1,Alabama,3,Baldwin,2003,9,Peanuts,Excess Moisture/Precip/Rain,599.1,100378.0,183954.5,9748.0
+1,Alabama,3,Baldwin,2003,9,Soybeans,Decline In Price,7.428,314.36,301.4,68.28
+1,Alabama,3,Baldwin,2003,9,Sweetpotatoes,Excess Moisture/Precip/Rain,153.6,156811.0,164710.0,7254.0
+1,Alabama,3,Baldwin,2003,10,Cotton,Excess Moisture/Precip/Rain,143.0,12817.0,32018.0,3995.0
+1,Alabama,3,Baldwin,2003,12,Cotton,Freeze,304.6,23969.0,72485.0,6419.0
+1,Alabama,3,Baldwin,2004,3,Potatoes,Excess Moisture/Precip/Rain,126.199999999999,129475.2,153050.4,13377.5999999999
+1,Alabama,3,Baldwin,2004,5,Peanuts,Excess Moisture/Precip/Rain,20.0,1600.0,119161.0,4347.0
+1,Alabama,3,Baldwin,2004,5,Potatoes,Excess Moisture/Precip/Rain,144.52,140366.2,190569.4,16342.8
+1,Alabama,3,Baldwin,2004,5,Wheat,Excess Moisture/Precip/Rain,26.0,318.0,2221.0,247.0
+1,Alabama,3,Baldwin,2004,6,All Other Crops,Wind/Excess Wind,500.0,180080.0,222502.0,27174.0
+1,Alabama,3,Baldwin,2004,6,Corn,Drought,9.68,1114.2,1114.2,163.4
+1,Alabama,3,Baldwin,2004,6,Cotton,Excess Moisture/Precip/Rain,78.0,25064.0,25253.0,2039.0
+1,Alabama,3,Baldwin,2004,6,Potatoes,Excess Moisture/Precip/Rain,114.0,98622.0,150967.0,13007.0
+1,Alabama,3,Baldwin,2004,6,Potatoes,Heat,120.479999999999,116823.599999999,163781.2,14171.5999999999
+1,Alabama,3,Baldwin,2004,6,Wheat,Excess Moisture/Precip/Rain,115.0,6865.5,9874.0,844.0
+1,Alabama,3,Baldwin,2004,7,Wheat,Excess Moisture/Precip/Rain,115.0,6865.5,9874.0,844.0
+1,Alabama,3,Baldwin,2004,9,Corn,Hurricane/Tropical Depression,125.12,12837.8,13481.8,1826.6
+1,Alabama,3,Baldwin,2004,9,Corn,Wind/Excess Wind,35.0,958.0,4966.0,314.0
+1,Alabama,3,Baldwin,2004,9,Cotton,Decline In Price,693.4,54077.0,273333.0,28180.0
+1,Alabama,3,Baldwin,2004,9,Cotton,Excess Moisture/Precip/Rain,374.2,71021.4,111209.3,12529.4
+1,Alabama,3,Baldwin,2004,9,Cotton,Hot Wind,135.0,20286.0,46543.0,4429.0
+1,Alabama,3,Baldwin,2004,9,Cotton,Hurricane/Tropical Depression,3014.005,406847.3,986701.8,103491.85
+1,Alabama,3,Baldwin,2004,9,Cotton,Wind/Excess Wind,1150.1,116301.0,363252.0,38089.0
+1,Alabama,3,Baldwin,2004,9,Peanuts,Excess Moisture/Precip/Rain,114.8,16366.0,32624.0,1616.0
+1,Alabama,3,Baldwin,2004,9,Peanuts,Fire,58.45,4576.0,18905.0,1077.0
+1,Alabama,3,Baldwin,2004,9,Peanuts,Hurricane/Tropical Depression,383.09,55605.5,112848.7,7135.1
+1,Alabama,3,Baldwin,2004,9,Pecans,Hurricane/Tropical Depression,1327.6,300834.0,302777.0,33925.0
+1,Alabama,3,Baldwin,2004,9,Pecans,Wind/Excess Wind,131.3,32694.0,32694.0,2322.0
+1,Alabama,3,Baldwin,2004,9,Soybeans,Excess Moisture/Precip/Rain,412.2,14558.0,42908.0,3657.0
+1,Alabama,3,Baldwin,2004,9,Soybeans,Hurricane/Tropical Depression,476.0,21914.1,47339.1,3729.1
+1,Alabama,3,Baldwin,2004,9,Sweetpotatoes,Excess Moisture/Precip/Rain,87.6999999999999,85560.0,178598.0,5277.0
+1,Alabama,3,Baldwin,2004,9,Sweetpotatoes,Hurricane/Tropical Depression,119.9,73620.0,126223.0,7551.0
+1,Alabama,3,Baldwin,2004,11,Cotton,Wind/Excess Wind,59.0,17136.0,21103.0,1937.0
+1,Alabama,3,Baldwin,2004,11,Peanuts,Excess Moisture/Precip/Rain,12.96,3010.5,3465.3,210.9
+1,Alabama,3,Baldwin,2004,11,Soybeans,Excess Moisture/Precip/Rain,164.8,10624.0,10624.0,884.0
+1,Alabama,3,Baldwin,2004,12,Cotton,Decline In Price,353.7,17552.0,89446.0,9677.0
+1,Alabama,3,Baldwin,2004,12,Cotton,Excess Moisture/Precip/Rain,120.795,20748.3,35504.9,3474.75
+1,Alabama,3,Baldwin,2004,12,Cotton,Wind/Excess Wind,118.0,14633.0,34406.0,3907.0
+1,Alabama,3,Baldwin,2004,12,Soybeans,Excess Moisture/Precip/Rain,3.9,435.9,435.9,63.9
+1,Alabama,3,Baldwin,2005,3,Potatoes,Excess Moisture/Precip/Rain,38.0,23546.0,49615.0,4566.0
+1,Alabama,3,Baldwin,2005,4,Potatoes,Excess Moisture/Precip/Rain,112.125,101439.0,127301.2,12140.05
+1,Alabama,3,Baldwin,2005,5,Cotton,Drought,9.0,1741.5,1795.5,221.0
+1,Alabama,3,Baldwin,2005,5,Potatoes,Heat,60.375,54621.0,68546.8,6536.95
+1,Alabama,3,Baldwin,2005,5,Soybeans,Excess Moisture/Precip/Rain,175.0,9445.0,9445.0,657.0
+1,Alabama,3,Baldwin,2005,6,Peanuts,Plant Disease,8.0,1913.6,2259.2,76.0
+1,Alabama,3,Baldwin,2005,6,Soybeans,Excess Moisture/Precip/Rain,107.5,8385.0,8385.0,645.0
+1,Alabama,3,Baldwin,2005,7,Peanuts,Excess Moisture/Precip/Rain,18.1,667.7,4310.8,272.1
+1,Alabama,3,Baldwin,2005,7,Peanuts,Plant Disease,162.9,6009.3,38797.2,2448.9
+1,Alabama,3,Baldwin,2005,7,Pecans,Hurricane/Tropical Depression,32.1,4880.0,4880.0,1620.0
+1,Alabama,3,Baldwin,2005,8,All Other Crops,Hurricane/Tropical Depression,0.0,29187.0,74200.0,1010.0
+1,Alabama,3,Baldwin,2005,8,Corn,Hurricane/Tropical Depression,116.4,3409.0,17479.0,1062.0
+1,Alabama,3,Baldwin,2005,8,Cotton,Hurricane/Tropical Depression,1394.0,89130.5,364079.5,37351.0
+1,Alabama,3,Baldwin,2005,8,Peanuts,Hurricane/Tropical Depression,77.2,6932.0,19089.0,1380.0
+1,Alabama,3,Baldwin,2005,8,Pecans,Hurricane/Tropical Depression,1499.9,360803.0,374962.0,40200.0
+1,Alabama,3,Baldwin,2005,8,Soybeans,Hurricane/Tropical Depression,294.9,24382.0,37869.0,4018.0
+1,Alabama,3,Baldwin,2005,8,Soybeans,Plant Disease,61.2,3905.0,3905.0,281.0
+1,Alabama,3,Baldwin,2005,9,Cotton,Hurricane/Tropical Depression,149.1,9087.0,40828.0,3692.0
+1,Alabama,3,Baldwin,2005,9,Peanuts,Wildlife,12.0,1473.0,3404.0,174.0
+1,Alabama,3,Baldwin,2005,9,Pecans,Hurricane/Tropical Depression,46.4,1902.0,1902.0,974.0
+1,Alabama,3,Baldwin,2005,10,Peanuts,Excess Moisture/Precip/Rain,37.6,2218.0,11918.0,725.0
+1,Alabama,3,Baldwin,2005,11,Cotton,Excess Moisture/Precip/Rain,87.0,9537.0,21539.0,2254.0
+1,Alabama,3,Baldwin,2005,11,Peanuts,Excess Moisture/Precip/Rain,165.9,14773.4,53627.8,3083.0
+1,Alabama,3,Baldwin,2005,11,Wheat,Excess Moisture/Precip/Rain,315.3,13829.0,21465.0,1335.0
+1,Alabama,3,Baldwin,2006,3,Oats,Drought,75.0,931.5,2482.0,120.5
+1,Alabama,3,Baldwin,2006,3,Wheat,Drought,15.0,643.0,964.0,178.0
+1,Alabama,3,Baldwin,2006,4,Oats,Drought,75.0,931.5,2482.0,120.5
+1,Alabama,3,Baldwin,2006,4,Potatoes,Heat,66.2,37248.0,73199.0,7754.0
+1,Alabama,3,Baldwin,2006,4,Wheat,Drought,15.0,643.0,964.0,178.0
+1,Alabama,3,Baldwin,2006,5,Corn,Drought,84.88,10109.0,13384.0,1185.0
+1,Alabama,3,Baldwin,2006,5,Peanuts,Drought,140.88,25409.6,49069.6,2914.4
+1,Alabama,3,Baldwin,2006,5,Potatoes,Heat,20.0,5346.0,16842.0,1606.0
+1,Alabama,3,Baldwin,2006,5,Soybeans,Drought,90.1,1000.0,2295.0,475.0
+1,Alabama,3,Baldwin,2006,6,Cotton,Drought,259.6,35242.0,61403.0,7381.0
+1,Alabama,3,Baldwin,2006,6,Cotton,Excess Moisture/Precip/Rain,35.0,303.0,7980.0,919.0
+1,Alabama,3,Baldwin,2006,6,Peanuts,Drought,817.9,164808.5,244787.0,14412.0
+1,Alabama,3,Baldwin,2006,6,Pecans,Drought,514.1,88953.0,102086.0,19660.0
+1,Alabama,3,Baldwin,2006,6,Potatoes,Drought,50.0,17317.0,49071.0,6084.0
+1,Alabama,3,Baldwin,2006,6,Soybeans,Drought,125.1,2903.0,33463.5,3462.0
+1,Alabama,3,Baldwin,2006,7,Corn,Wind/Excess Wind,97.62,13824.0,13824.0,1248.0
+1,Alabama,3,Baldwin,2006,7,Peanuts,Drought,23.0,1921.0,7452.0,325.0
+1,Alabama,3,Baldwin,2006,8,Peanuts,Drought,43.5,9219.5,15652.0,941.0
+1,Alabama,3,Baldwin,2006,9,Cotton,Wildlife,37.0,6136.0,9102.0,1190.0
+1,Alabama,3,Baldwin,2006,9,Peanuts,Drought,259.7,45885.0,80272.0,6063.0
+1,Alabama,3,Baldwin,2006,9,Pecans,Drought,131.0,26670.0,35108.0,4992.0
+1,Alabama,3,Baldwin,2006,9,Soybeans,Drought,43.4,3783.0,3228.5,283.0
+1,Alabama,3,Baldwin,2006,10,Corn,Drought,33.8,3337.0,3826.0,253.0
+1,Alabama,3,Baldwin,2006,10,Peanuts,Drought,723.1,129900.0,193472.0,8295.0
+1,Alabama,3,Baldwin,2006,10,Peanuts,Frost,17.8,4245.0,4470.0,276.0
+1,Alabama,3,Baldwin,2006,11,Cotton,Drought,83.0,7664.0,26700.0,2873.0
+1,Alabama,3,Baldwin,2006,11,Peanuts,Drought,275.9,34458.0,91602.0,4733.0
+1,Alabama,3,Baldwin,2006,11,Peanuts,Excess Moisture/Precip/Rain,35.22,6352.4,12267.4,728.6
+1,Alabama,3,Baldwin,2006,12,Cotton,Decline In Price,16.0,511.0,4963.0,549.0
+1,Alabama,3,Baldwin,2007,4,Corn,Drought,199.1,19082.0,36074.0,4137.0
+1,Alabama,3,Baldwin,2007,5,Peanuts,Drought,25.365,687.08,8926.7,663.05
+1,Alabama,3,Baldwin,2007,6,Cotton,Drought,266.0,61972.0,74956.0,8223.0
+1,Alabama,3,Baldwin,2007,6,Peanuts,Drought,362.65,32573.0,120337.0,6971.0
+1,Alabama,3,Baldwin,2007,6,Soybeans,Drought,70.6,2495.5,4572.0,723.5
+1,Alabama,3,Baldwin,2007,7,Peanuts,Heat,3.135,84.92,1103.3,81.95
+1,Alabama,3,Baldwin,2007,7,Pecans,Drought,41.0,4051.0,6092.0,1690.0
+1,Alabama,3,Baldwin,2007,8,Cotton,Drought,556.1,68054.0,164768.0,18737.0
+1,Alabama,3,Baldwin,2007,8,Peanuts,Drought,22.4,3146.0,8459.0,414.0
+1,Alabama,3,Baldwin,2007,8,Soybeans,Drought,86.6,2284.5,6279.0,922.5
+1,Alabama,3,Baldwin,2007,9,Peanuts,Drought,30.0,7668.0,10537.0,548.0
+1,Alabama,3,Baldwin,2007,9,Peanuts,Excess Moisture/Precip/Rain,37.6,4820.0,15745.0,998.0
+1,Alabama,3,Baldwin,2007,10,Peanuts,Excess Moisture/Precip/Rain,27.6,2574.0,10331.0,509.0
+1,Alabama,3,Baldwin,2007,10,Pecans,Drought,172.9,7032.0,7089.0,4034.0
+1,Alabama,3,Baldwin,2007,11,Cotton,Drought,103.8,7843.0,22047.0,5545.0
+1,Alabama,3,Baldwin,2007,11,Peanuts,Excess Moisture/Precip/Rain,78.7,15094.0,23327.0,1401.0
+1,Alabama,3,Baldwin,2008,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,241.7,12791.0,43441.0,2674.0
+1,Alabama,3,Baldwin,2008,4,Potatoes,Insects,11.0,8214.8,13720.0,1453.6
+1,Alabama,3,Baldwin,2008,5,Corn,Drought,55.0,8320.0,9847.0,1440.0
+1,Alabama,3,Baldwin,2008,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,664.85,8210.0,122760.0,6656.0
+1,Alabama,3,Baldwin,2008,5,Soybeans,Drought,35.0,1208.0,38042.0,2120.0
+1,Alabama,3,Baldwin,2008,6,Cotton,Wildlife,27.775,593.45,7720.9,850.85
+1,Alabama,3,Baldwin,2008,6,Peanuts,Drought,9.0,202.5,3874.5,253.5
+1,Alabama,3,Baldwin,2008,6,Potatoes,Heat,36.5,28173.2,47434.0,5025.4
+1,Alabama,3,Baldwin,2008,6,Soybeans,Drought,50.0,1726.0,15503.0,869.0
+1,Alabama,3,Baldwin,2008,7,Cotton,Drought,65.1,16842.0,26596.0,3129.0
+1,Alabama,3,Baldwin,2008,7,Cotton,Wildlife,105.9,13257.0,31475.0,8740.0
+1,Alabama,3,Baldwin,2008,7,Pecans,Drought,272.9,17409.6,23556.6,5663.6
+1,Alabama,3,Baldwin,2008,8,"Pasture,Rangeland,Forage",Area Plan Crops Only,6.9,43.0,1384.0,145.0
+1,Alabama,3,Baldwin,2008,8,Peanuts,Drought,9.0,202.5,3874.5,253.5
+1,Alabama,3,Baldwin,2008,8,Pecans,Drought,17.0,3688.0,3740.0,649.0
+1,Alabama,3,Baldwin,2008,9,Cotton,Decline In Price,104.4,6481.0,50586.0,5160.0
+1,Alabama,3,Baldwin,2008,9,Pecans,Hurricane/Tropical Depression,21.2,2660.4,4448.4,628.4
+1,Alabama,3,Baldwin,2008,10,Cotton,Decline In Price,804.1,32990.0,391856.0,54002.0
+1,Alabama,3,Baldwin,2008,10,Cotton,Drought,299.625,47046.75,93228.5,12446.5
+1,Alabama,3,Baldwin,2008,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,955.2,7501.0,163740.0,8659.0
+1,Alabama,3,Baldwin,2008,10,Soybeans,Drought,186.6,25639.0,43360.0,4500.0
+1,Alabama,3,Baldwin,2008,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,44.1,1162.0,8847.0,459.0
+1,Alabama,3,Baldwin,2008,12,Cotton,Decline In Price,71.5,4257.8,21992.6,2779.65
+1,Alabama,3,Baldwin,2009,2,Potatoes,Excess Moisture/Precip/Rain,79.52,105418.4,128160.0,13338.4
+1,Alabama,3,Baldwin,2009,3,Oats,Excess Moisture/Precip/Rain,10.75,231.25,254.25,20.875
+1,Alabama,3,Baldwin,2009,3,Potatoes,Excess Moisture/Precip/Rain,3.0,2734.8,3438.0,460.8
+1,Alabama,3,Baldwin,2009,4,Corn,Excess Moisture/Precip/Rain,37.0,1184.0,22996.0,1655.0
+1,Alabama,3,Baldwin,2009,4,Potatoes,Excess Moisture/Precip/Rain,3.2,1026.4,3976.8,355.2
+1,Alabama,3,Baldwin,2009,4,Wheat,Excess Moisture/Precip/Rain,249.5,48844.0,69679.0,5478.0
+1,Alabama,3,Baldwin,2009,5,Oats,Excess Moisture/Precip/Rain,32.25,693.75,762.75,62.625
+1,Alabama,3,Baldwin,2009,5,Potatoes,Excess Moisture/Precip/Rain,21.0,16337.4,31430.4,3271.2
+1,Alabama,3,Baldwin,2009,5,Potatoes,Heat,0.8,256.6,994.2,88.8
+1,Alabama,3,Baldwin,2009,5,Soybeans,Excess Moisture/Precip/Rain,71.55,2129.0,33878.0,1850.0
+1,Alabama,3,Baldwin,2009,5,Wheat,Drought,80.0,9573.0,19757.0,1171.0
+1,Alabama,3,Baldwin,2009,6,Corn,Drought,60.7,2378.0,13112.0,653.0
+1,Alabama,3,Baldwin,2009,6,Potatoes,Heat,35.8799999999999,39069.4,55285.6,5822.6
+1,Alabama,3,Baldwin,2009,6,Soybeans,Drought,75.46,5970.2,16766.2,1319.4
+1,Alabama,3,Baldwin,2009,6,Soybeans,Excess Moisture/Precip/Rain,14.65,436.0,2391.0,112.0
+1,Alabama,3,Baldwin,2009,6,Soybeans,Heat,130.6,3775.0,25000.0,2138.0
+1,Alabama,3,Baldwin,2009,6,Wheat,Excess Moisture/Precip/Rain,76.2,7551.0,15685.0,866.0
+1,Alabama,3,Baldwin,2009,7,Corn,Drought,138.0,13715.0,31576.0,2274.0
+1,Alabama,3,Baldwin,2009,7,Soybeans,Drought,14.0,416.0,5361.6,311.6
+1,Alabama,3,Baldwin,2009,7,Soybeans,Heat,21.0,624.0,8042.4,467.4
+1,Alabama,3,Baldwin,2009,7,Wheat,Drought,264.4,32625.0,60833.0,5297.0
+1,Alabama,3,Baldwin,2009,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,645.44,14545.0,101709.0,5295.0
+1,Alabama,3,Baldwin,2009,9,Pecans,Excess Moisture/Precip/Rain,268.2,29015.0,68543.0,9897.0
+1,Alabama,3,Baldwin,2009,9,Soybeans,Excess Moisture/Precip/Rain,54.9,13837.0,15543.0,676.0
+1,Alabama,3,Baldwin,2009,10,Corn,Drought,533.0,86426.0,112568.0,8353.0
+1,Alabama,3,Baldwin,2009,10,Peanuts,Excess Moisture/Precip/Rain,319.5,51042.0,142936.0,8758.0
+1,Alabama,3,Baldwin,2009,10,Soybeans,Wildlife,74.08,6402.8,10268.4,533.2
+1,Alabama,3,Baldwin,2009,11,Cotton,Excess Moisture/Precip/Rain,152.5,41623.0,34658.0,4656.0
+1,Alabama,3,Baldwin,2009,11,Peanuts,Excess Moisture/Precip/Rain,204.3,54189.0,76083.0,4799.0
+1,Alabama,3,Baldwin,2009,11,Soybeans,Excess Moisture/Precip/Rain,224.26,24613.0,34776.4,2952.4
+1,Alabama,3,Baldwin,2009,12,Cotton,Excess Moisture/Precip/Rain,223.1,36590.0,70061.0,6853.0
+1,Alabama,3,Baldwin,2009,12,Soybeans,Excess Moisture/Precip/Rain,49.5,6518.0,8257.0,477.0
+1,Alabama,3,Baldwin,2010,1,Wheat,Excess Moisture/Precip/Rain,660.1,97404.0,114290.0,7416.0
+1,Alabama,3,Baldwin,2010,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,13.3,210.0,2329.0,198.0
+1,Alabama,3,Baldwin,2010,2,Wheat,Excess Moisture/Precip/Rain,193.2,10265.0,18857.0,668.0
+1,Alabama,3,Baldwin,2010,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,67.3,760.0,9865.0,718.0
+1,Alabama,3,Baldwin,2010,3,Potatoes,Cold Wet Weather,85.785,137750.05,149798.6,15372.4
+1,Alabama,3,Baldwin,2010,5,Peanuts,Excess Moisture/Precip/Rain,130.0,10075.0,140050.0,7234.0
+1,Alabama,3,Baldwin,2010,5,Potatoes,Excess Moisture/Precip/Rain,34.4,52073.3,52743.8,6050.7
+1,Alabama,3,Baldwin,2010,5,Potatoes,Hail,7.2,11066.0,11066.0,1338.8
+1,Alabama,3,Baldwin,2010,6,All Other Crops,Plant Disease,136.1,77714.0,77714.0,11417.0
+1,Alabama,3,Baldwin,2010,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,31.7,592.0,6505.0,437.0
+1,Alabama,3,Baldwin,2010,6,Peanuts,Excess Moisture/Precip/Rain,27.0,1827.0,40946.0,2219.0
+1,Alabama,3,Baldwin,2010,6,Pecans,Drought,17.0,2992.0,2992.0,657.0
+1,Alabama,3,Baldwin,2010,6,Pecans,Heat,24.0,6252.0,6312.0,513.0
+1,Alabama,3,Baldwin,2010,6,Potatoes,Heat,109.914999999999,176240.65,189471.599999999,19822.1
+1,Alabama,3,Baldwin,2010,6,Soybeans,Excess Moisture/Precip/Rain,52.9,1597.0,26213.0,1953.5
+1,Alabama,3,Baldwin,2010,7,Cotton,Drought,233.4,21405.0,58920.0,5996.0
+1,Alabama,3,Baldwin,2010,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,60.8,1279.0,9533.0,942.0
+1,Alabama,3,Baldwin,2010,7,Peanuts,Drought,125.0,9118.0,83751.0,4361.0
+1,Alabama,3,Baldwin,2010,7,Pecans,Drought,250.0,29525.0,60315.0,9454.0
+1,Alabama,3,Baldwin,2010,8,Cotton,Drought,208.4,18314.0,80450.0,6778.0
+1,Alabama,3,Baldwin,2010,8,Peanuts,Drought,413.5,95803.0,157638.0,12617.0
+1,Alabama,3,Baldwin,2010,8,Pecans,Drought,45.5,7816.0,7904.0,1695.0
+1,Alabama,3,Baldwin,2010,8,Soybeans,Drought,271.9,23371.0,51064.5,3643.5
+1,Alabama,3,Baldwin,2010,9,Cotton,Drought,11.3,1723.0,3543.0,276.0
+1,Alabama,3,Baldwin,2010,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,191.2,3329.0,34642.0,2362.0
+1,Alabama,3,Baldwin,2010,9,Peanuts,Drought,20.0,2819.0,5442.0,488.0
+1,Alabama,3,Baldwin,2010,9,Pecans,Drought,70.9,6604.0,8033.0,2200.0
+1,Alabama,3,Baldwin,2010,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,37.9,238.0,1936.0,113.0
+1,Alabama,3,Baldwin,2010,11,Wheat,Excess Moisture/Precip/Rain,1587.9,90767.0,97180.5,5512.0
+1,Alabama,3,Baldwin,2010,12,Oats,Excess Moisture/Precip/Rain,108.4,1915.0,5473.0,221.0
+1,Alabama,3,Baldwin,2010,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,123.8,9808.0,23806.0,2110.0
+1,Alabama,3,Baldwin,2010,12,Soybeans,Drought,153.8,9693.0,36530.0,2115.0
+1,Alabama,3,Baldwin,2010,12,Soybeans,Excess Moisture/Precip/Rain,123.0,15841.0,7866.5,1253.0
+1,Alabama,3,Baldwin,2010,12,Wheat,Excess Moisture/Precip/Rain,1594.4,108993.0,141301.0,7415.0
+1,Alabama,3,Baldwin,2011,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,31.8,2412.0,36716.0,2040.0
+1,Alabama,3,Baldwin,2011,3,Corn,Excess Moisture/Precip/Rain,14.1,708.0,2734.0,193.0
+1,Alabama,3,Baldwin,2011,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,79.8,4169.0,128732.0,9396.0
+1,Alabama,3,Baldwin,2011,4,Corn,Drought,225.18,92127.7,108404.5,11139.7
+1,Alabama,3,Baldwin,2011,5,Corn,Drought,557.8,108456.2,251805.6,19208.6
+1,Alabama,3,Baldwin,2011,5,Corn,Heat,49.2,3832.8,23405.4,1862.4
+1,Alabama,3,Baldwin,2011,5,Cotton,Drought,382.1,131952.0,142810.0,27708.0
+1,Alabama,3,Baldwin,2011,5,Peanuts,Drought,139.7,11176.0,62656.0,4726.0
+1,Alabama,3,Baldwin,2011,5,Potatoes,Drought,7.0,9443.0,10210.9,1369.2
+1,Alabama,3,Baldwin,2011,6,Corn,Drought,833.5,170558.0,1234722.0,106939.0
+1,Alabama,3,Baldwin,2011,6,Corn,Heat,41.46,16448.7,22784.1,997.5
+1,Alabama,3,Baldwin,2011,6,Corn,Hot Wind,20.56,7785.6,12370.4,414.8
+1,Alabama,3,Baldwin,2011,6,Cotton,Drought,410.4,121720.0,203839.0,24914.0
+1,Alabama,3,Baldwin,2011,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,91.7,4340.0,178631.0,12166.0
+1,Alabama,3,Baldwin,2011,6,Peanuts,Drought,37.0,8997.0,87669.0,5210.0
+1,Alabama,3,Baldwin,2011,6,Potatoes,Heat,3.0,4047.0,4376.1,586.8
+1,Alabama,3,Baldwin,2011,6,Soybeans,Drought,255.7,16649.0,890876.0,65936.0
+1,Alabama,3,Baldwin,2011,6,Soybeans,Excess Moisture/Precip/Rain,20.0,813.0,159981.0,11035.0
+1,Alabama,3,Baldwin,2011,6,Wheat,Drought,70.6,9779.0,19558.0,2164.0
+1,Alabama,3,Baldwin,2011,7,Corn,Drought,331.6,68702.0,149634.0,11079.0
+1,Alabama,3,Baldwin,2011,7,Cotton,Decline In Price,54.0,412.0,28628.0,3367.0
+1,Alabama,3,Baldwin,2011,7,Cotton,Drought,1572.30599999999,81362.7399999999,2311919.28,323921.779999999
+1,Alabama,3,Baldwin,2011,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,20.0,727.0,963.0,87.0
+1,Alabama,3,Baldwin,2011,7,Soybeans,Drought,102.0,4146.0,62637.0,3697.0
+1,Alabama,3,Baldwin,2011,8,Corn,Drought,62.0,2155.0,22859.0,2514.0
+1,Alabama,3,Baldwin,2011,8,Cotton,Drought,89.15,36388.0,45545.0,6924.5
+1,Alabama,3,Baldwin,2011,8,Cotton,Wildlife,20.85,9458.0,9458.0,1642.5
+1,Alabama,3,Baldwin,2011,8,"Pasture,Rangeland,Forage",Area Plan Crops Only,90.6,13822.0,112001.0,7536.0
+1,Alabama,3,Baldwin,2011,8,Peanuts,Drought,15.0,6418.0,8499.0,630.0
+1,Alabama,3,Baldwin,2011,8,Pecans,Drought,1309.0,32926.0,74641.0,8050.0
+1,Alabama,3,Baldwin,2011,8,Soybeans,Drought,172.2,12197.0,100729.0,9608.0
+1,Alabama,3,Baldwin,2011,9,Corn,Drought,238.8,32110.0,113849.0,9658.0
+1,Alabama,3,Baldwin,2011,9,Cotton,Drought,107.4,53506.2,166010.32,22419.1
+1,Alabama,3,Baldwin,2011,9,Cotton,Wind/Excess Wind,0.0,24163.8,108358.68,16773.9
+1,Alabama,3,Baldwin,2011,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,98.6,5019.0,65340.0,4723.0
+1,Alabama,3,Baldwin,2011,9,Pecans,Drought,352.0,3447.0,3629.0,1049.0
+1,Alabama,3,Baldwin,2011,9,Pecans,Wind/Excess Wind,1639.0,14446.0,86022.0,14074.0
+1,Alabama,3,Baldwin,2011,9,Soybeans,Drought,235.9,9859.0,100765.0,10592.0
+1,Alabama,3,Baldwin,2011,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,38.1,120.0,53447.0,3900.0
+1,Alabama,3,Baldwin,2011,11,Cotton,Freeze,11.9,5898.0,6309.0,346.0
+1,Alabama,3,Baldwin,2011,11,Cotton,Frost,78.694,9199.26,61802.72,9054.22
+1,Alabama,3,Baldwin,2011,11,Pecans,Decline In Price,169.0,1090.0,2709.0,344.0
+1,Alabama,3,Baldwin,2011,12,Cotton,Drought,347.3,45748.0,221705.0,30072.0
+1,Alabama,3,Baldwin,2011,12,Wheat,Wildlife,161.3,4608.0,33353.0,1072.0
+1,Alabama,3,Baldwin,2012,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,198.8,6824.0,21056.0,1899.0
+1,Alabama,3,Baldwin,2012,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,45.3,3574.0,8891.0,647.0
+1,Alabama,3,Baldwin,2012,2,Wheat,Excess Moisture/Precip/Rain,326.5,34639.0,61148.0,4934.0
+1,Alabama,3,Baldwin,2012,2,Wheat,Heat,39.9,2619.9,11548.2,786.0
+1,Alabama,3,Baldwin,2012,3,Wheat,Decline In Price,29.2,7449.6,7449.6,574.8
+1,Alabama,3,Baldwin,2012,3,Wheat,Excess Moisture/Precip/Rain,21.9,5587.2,5587.2,431.1
+1,Alabama,3,Baldwin,2012,3,Wheat,Heat,21.9,5587.2,5587.2,431.1
+1,Alabama,3,Baldwin,2012,4,Wheat,Decline In Price,66.4,6734.0,20393.2,1641.6
+1,Alabama,3,Baldwin,2012,4,Wheat,Drought,549.23,84722.55,164172.8,12815.55
+1,Alabama,3,Baldwin,2012,4,Wheat,Excess Moisture/Precip/Rain,49.8,5050.5,15294.9,1231.2
+1,Alabama,3,Baldwin,2012,4,Wheat,Hail,49.8,5050.5,15294.9,1231.2
+1,Alabama,3,Baldwin,2012,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,255.7,4675.0,20846.0,1637.0
+1,Alabama,3,Baldwin,2012,5,Peanuts,Drought,84.8,6784.0,135660.0,5273.0
+1,Alabama,3,Baldwin,2012,5,Peanuts,Excess Moisture/Precip/Rain,263.58,21086.4,275650.98,11576.68
+1,Alabama,3,Baldwin,2012,5,Wheat,Decline In Price,53.2,3493.2,15397.6,1048.0
+1,Alabama,3,Baldwin,2012,5,Wheat,Excess Moisture/Precip/Rain,317.9,29486.9,75435.2,4294.0
+1,Alabama,3,Baldwin,2012,6,All Other Crops,Excess Moisture/Precip/Rain,99.0,56313.0,58608.0,8589.0
+1,Alabama,3,Baldwin,2012,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,32.2,857.0,8268.0,524.0
+1,Alabama,3,Baldwin,2012,6,Peanuts,Excess Moisture/Precip/Rain,263.42,34102.6,450711.02,15788.32
+1,Alabama,3,Baldwin,2012,6,Soybeans,Excess Moisture/Precip/Rain,22.0,810.0,19239.0,1039.0
+1,Alabama,3,Baldwin,2012,6,Wheat,Excess Moisture/Precip/Rain,449.37,69318.45,134323.2,10485.45
+1,Alabama,3,Baldwin,2012,7,Cotton,Drought,46.5,8616.0,19468.0,2428.0
+1,Alabama,3,Baldwin,2012,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,334.9,9136.0,34609.0,3300.0
+1,Alabama,3,Baldwin,2012,7,Peanuts,Heat,65.9,54194.0,56869.0,3293.0
+1,Alabama,3,Baldwin,2012,8,Peanuts,Excess Moisture/Precip/Rain,0.0,30791.0,54594.0,3601.0
+1,Alabama,3,Baldwin,2012,8,Peanuts,Heat,52.7,37920.0,40834.0,2102.0
+1,Alabama,3,Baldwin,2012,8,Pecans,Excess Moisture/Precip/Rain,580.0,4574.0,10714.0,1454.0
+1,Alabama,3,Baldwin,2012,8,Pecans,Hurricane/Tropical Depression,3333.0,43294.0,54089.0,11167.0
+1,Alabama,3,Baldwin,2012,8,Soybeans,Drought,75.5,1405.0,5006.5,403.5
+1,Alabama,3,Baldwin,2012,8,Soybeans,Heat,16.1,489.5,1209.0,79.0
+1,Alabama,3,Baldwin,2012,9,Peanuts,Excess Moisture/Precip/Rain,388.2,54503.0,264454.0,10341.0
+1,Alabama,3,Baldwin,2012,9,Pecans,Hurricane/Tropical Depression,159.0,1996.0,2912.0,278.0
+1,Alabama,3,Baldwin,2012,9,Soybeans,Drought,59.4,915.5,3797.5,324.5
+1,Alabama,3,Baldwin,2012,10,Pecans,Excess Moisture/Precip/Rain,803.0,36900.0,48400.0,5206.0
+1,Alabama,3,Baldwin,2012,11,Pecans,Excess Moisture/Precip/Rain,340.0,875.0,2456.0,870.0
+1,Alabama,3,Baldwin,2012,11,Soybeans,Drought,46.2,2696.0,12005.0,1016.0
+1,Alabama,3,Baldwin,2012,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,12.7,104.0,3482.0,226.0
+1,Alabama,3,Baldwin,2013,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,62.18,1904.0,7395.0,680.0
+1,Alabama,3,Baldwin,2013,2,Wheat,Freeze,38.9,7268.0,9468.0,789.0
+1,Alabama,3,Baldwin,2013,3,Corn,Cold Wet Weather,35.0,1694.0,48678.0,1148.0
+1,Alabama,3,Baldwin,2013,3,Wheat,Frost,15.6,4425.6,4920.0,380.4
+1,Alabama,3,Baldwin,2013,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,84.9,202.0,5959.0,388.0
+1,Alabama,3,Baldwin,2013,5,Peanuts,Excess Moisture/Precip/Rain,117.7,9416.0,64765.0,2637.0
+1,Alabama,3,Baldwin,2013,6,All Other Crops,Excess Moisture/Precip/Rain,300.7,203879.0,312565.0,45808.0
+1,Alabama,3,Baldwin,2013,6,Cotton,Excess Moisture/Precip/Rain,888.75,193588.0,307055.5,45072.5
+1,Alabama,3,Baldwin,2013,6,Grain Sorghum,Excess Moisture/Precip/Rain,191.0,6985.0,19744.0,3258.0
+1,Alabama,3,Baldwin,2013,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,65.4,6491.0,15308.0,1439.0
+1,Alabama,3,Baldwin,2013,6,Peanuts,Excess Moisture/Precip/Rain,987.554,259908.42,531632.62,24614.42
+1,Alabama,3,Baldwin,2013,6,Pecans,Excess Moisture/Precip/Rain,4177.5,81551.0,124313.0,20919.5
+1,Alabama,3,Baldwin,2013,6,Soybeans,Excess Moisture/Precip/Rain,1892.7,206384.0,927729.5,45317.0
+1,Alabama,3,Baldwin,2013,6,Wheat,Excess Moisture/Precip/Rain,105.7,13055.4,28423.0,1898.6
+1,Alabama,3,Baldwin,2013,7,Cotton,Excess Moisture/Precip/Rain,845.05,187807.0,315653.5,40284.5
+1,Alabama,3,Baldwin,2013,7,Grain Sorghum,Excess Moisture/Precip/Rain,72.1,5623.0,8975.0,1758.0
+1,Alabama,3,Baldwin,2013,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,311.4,440.0,17506.0,1689.0
+1,Alabama,3,Baldwin,2013,7,Peanuts,Excess Moisture/Precip/Rain,257.946,25589.58,130779.38,7169.58
+1,Alabama,3,Baldwin,2013,7,Pecans,Excess Moisture/Precip/Rain,3270.5,44692.0,81712.0,14162.5
+1,Alabama,3,Baldwin,2013,7,Soybeans,Excess Moisture/Precip/Rain,773.1,97364.0,171181.5,14809.0
+1,Alabama,3,Baldwin,2013,7,Wheat,Excess Moisture/Precip/Rain,44.4,9141.0,15180.0,962.0
+1,Alabama,3,Baldwin,2013,8,Cotton,Excess Moisture/Precip/Rain,171.1,30214.0,73801.0,5786.0
+1,Alabama,3,Baldwin,2013,8,Peanuts,Excess Moisture/Precip/Rain,111.7,22606.0,63867.0,4124.0
+1,Alabama,3,Baldwin,2013,8,Pecans,Excess Moisture/Precip/Rain,473.0,3960.0,5582.0,781.0
+1,Alabama,3,Baldwin,2013,9,Corn,Excess Moisture/Precip/Rain,30.0,8873.0,14115.0,760.0
+1,Alabama,3,Baldwin,2013,9,Pecans,Excess Moisture/Precip/Rain,187.0,311.0,311.0,122.0
+1,Alabama,3,Baldwin,2013,9,Soybeans,Excess Moisture/Precip/Rain,358.6,35518.0,102839.0,5851.0
+1,Alabama,3,Baldwin,2013,11,Cotton,Excess Moisture/Precip/Rain,23.4,945.0,8719.0,667.0
+1,Alabama,3,Baldwin,2014,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,713.0,1955.0,184.0
+1,Alabama,3,Baldwin,2014,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,5649.0,18120.0,1443.0
+1,Alabama,3,Baldwin,2014,4,All Other Crops,Excess Moisture/Precip/Rain,30.0,53007.0,62367.0,6182.0
+1,Alabama,3,Baldwin,2014,4,Corn,Excess Moisture/Precip/Rain,5.0,180.0,5798.0,483.0
+1,Alabama,3,Baldwin,2014,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,2238.0,25821.0,1930.0
+1,Alabama,3,Baldwin,2014,4,Pecans,Cold Wet Weather,135.5,2498.0,2498.0,271.5
+1,Alabama,3,Baldwin,2014,5,All Other Crops,Excess Moisture/Precip/Rain,287.8,204468.0,216714.0,31760.0
+1,Alabama,3,Baldwin,2014,5,Corn,Excess Moisture/Precip/Rain,98.5,27974.0,41750.0,3072.0
+1,Alabama,3,Baldwin,2014,5,Cotton,Excess Moisture/Precip/Rain,457.4,58122.0,91637.0,16009.0
+1,Alabama,3,Baldwin,2014,5,Oats,Excess Moisture/Precip/Rain,62.76,504.0,2816.4,73.2
+1,Alabama,3,Baldwin,2014,5,Peanuts,Excess Moisture/Precip/Rain,335.008,47205.28,522519.03,19693.82
+1,Alabama,3,Baldwin,2014,5,Soybeans,Excess Moisture/Precip/Rain,349.598,40265.46,86658.92,6379.46999999999
+1,Alabama,3,Baldwin,2014,5,Wheat,Excess Moisture/Precip/Rain,639.73,49112.4,150676.6,9551.4
+1,Alabama,3,Baldwin,2014,6,Oats,Excess Moisture/Precip/Rain,41.84,336.0,1877.6,48.8
+1,Alabama,3,Baldwin,2014,6,Peanuts,Excess Moisture/Precip/Rain,174.452,33235.32,135051.86,4784.34
+1,Alabama,3,Baldwin,2014,6,Peanuts,Heat,271.373999999999,65766.23,181770.655,6778.42
+1,Alabama,3,Baldwin,2014,6,Soybeans,Drought,59.2,2882.0,14905.0,898.0
+1,Alabama,3,Baldwin,2014,6,Soybeans,Excess Moisture/Precip/Rain,511.503,46066.2,151273.6,8535.14
+1,Alabama,3,Baldwin,2014,6,Wheat,Decline In Price,545.04,38506.0,126508.599999999,8410.0
+1,Alabama,3,Baldwin,2014,6,Wheat,Excess Moisture/Precip/Rain,780.93,54362.6,163922.8,9593.6
+1,Alabama,3,Baldwin,2014,7,Cotton,Decline In Price,84.0,1189.0,43374.0,2829.0
+1,Alabama,3,Baldwin,2014,7,Cotton,Excess Moisture/Precip/Rain,145.12,9313.6,50773.6,3728.0
+1,Alabama,3,Baldwin,2014,7,Peanuts,Drought,358.376,83777.9,233027.25,8920.98
+1,Alabama,3,Baldwin,2014,7,Peanuts,Excess Moisture/Precip/Rain,79.2,11344.8,63012.0,1006.4
+1,Alabama,3,Baldwin,2014,7,Peanuts,Heat,271.373999999999,65766.23,181770.655,6778.42
+1,Alabama,3,Baldwin,2014,7,Pecans,Excess Moisture/Precip/Rain,135.5,2498.0,2498.0,271.5
+1,Alabama,3,Baldwin,2014,7,Soybeans,Excess Moisture/Precip/Rain,9.6,3008.0,3008.0,156.0
+1,Alabama,3,Baldwin,2014,7,Wheat,Excess Moisture/Precip/Rain,141.1,15626.0,37093.0,2445.0
+1,Alabama,3,Baldwin,2014,8,Cotton,Heat,36.28,2328.4,12693.4,932.0
+1,Alabama,3,Baldwin,2014,8,Peanuts,Drought,175.126,27372.14,98284.97,4004.59
+1,Alabama,3,Baldwin,2014,8,Peanuts,Heat,327.04,158823.4,217689.6,10227.4
+1,Alabama,3,Baldwin,2014,8,Soybeans,Decline In Price,147.798,7140.68,41195.76,2643.5
+1,Alabama,3,Baldwin,2014,8,Soybeans,Drought,276.451,18729.66,59606.62,3706.25
+1,Alabama,3,Baldwin,2014,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,63.0,5283.0,319.0
+1,Alabama,3,Baldwin,2014,9,Peanuts,Drought,68.55,12558.7,46543.4,1994.7
+1,Alabama,3,Baldwin,2014,9,Peanuts,Excess Moisture/Precip/Rain,71.3,11122.0,44519.0,2774.0
+1,Alabama,3,Baldwin,2014,10,Cotton,Excess Moisture/Precip/Rain,189.5,51807.0,87906.0,7748.0
+1,Alabama,3,Baldwin,2014,10,Peanuts,Drought,118.2,29408.0,60179.0,2739.0
+1,Alabama,3,Baldwin,2014,10,Peanuts,Excess Moisture/Precip/Rain,153.6,46235.0,87448.0,6571.0
+1,Alabama,3,Baldwin,2014,10,Soybeans,Drought,141.2,13379.0,33318.0,2518.0
+1,Alabama,3,Baldwin,2014,11,Cotton,Decline In Price,325.1,69568.0,125127.0,13751.0
+1,Alabama,3,Baldwin,2014,11,Soybeans,Decline In Price,10.4,1243.0,2331.5,155.0
+1,Alabama,3,Baldwin,2014,11,Soybeans,Excess Moisture/Precip/Rain,75.0,14508.0,22324.0,1328.0
+1,Alabama,3,Baldwin,2014,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,4043.0,7219.0,448.0
+1,Alabama,3,Baldwin,2015,3,Corn,Excess Moisture/Precip/Rain,246.0,17789.0,84764.0,8530.0
+1,Alabama,3,Baldwin,2015,4,Corn,Excess Moisture/Precip/Rain,37.0,1199.0,42899.0,1957.0
+1,Alabama,3,Baldwin,2015,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,4295.0,43693.0,3361.0
+1,Alabama,3,Baldwin,2015,4,Wheat,Excess Moisture/Precip/Rain,930.05,100914.0,156068.0,9479.0
+1,Alabama,3,Baldwin,2015,5,All Other Crops,Excess Moisture/Precip/Rain,173.8,133304.0,133305.0,19537.0
+1,Alabama,3,Baldwin,2015,5,Oats,Excess Moisture/Precip/Rain,230.9,20004.5,27255.5,862.5
+1,Alabama,3,Baldwin,2015,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,1132.0,4112.0,270.0
+1,Alabama,3,Baldwin,2015,5,Peanuts,Excess Moisture/Precip/Rain,146.162,13886.58,178791.02,9005.08
+1,Alabama,3,Baldwin,2015,5,Peanuts,Wildlife,44.778,4254.42,45949.98,2239.92
+1,Alabama,3,Baldwin,2015,5,Wheat,Excess Moisture/Precip/Rain,548.295,56443.32,89010.75,5385.78
+1,Alabama,3,Baldwin,2015,6,Cotton,Wildlife,36.0,8608.0,10376.0,1476.0
+1,Alabama,3,Baldwin,2015,6,Oats,Excess Moisture/Precip/Rain,37.1,1758.5,3421.5,84.5
+1,Alabama,3,Baldwin,2015,6,Peanuts,Excess Moisture/Precip/Rain,44.0,4180.0,75380.5,3240.0
+1,Alabama,3,Baldwin,2015,6,Soybeans,Drought,28.1,815.0,5867.0,407.0
+1,Alabama,3,Baldwin,2015,6,Soybeans,Excess Moisture/Precip/Rain,40.0,1160.0,8703.0,142.0
+1,Alabama,3,Baldwin,2015,6,Wheat,Excess Moisture/Precip/Rain,385.395,61495.82,76916.25,5402.28
+1,Alabama,3,Baldwin,2015,7,Cotton,Wildlife,34.8,10852.0,10875.0,986.0
+1,Alabama,3,Baldwin,2015,7,Peanuts,Drought,489.854999999999,101883.67,235908.29,9737.62
+1,Alabama,3,Baldwin,2015,7,Pecans,Drought,150.0,2766.5,5728.0,561.5
+1,Alabama,3,Baldwin,2015,7,Soybeans,Drought,123.321,22598.4,25931.4,2108.7
+1,Alabama,3,Baldwin,2015,7,Wheat,Decline In Price,292.21,57430.86,64537.0,4830.94
+1,Alabama,3,Baldwin,2015,8,Cotton,Drought,138.0,23041.0,42609.0,3277.0
+1,Alabama,3,Baldwin,2015,8,Peanuts,Drought,380.055,72889.67,203576.789999999,10792.6199999999
+1,Alabama,3,Baldwin,2015,8,Pecans,Drought,150.0,2766.5,5728.0,561.5
+1,Alabama,3,Baldwin,2015,8,Soybeans,Drought,57.5,6675.6,11647.35,648.45
+1,Alabama,3,Baldwin,2015,9,Cotton,Excess Moisture/Precip/Rain,327.9,87526.0,126980.0,11391.0
+1,Alabama,3,Baldwin,2015,9,Peanuts,Excess Moisture/Precip/Rain,1006.5,171222.0,478755.0,34646.0
+1,Alabama,3,Baldwin,2015,9,Soybeans,Drought,78.5,5043.5,13688.5,667.0
+1,Alabama,3,Baldwin,2015,10,Peanuts,Decline In Price,104.89,13837.66,53571.42,2996.76
+1,Alabama,3,Baldwin,2015,10,Peanuts,Drought,119.0,26907.0,63575.0,3011.0
+1,Alabama,3,Baldwin,2015,10,Peanuts,Excess Moisture/Precip/Rain,159.5,64572.0,84574.0,5026.0
+1,Alabama,3,Baldwin,2015,10,Soybeans,Excess Moisture/Precip/Rain,313.9,40931.9,90365.15,5658.55
+1,Alabama,3,Baldwin,2015,10,Soybeans,Wildlife,39.4,1859.2,7987.6,564.0
+1,Alabama,3,Baldwin,2015,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,530.0,2110.0,118.0
+1,Alabama,3,Baldwin,2015,11,Soybeans,Decline In Price,773.034,27476.16,197274.58,12228.48
+1,Alabama,3,Baldwin,2015,11,Soybeans,Drought,94.1,11986.0,21577.0,1612.0
+1,Alabama,3,Baldwin,2015,11,Soybeans,Excess Moisture/Precip/Rain,585.911999999999,5938.32,155022.21,9172.56
+1,Alabama,3,Baldwin,2015,12,Cotton,Excess Moisture/Precip/Rain,34.9,12225.0,12467.0,1152.0
+1,Alabama,3,Baldwin,2015,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,4134.0,23395.0,1833.0
+1,Alabama,3,Baldwin,2015,12,Peanuts,Excess Moisture/Precip/Rain,216.1,43984.0,76708.0,3379.0
+1,Alabama,3,Baldwin,2015,12,Soybeans,Excess Moisture/Precip/Rain,870.833,45875.92,226775.21,14728.26
+1,Alabama,3,Baldwin,2016,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,3455.0,4569.0,457.0
+1,Alabama,3,Baldwin,2016,3,Corn,Excess Moisture/Precip/Rain,121.3,3698.0,61509.0,6267.0
+1,Alabama,3,Baldwin,2016,3,Peanuts,Excess Moisture/Precip/Rain,20.4,1642.2,4692.0,131.92
+1,Alabama,3,Baldwin,2016,4,Corn,Excess Moisture/Precip/Rain,158.4,5637.0,104552.0,6267.0
+1,Alabama,3,Baldwin,2016,4,Oats,Excess Moisture/Precip/Rain,207.9,19792.0,24420.0,825.0
+1,Alabama,3,Baldwin,2016,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,1196.0,9737.0,693.0
+1,Alabama,3,Baldwin,2016,4,Peanuts,Excess Moisture/Precip/Rain,19.8,1593.9,4554.0,128.04
+1,Alabama,3,Baldwin,2016,4,Wheat,Excess Moisture/Precip/Rain,27.0,587.0,4226.0,75.0
+1,Alabama,3,Baldwin,2016,5,Peanuts,Excess Moisture/Precip/Rain,148.3,13801.9,207200.0,17546.04
+1,Alabama,3,Baldwin,2016,5,Potatoes,Excess Moisture/Precip/Rain,120.3,160083.0,202472.0,28929.0
+1,Alabama,3,Baldwin,2016,6,All Other Crops,Wind/Excess Wind,39.6,29106.0,29106.0,4266.0
+1,Alabama,3,Baldwin,2016,6,Corn,Drought,40.7,12303.0,15522.0,1752.0
+1,Alabama,3,Baldwin,2016,6,Peanuts,Excess Moisture/Precip/Rain,38.0,3610.0,171856.0,6255.0
+1,Alabama,3,Baldwin,2016,6,Pecans,Heat,8.16,1468.8,1468.8,272.68
+1,Alabama,3,Baldwin,2016,6,Pecans,Plant Disease,8.9,3812.25,15957.75,2596.0
+1,Alabama,3,Baldwin,2016,6,Soybeans,Wildlife,21.0,2120.0,3863.0,232.0
+1,Alabama,3,Baldwin,2016,7,Pecans,Drought,9.0,1854.0,1854.0,285.0
+1,Alabama,3,Baldwin,2016,7,Pecans,Excess Moisture/Precip/Rain,8.9,3812.25,15957.75,2596.0
+1,Alabama,3,Baldwin,2016,7,Pecans,Heat,16.82,5237.85,17383.35,2860.66
+1,Alabama,3,Baldwin,2016,7,Pecans,Other,8.9,3812.25,15957.75,2596.0
+1,Alabama,3,Baldwin,2016,7,Soybeans,Drought,167.916,4409.04,28898.86,1737.13999999999
+1,Alabama,3,Baldwin,2016,7,Soybeans,Excess Moisture/Precip/Rain,139.2,42520.0,44673.0,2829.0
+1,Alabama,3,Baldwin,2016,7,Soybeans,Heat,1269.4,73219.0,159648.0,9423.5
+1,Alabama,3,Baldwin,2016,8,Cotton,Drought,107.2,26282.0,31903.0,1813.0
+1,Alabama,3,Baldwin,2016,8,Cotton,Wildlife,49.2,6152.0,13300.0,1587.0
+1,Alabama,3,Baldwin,2016,8,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,1017.0,6715.0,492.0
+1,Alabama,3,Baldwin,2016,8,Peanuts,Drought,156.1,35373.0,70283.0,2413.0
+1,Alabama,3,Baldwin,2016,8,Pecans,Drought,9.0,1854.0,1854.0,285.0
+1,Alabama,3,Baldwin,2016,8,Pecans,Heat,7.92,1425.6,1425.6,264.66
+1,Alabama,3,Baldwin,2016,8,Soybeans,Drought,170.992,4558.48,29058.32,1741.18
+1,Alabama,3,Baldwin,2016,8,Soybeans,Heat,31.152,256.08,1271.82,31.68
+1,Alabama,3,Baldwin,2016,9,Cotton,Drought,54.0,6555.0,14363.0,1615.0
+1,Alabama,3,Baldwin,2016,9,Cotton,Heat,266.9,70941.0,108595.0,10928.0
+1,Alabama,3,Baldwin,2016,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,48.0,6880.0,421.0
+1,Alabama,3,Baldwin,2016,9,Peanuts,Drought,486.1,139860.0,257844.0,13035.0
+1,Alabama,3,Baldwin,2016,9,Peanuts,Heat,74.5,24273.0,33565.0,3097.0
+1,Alabama,3,Baldwin,2016,9,Soybeans,Drought,8.04,314.4,396.0,10.0
+1,Alabama,3,Baldwin,2016,10,Cotton,Drought,96.0,4880.0,40558.0,2940.0
+1,Alabama,3,Baldwin,2016,10,Soybeans,Drought,115.1,18329.0,24048.0,1838.0
+1,Alabama,3,Baldwin,2016,10,Soybeans,Heat,142.8,10707.0,31922.0,2043.0
+1,Alabama,3,Baldwin,2016,11,Soybeans,Heat,72.3,10098.0,14611.0,504.0
+1,Alabama,3,Baldwin,2016,12,Cotton,Excess Moisture/Precip/Rain,293.0,51079.0,116516.0,10273.0
+1,Alabama,3,Baldwin,2016,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,9569.0,16098.0,1562.0
+1,Alabama,3,Baldwin,2017,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,7087.0,10828.0,803.0
+1,Alabama,3,Baldwin,2017,3,All Other Crops,Freeze,11.2,33395.0,51242.0,3197.0
+1,Alabama,3,Baldwin,2017,5,All Other Crops,Excess Moisture/Precip/Rain,29.92,19440.0,20944.0,1841.0
+1,Alabama,3,Baldwin,2017,5,Corn,Excess Moisture/Precip/Rain,89.0,8037.0,8037.0,678.0
+1,Alabama,3,Baldwin,2017,5,Cotton,Excess Moisture/Precip/Rain,179.7,31376.0,31376.0,8462.0
+1,Alabama,3,Baldwin,2017,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,4324.0,6924.0,499.0
+1,Alabama,3,Baldwin,2017,5,Peanuts,Excess Moisture/Precip/Rain,322.3,59471.0,139409.0,7213.0
+1,Alabama,3,Baldwin,2017,5,Peanuts,Wildlife,60.0,5700.0,40246.0,999.0
+1,Alabama,3,Baldwin,2017,5,Potatoes,Plant Disease,17.0,16105.0,31445.0,4305.0
+1,Alabama,3,Baldwin,2017,5,Soybeans,Excess Moisture/Precip/Rain,407.65,67334.0,74275.0,8092.5
+1,Alabama,3,Baldwin,2017,6,All Other Crops,Excess Moisture/Precip/Rain,238.2,178650.0,178650.0,28228.0
+1,Alabama,3,Baldwin,2017,6,Corn,Excess Moisture/Precip/Rain,329.1,71909.0,71909.0,9055.0
+1,Alabama,3,Baldwin,2017,6,Cotton,Excess Moisture/Precip/Rain,946.359999999999,189118.0,205921.0,41721.0
+1,Alabama,3,Baldwin,2017,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,13110.0,29619.0,2812.0
+1,Alabama,3,Baldwin,2017,6,Peanuts,Excess Moisture/Precip/Rain,876.33,140715.5,662592.0,25941.5
+1,Alabama,3,Baldwin,2017,6,Peanuts,Wildlife,12.5,1187.5,16445.0,683.0
+1,Alabama,3,Baldwin,2017,6,Soybeans,Excess Moisture/Precip/Rain,1487.75,203607.0,245915.0,23571.5
+1,Alabama,3,Baldwin,2017,6,Wheat,Excess Moisture/Precip/Rain,98.9,1911.0,5978.0,58.0
+1,Alabama,3,Baldwin,2017,7,Cotton,Area Plan Crops Only,7378.675,50795.0,757764.0,213250.0
+1,Alabama,3,Baldwin,2017,7,Cotton,Excess Moisture/Precip/Rain,123.759999999999,26730.0,54443.0,4824.0
+1,Alabama,3,Baldwin,2017,7,Peanuts,Excess Moisture/Precip/Rain,173.519999999999,46527.0,73231.0,2562.0
+1,Alabama,3,Baldwin,2017,7,Soybeans,Excess Moisture/Precip/Rain,106.2,5017.0,6648.0,127.0
+1,Alabama,3,Baldwin,2017,8,Cotton,Decline In Price,5.0,36.0,2340.0,265.0
+1,Alabama,3,Baldwin,2017,8,Peanuts,Wildlife,48.0,8773.0,20357.0,771.0
+1,Alabama,3,Baldwin,2017,8,Soybeans,Excess Moisture/Precip/Rain,30.789,706.53,1272.15,36.63
+1,Alabama,3,Baldwin,2017,9,Cotton,Excess Moisture/Precip/Rain,183.78,71971.2,86911.2,10076.4
+1,Alabama,3,Baldwin,2017,9,Cotton,Wind/Excess Wind,122.52,47980.8,57940.8,6717.6
+1,Alabama,3,Baldwin,2017,9,Peanuts,Heat,203.6,88202.0,113876.0,6780.0
+1,Alabama,3,Baldwin,2017,9,Peanuts,Hurricane/Tropical Depression,16.63,1403.0,9153.0,402.0
+1,Alabama,3,Baldwin,2017,9,Soybeans,Excess Moisture/Precip/Rain,31.722,727.94,1310.7,37.74
+1,Alabama,3,Baldwin,2017,9,Soybeans,Hurricane/Tropical Depression,268.25,19705.0,60635.0,4971.0
+1,Alabama,3,Baldwin,2017,10,Cotton,Decline In Price,69.4,1899.0,27826.0,3244.0
+1,Alabama,3,Baldwin,2017,10,Cotton,Excess Moisture/Precip/Rain,1.174,33.62,699.1,56.61
+1,Alabama,3,Baldwin,2017,10,Peanuts,Excess Moisture/Precip/Rain,1027.14,201578.8,594676.9,21435.3
+1,Alabama,3,Baldwin,2017,10,Peanuts,Hurricane/Tropical Depression,369.41,107917.2,196976.1,7474.2
+1,Alabama,3,Baldwin,2017,10,Pecans,Excess Moisture/Precip/Rain,183.91,53302.7,133979.0,21800.7
+1,Alabama,3,Baldwin,2017,10,Pecans,Hurricane/Tropical Depression,86.99,28278.3,69864.0,11389.3
+1,Alabama,3,Baldwin,2017,10,Soybeans,Excess Moisture/Precip/Rain,30.789,706.53,1272.15,36.63
+1,Alabama,3,Baldwin,2017,11,Cotton,Decline In Price,116.226,3328.38,69210.9,5604.39
+1,Alabama,3,Baldwin,2017,12,Wheat,Drought,93.0,7694.0,7694.0,994.0
+1,Alabama,3,Baldwin,2018,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,778.0,6482.0,673.0
+1,Alabama,3,Baldwin,2018,3,All Other Crops,Freeze,7.76,11955.0,35968.0,2278.0
+1,Alabama,3,Baldwin,2018,4,Corn,Excess Moisture/Precip/Rain,20.0,611.0,27316.0,2469.0
+1,Alabama,3,Baldwin,2018,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,266.0,6482.0,456.0
+1,Alabama,3,Baldwin,2018,4,Potatoes,Cold Wet Weather,64.0,123300.0,137000.0,19299.0
+1,Alabama,3,Baldwin,2018,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,202.0,1263.0,82.0
+1,Alabama,3,Baldwin,2018,5,Peanuts,Drought,35.0,3325.0,17495.0,359.5
+1,Alabama,3,Baldwin,2018,5,Peanuts,Excess Moisture/Precip/Rain,53.6,5092.0,60086.0,1473.5
+1,Alabama,3,Baldwin,2018,5,Potatoes,Excess Moisture/Precip/Rain,69.0,83182.0,118571.0,15061.0
+1,Alabama,3,Baldwin,2018,6,All Other Crops,Excess Moisture/Precip/Rain,169.8,129218.0,129218.0,20417.0
+1,Alabama,3,Baldwin,2018,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,5899.0,15897.0,1477.0
+1,Alabama,3,Baldwin,2018,6,Peanuts,Excess Moisture/Precip/Rain,102.399999999999,33924.0,52378.0,1248.0
+1,Alabama,3,Baldwin,2018,6,Pecans,Excess Moisture/Precip/Rain,31.0,41632.5,70393.5,16453.5
+1,Alabama,3,Baldwin,2018,6,Potatoes,Excess Moisture/Precip/Rain,143.63,222265.0,259180.0,33422.0
+1,Alabama,3,Baldwin,2018,6,Soybeans,Excess Moisture/Precip/Rain,129.3,3914.0,61092.0,3256.0
+1,Alabama,3,Baldwin,2018,7,Cotton,Area Plan Crops Only,6335.955,984553.0,959575.0,240452.0
+1,Alabama,3,Baldwin,2018,7,Cotton,Wildlife,227.26,87584.0,90234.0,12139.0
+1,Alabama,3,Baldwin,2018,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,307.0,1263.0,129.0
+1,Alabama,3,Baldwin,2018,7,Peanuts,Excess Moisture/Precip/Rain,53.64,17506.4,31002.2,963.6
+1,Alabama,3,Baldwin,2018,9,Corn,Hurricane/Tropical Depression,66.59,7629.0,19934.0,1929.0
+1,Alabama,3,Baldwin,2018,9,Corn,Mycotoxin (Aflatoxin),156.84,44518.0,49428.0,5107.0
+1,Alabama,3,Baldwin,2018,9,Cotton,Excess Moisture/Precip/Rain,245.265,41652.0,112035.0,12375.0
+1,Alabama,3,Baldwin,2018,9,Cotton,Hurricane/Tropical Depression,340.7,53676.0,219290.0,23070.0
+1,Alabama,3,Baldwin,2018,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,0.0,831.0,6439.0,384.0
+1,Alabama,3,Baldwin,2018,9,Peanuts,Excess Moisture/Precip/Rain,280.58,50968.0,124999.0,4146.0
+1,Alabama,3,Baldwin,2018,9,Peanuts,Hurricane/Tropical Depression,26.0,5717.5,15260.0,552.0
+1,Alabama,3,Baldwin,2018,9,Pecans,Hurricane/Tropical Depression,6.65,1930.75,3564.5,815.75
+1,Alabama,3,Baldwin,2018,10,Cotton,Excess Moisture/Precip/Rain,2063.51449999999,629166.5,995399.2,107629.549999999
+1,Alabama,3,Baldwin,2018,10,Cotton,Hurricane/Tropical Depression,1756.2705,465859.5,913911.8,94831.95
+1,Alabama,3,Baldwin,2018,10,Peanuts,Excess Moisture/Precip/Rain,480.694,129631.22,243032.03,8595.93
+1,Alabama,3,Baldwin,2018,10,Peanuts,Hurricane/Tropical Depression,148.832,27059.16,78453.7399999999,3041.54
+1,Alabama,3,Baldwin,2018,10,Pecans,Excess Moisture/Precip/Rain,6.65,1930.75,3564.5,815.75
+1,Alabama,3,Baldwin,2018,10,Soybeans,Excess Moisture/Precip/Rain,352.1275,10913.5,41821.25,539.5
+1,Alabama,3,Baldwin,2018,10,Soybeans,Hurricane/Tropical Depression,485.1675,52909.5,96039.25,4486.5
+1,Alabama,3,Baldwin,2018,11,Cotton,Excess Moisture/Precip/Rain,437.602499999999,108727.5,242339.0,23395.75
+1,Alabama,3,Baldwin,2018,11,Cotton,Other,437.602499999999,108727.5,242339.0,23395.75
+1,Alabama,3,Baldwin,2018,11,Peanuts,Excess Moisture/Precip/Rain,152.983999999999,26848.72,78881.03,3099.93
+1,Alabama,3,Baldwin,2018,11,Pecans,Excess Moisture/Precip/Rain,16.15,23050.25,29281.0,6826.75
+1,Alabama,3,Baldwin,2018,11,Pecans,Other,6.65,1930.75,3564.5,815.75
+1,Alabama,3,Baldwin,2018,11,Soybeans,Excess Moisture/Precip/Rain,218.0675,445.5,25603.25,322.5
+1,Alabama,3,Baldwin,2018,11,Soybeans,Other,218.0675,445.5,25603.25,322.5
+1,Alabama,3,Baldwin,2018,12,Cotton,Excess Moisture/Precip/Rain,221.03,2968.0,105256.0,14503.0
+1,Alabama,3,Baldwin,2018,12,Pecans,Excess Moisture/Precip/Rain,21.5,20513.0,44677.0,10442.5
+1,Alabama,3,Baldwin,2019,1,Wheat,Drought,26.5,2881.0,4386.5,310.5
+1,Alabama,3,Baldwin,2019,2,Wheat,Drought,40.5,5103.0,6704.0,474.5
+1,Alabama,3,Baldwin,2019,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,372.0,2945.0,13694.0,1049.0
+1,Alabama,3,Baldwin,2019,4,Oats,Excess Moisture/Precip/Rain,43.5,673.0,3650.5,274.0
+1,Alabama,3,Baldwin,2019,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,264.18,3653.0,7931.0,561.0
+1,Alabama,3,Baldwin,2019,4,Wheat,Drought,14.0,2222.0,2317.5,164.0
+1,Alabama,3,Baldwin,2019,4,Wheat,Excess Moisture/Precip/Rain,138.46,12002.0,22456.0,1817.0
+1,Alabama,3,Baldwin,2019,5,Corn,Excess Moisture/Precip/Rain,103.63,30849.0,32090.0,3376.0
+1,Alabama,3,Baldwin,2019,5,Cotton,Drought,8.766,1186.0,3159.2,356.0
+1,Alabama,3,Baldwin,2019,5,Cotton,Excess Moisture/Precip/Rain,44.55,24355.32,24355.32,3389.43
+1,Alabama,3,Baldwin,2019,5,Oats,Excess Moisture/Precip/Rain,43.5,673.0,3650.5,274.0
+1,Alabama,3,Baldwin,2019,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,216.37,4393.0,8494.0,568.0
+1,Alabama,3,Baldwin,2019,5,Peanuts,Drought,6.9525,984.25,3471.25,81.25
+1,Alabama,3,Baldwin,2019,5,Peanuts,Excess Moisture/Precip/Rain,194.0,11402.0,99160.0,2612.0
+1,Alabama,3,Baldwin,2019,5,Pecans,Drought,495.0,23489.25,37081.25,8295.25
+1,Alabama,3,Baldwin,2019,5,Soybeans,Drought,54.356,2471.1,12849.5,734.2
+1,Alabama,3,Baldwin,2019,6,All Other Crops,Wind/Excess Wind,236.65,163621.0,188846.0,29838.0
+1,Alabama,3,Baldwin,2019,6,Cotton,Drought,284.806,6063.6,167312.4,15002.0
+1,Alabama,3,Baldwin,2019,6,Cotton,Excess Moisture/Precip/Rain,44.55,24355.32,24355.32,3389.43
+1,Alabama,3,Baldwin,2019,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,298.59,5082.0,15062.0,1442.0
+1,Alabama,3,Baldwin,2019,6,Peanuts,Drought,6.9525,984.25,3471.25,81.25
+1,Alabama,3,Baldwin,2019,6,Peanuts,Excess Moisture/Precip/Rain,538.47,9595.0,299829.0,5874.0
+1,Alabama,3,Baldwin,2019,6,Pecans,Drought,495.0,23489.25,37081.25,8295.25
+1,Alabama,3,Baldwin,2019,6,Soybeans,Drought,54.356,2471.1,12849.5,734.2
+1,Alabama,3,Baldwin,2019,6,Soybeans,Excess Moisture/Precip/Rain,303.86,11141.0,86541.5,4836.5
+1,Alabama,3,Baldwin,2019,7,Cotton,Area Plan Crops Only,0.0,257693.0,443313.0,114075.0
+1,Alabama,3,Baldwin,2019,7,Cotton,Drought,8.766,1186.0,3159.2,356.0
+1,Alabama,3,Baldwin,2019,7,Cotton,Other,17.532,2372.0,6318.4,712.0
+1,Alabama,3,Baldwin,2019,7,Cotton,Wildlife,80.99,35179.0,38274.0,3782.0
+1,Alabama,3,Baldwin,2019,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,276.37,490.0,9756.0,1017.0
+1,Alabama,3,Baldwin,2019,7,Peanuts,Drought,6.9525,984.25,3471.25,81.25
+1,Alabama,3,Baldwin,2019,7,Peanuts,Other,6.9525,984.25,3471.25,81.25
+1,Alabama,3,Baldwin,2019,7,Pecans,Drought,495.0,23489.25,37081.25,8295.25
+1,Alabama,3,Baldwin,2019,7,Pecans,Other,495.0,23489.25,37081.25,8295.25
+1,Alabama,3,Baldwin,2019,7,Soybeans,Drought,54.356,2471.1,12849.5,734.2
+1,Alabama,3,Baldwin,2019,7,Soybeans,Other,98.712,4196.7,23561.5,1387.4
+1,Alabama,3,Baldwin,2019,8,Cotton,Area Plan Crops Only,0.0,76451.0,143814.0,36051.0
+1,Alabama,3,Baldwin,2019,8,Cotton,Drought,330.47,13890.6,191153.2,17851.0
+1,Alabama,3,Baldwin,2019,8,Cotton,Excess Moisture/Precip/Rain,12.0,681.0,4200.0,430.0
+1,Alabama,3,Baldwin,2019,8,Cotton,Heat,70.0,3183.5,37548.5,2399.0
+1,Alabama,3,Baldwin,2019,8,Peanuts,Drought,16.0,257.0,8039.0,275.0
+1,Alabama,3,Baldwin,2019,8,Soybeans,Drought,154.83,12529.0,42016.0,2670.0
+1,Alabama,3,Baldwin,2019,9,Cotton,Decline In Price,104.0,598.0,45814.0,4135.0
+1,Alabama,3,Baldwin,2019,9,Cotton,Drought,75.0,26133.0,36744.0,3706.0
+1,Alabama,3,Baldwin,2019,9,Cotton,Excess Moisture/Precip/Rain,28.0,6303.0,10940.0,1028.0
+1,Alabama,3,Baldwin,2019,9,Cotton,Heat,70.0,3183.5,37548.5,2399.0
+1,Alabama,3,Baldwin,2019,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,173.41,331.0,5802.0,350.0
+1,Alabama,3,Baldwin,2019,9,Peanuts,Drought,110.54,23919.0,49631.0,1067.0
+1,Alabama,3,Baldwin,2019,9,Soybeans,Drought,44.04,6128.8,12039.2,817.6
+1,Alabama,3,Baldwin,2019,9,Soybeans,Heat,238.49,30388.2,70836.8,4062.4
+1,Alabama,3,Baldwin,2019,10,Corn,Drought,637.66,81159.0,202354.0,21192.0
+1,Alabama,3,Baldwin,2019,10,Cotton,Decline In Price,45.9,25093.36,25093.36,3492.14
+1,Alabama,3,Baldwin,2019,10,Cotton,Drought,212.6,41249.0,102764.0,10817.0
+1,Alabama,3,Baldwin,2019,10,Cotton,Excess Moisture/Precip/Rain,226.57,55271.0,98130.0,11491.0
+1,Alabama,3,Baldwin,2019,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,42.96,134.0,483.0,28.0
+1,Alabama,3,Baldwin,2019,10,Peanuts,Drought,130.39,48240.0,81873.0,2321.0
+1,Alabama,3,Baldwin,2019,10,Soybeans,Drought,359.38,47748.0,80615.5,5422.5
+1,Alabama,3,Baldwin,2019,11,Cotton,Wildlife,26.0,11124.0,12371.0,1310.0
+1,Alabama,3,Baldwin,2019,11,Oats,Excess Moisture/Precip/Rain,99.3,1993.0,5694.0,122.0
+1,Alabama,3,Baldwin,2019,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,100.0,2391.0,4563.0,290.0
+1,Alabama,3,Baldwin,2019,11,Pecans,Heat,472.2,5262.0,8554.8,1957.8
+1,Alabama,3,Baldwin,2019,11,Pecans,Hot Wind,314.8,3508.0,5703.2,1305.2
+1,Alabama,3,Baldwin,2019,11,Soybeans,Excess Moisture/Precip/Rain,59.5,11270.0,14240.0,744.0
+1,Alabama,3,Baldwin,2019,12,Cotton,Decline In Price,138.02,2438.8,82076.6,7323.0
+1,Alabama,3,Baldwin,2019,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,261.6,1827.0,6823.0,681.0
+1,Alabama,3,Baldwin,2019,12,Wheat,Excess Moisture/Precip/Rain,399.25,37211.0,54160.0,5002.0
+1,Alabama,3,Baldwin,2020,1,All Other Crops,Freeze,11.1,35205.0,42672.0,3724.0
+1,Alabama,3,Baldwin,2020,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,73.19,3296.0,12178.0,1260.0
+1,Alabama,3,Baldwin,2020,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,11.6076,146.0,522.0,53.0
+1,Alabama,3,Baldwin,2020,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,286.5161,29514.0,53493.0,4197.0
+1,Alabama,3,Baldwin,2020,4,Oats,Drought,17.095,400.5,1525.0,119.5
+1,Alabama,3,Baldwin,2020,5,Oats,Drought,17.095,400.5,1525.0,119.5
+1,Alabama,3,Baldwin,2020,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,270.51,9498.0,25122.0,1606.0
+1,Alabama,3,Baldwin,2020,5,Peanuts,Excess Moisture/Precip/Rain,149.8,9310.0,80209.0,1885.0
+1,Alabama,3,Baldwin,2020,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,268.6964,41882.0,75442.0,7537.0
+1,Alabama,3,Baldwin,2020,6,Peanuts,Hurricane/Tropical Depression,122.45,7734.0,56942.0,1211.0
+1,Alabama,3,Baldwin,2020,7,Cotton,Area Plan Crops Only,0.0,22487.0,22487.0,5314.0
+1,Alabama,3,Baldwin,2020,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,145.452,4826.0,16606.0,1701.0
+1,Alabama,3,Baldwin,2020,8,Cotton,Area Plan Crops Only,0.0,183013.0,183013.0,42021.0
+1,Alabama,3,Baldwin,2020,8,"Pasture,Rangeland,Forage",Area Plan Crops Only,62.701,2287.0,20604.0,1571.0
+1,Alabama,3,Baldwin,2020,9,Corn,Area Plan Crops Only,0.0,24712.0,24712.0,3320.0
+1,Alabama,3,Baldwin,2020,9,Corn,Decline In Price,38.58,2187.5,14972.0,1201.5
+1,Alabama,3,Baldwin,2020,9,Corn,Hurricane/Tropical Depression,195.42,52817.5,68460.0,4538.5
+1,Alabama,3,Baldwin,2020,9,Cotton,Area Plan Crops Only,0.0,43078.0,43078.0,5835.0
+1,Alabama,3,Baldwin,2020,9,Cotton,Hurricane/Tropical Depression,4041.232,700137.8,1880204.0,164341.8
+1,Alabama,3,Baldwin,2020,9,Grain Sorghum,Hurricane/Tropical Depression,145.66,17471.0,20484.0,3884.0
+1,Alabama,3,Baldwin,2020,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,100.0462,767.0,6425.0,439.0
+1,Alabama,3,Baldwin,2020,9,Peanuts,Area Plan Crops Only,0.0,117950.0,117950.0,15900.0
+1,Alabama,3,Baldwin,2020,9,Peanuts,Hurricane/Tropical Depression,3759.22,964139.0,2247458.0,61798.0
+1,Alabama,3,Baldwin,2020,9,Pecans,Hurricane/Tropical Depression,285.18,291884.0,311187.0,52367.0
+1,Alabama,3,Baldwin,2020,9,Soybeans,Area Plan Crops Only,0.0,20575.0,20575.0,2802.0
+1,Alabama,3,Baldwin,2020,9,Soybeans,Hurricane/Tropical Depression,1185.50499999999,123929.0,310184.5,18963.5
+1,Alabama,3,Baldwin,2020,10,Corn,Area Plan Crops Only,0.0,265433.0,265433.0,35679.0
+1,Alabama,3,Baldwin,2020,10,Corn,Hurricane/Tropical Depression,0.0,76981.0,76981.0,10348.0
+1,Alabama,3,Baldwin,2020,10,Cotton,Area Plan Crops Only,0.0,1293984.0,1293984.0,175988.0
+1,Alabama,3,Baldwin,2020,10,Cotton,Hurricane/Tropical Depression,807.682,320776.8,586428.0,56610.8
+1,Alabama,3,Baldwin,2020,10,Grain Sorghum,Area Plan Crops Only,0.0,4424.0,4424.0,594.0
+1,Alabama,3,Baldwin,2020,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,77.7915,8425.0,22338.0,1262.0
+1,Alabama,3,Baldwin,2020,10,Peanuts,Area Plan Crops Only,0.0,3429111.0,3429111.0,464346.0
+1,Alabama,3,Baldwin,2020,10,Peanuts,Hurricane/Tropical Depression,88.57,219863.0,255479.0,29978.0
+1,Alabama,3,Baldwin,2020,10,Pecans,Area Plan Crops Only,0.0,178858.0,178858.0,26357.0
+1,Alabama,3,Baldwin,2020,10,Soybeans,Area Plan Crops Only,0.0,181514.0,181514.0,24729.0
+1,Alabama,3,Baldwin,2020,10,Soybeans,Hurricane/Tropical Depression,301.375,21733.0,93477.5,5502.5
+1,Alabama,3,Baldwin,2020,11,Cotton,Decline In Price,75.486,19956.4,45561.0,4897.4
+1,Alabama,3,Baldwin,2020,11,Peanuts,Excess Moisture/Precip/Rain,57.5,16336.0,25116.0,644.0
+1,Alabama,3,Baldwin,2020,11,Soybeans,Hurricane/Tropical Depression,74.3,11404.0,19798.0,1316.0
+1,Alabama,3,Baldwin,2020,12,Cotton,Hurricane/Tropical Depression,6.3,1636.0,3153.0,302.0
+1,Alabama,3,Baldwin,2021,2,All Other Crops,Freeze,5.0,14792.0,18019.0,1562.0
+1,Alabama,3,Baldwin,2021,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,582.7603,57408.0,117864.0,9743.0
+1,Alabama,3,Baldwin,2021,3,Corn,Excess Moisture/Precip/Rain,382.0,7302.0,206280.0,5519.0
+1,Alabama,3,Baldwin,2021,4,Corn,Excess Moisture/Precip/Rain,166.54,12302.0,96883.0,5564.0
+1,Alabama,3,Baldwin,2021,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,316.94,16564.0,98441.0,7137.0
+1,Alabama,3,Baldwin,2021,4,Potatoes,Excess Moisture/Precip/Rain,13.5,26062.5,28958.0,3892.5
+1,Alabama,3,Baldwin,2021,5,All Other Crops,Excess Moisture/Precip/Rain,134.01,100552.0,108548.0,17985.0
+1,Alabama,3,Baldwin,2021,5,Corn,Excess Moisture/Precip/Rain,125.979999999999,18221.0,54944.0,2656.0
+1,Alabama,3,Baldwin,2021,5,Pecans,Excess Moisture/Precip/Rain,8.46,6768.6,6768.6,355.2
+1,Alabama,3,Baldwin,2021,5,Potatoes,Excess Moisture/Precip/Rain,13.5,26062.5,28958.0,3892.5
+1,Alabama,3,Baldwin,2021,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,14.682,55.0,991.0,67.0
+1,Alabama,3,Baldwin,2021,6,Peanuts,Excess Moisture/Precip/Rain,591.262,63557.2,328727.6,7502.0
+1,Alabama,3,Baldwin,2021,6,Soybeans,Excess Moisture/Precip/Rain,70.42,7116.0,17907.0,1520.0
+1,Alabama,3,Baldwin,2021,6,Soybeans,Wildlife,27.21,8590.0,8384.0,489.0
+1,Alabama,3,Baldwin,2021,7,Corn,Excess Moisture/Precip/Rain,41.5199999999999,4247.0,12225.0,1128.0
+1,Alabama,3,Baldwin,2021,7,Cotton,Area Plan Crops Only,0.0,304127.0,327451.0,97502.0
+1,Alabama,3,Baldwin,2021,7,Cotton,Excess Moisture/Precip/Rain,168.89,34859.0,34859.0,9915.0
+1,Alabama,3,Baldwin,2021,7,Peanuts,Excess Moisture/Precip/Rain,474.147999999999,133432.6,262072.4,7812.0
+1,Alabama,3,Baldwin,2021,7,Pecans,Excess Moisture/Precip/Rain,25.48,22238.4,23423.0,2748.6
+1,Alabama,3,Baldwin,2021,7,Soybeans,Excess Moisture/Precip/Rain,1417.24,226553.0,329810.0,31683.0
+1,Alabama,3,Baldwin,2021,8,Corn,Excess Moisture/Precip/Rain,75.32,29273.3,34853.7,2921.1
+1,Alabama,3,Baldwin,2021,8,Corn,Wind/Excess Wind,32.28,12545.7,14937.3,1251.9
+1,Alabama,3,Baldwin,2021,8,Cotton,Excess Moisture/Precip/Rain,596.66,73520.0,432461.0,49531.0
+1,Alabama,3,Baldwin,2021,8,Cotton,Hurricane/Tropical Depression,121.236,10714.0,80828.4,6952.0
+1,Alabama,3,Baldwin,2021,8,Peanuts,Excess Moisture/Precip/Rain,429.682,110347.8,239575.4,6957.2
+1,Alabama,3,Baldwin,2021,8,Pecans,Excess Moisture/Precip/Rain,14.94,7492.8,7492.8,1474.2
+1,Alabama,3,Baldwin,2021,8,Pecans,Hurricane/Tropical Depression,30.56,43399.6,49030.4,9217.2
+1,Alabama,3,Baldwin,2021,9,Cotton,Excess Moisture/Precip/Rain,835.334,143889.25,467717.0,47296.55
+1,Alabama,3,Baldwin,2021,9,Peanuts,Excess Moisture/Precip/Rain,852.348,324070.0,419084.6,16607.6
+1,Alabama,3,Baldwin,2021,9,Pecans,Excess Moisture/Precip/Rain,14.84,10234.2,10334.2,1978.8
+1,Alabama,3,Baldwin,2021,9,Pecans,Hurricane/Tropical Depression,35.48,27424.8,28181.1999999999,3650.0
+1,Alabama,3,Baldwin,2021,9,Soybeans,Excess Moisture/Precip/Rain,40.0,968.0,11448.0,866.0
+1,Alabama,3,Baldwin,2021,10,Cotton,Excess Moisture/Precip/Rain,104.79,15699.25,57639.4,6101.55
+1,Alabama,3,Baldwin,2021,11,Cotton,Excess Moisture/Precip/Rain,169.82,43304.5,88637.2,9360.9
+1,Alabama,3,Baldwin,2021,11,Peanuts,Excess Moisture/Precip/Rain,58.2,3755.4,29247.0,796.2
+1,Alabama,3,Baldwin,2021,11,Pecans,Excess Moisture/Precip/Rain,23.52,40632.6,48451.2,9440.4
+1,Alabama,3,Baldwin,2021,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,52.715,336.0,10646.0,724.0
+1,Alabama,3,Baldwin,2021,12,Pecans,Excess Moisture/Precip/Rain,22.52,25104.0,25831.6,4479.6
+1,Alabama,3,Baldwin,2022,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,322.0,1900.0,19.5615,632.0
+1,Alabama,3,Baldwin,2022,1,Pecans,Excess Moisture/Precip/Rain,4394.0,4724.0,30.4,9155.0
+1,Alabama,3,Baldwin,2022,3,Potatoes,Freeze,3611.0,21600.5,12.0,6120.0
+1,Alabama,3,Baldwin,2022,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,6779.0,47725.0,318.0795,13290.0
+1,Alabama,3,Baldwin,2022,5,Peanuts,Excess Moisture/Precip/Rain,15570.0,18038.0,685.93,27242.0
+1,Alabama,3,Baldwin,2022,5,Potatoes,Excess Moisture/Precip/Rain,3611.0,21600.5,12.0,6120.0
+1,Alabama,3,Baldwin,2022,6,Corn,Drought,4303.0,18675.0,107.95,5379.0
+1,Alabama,3,Baldwin,2022,6,Corn,Excess Moisture/Precip/Rain,1171.0,16208.0,34.18,2129.0
+1,Alabama,3,Baldwin,2022,6,Corn,Heat,4303.0,18675.0,107.95,5379.0
+1,Alabama,3,Baldwin,2022,6,Corn,Wind/Excess Wind,4481.0,61369.0,164.31,7002.0
+1,Alabama,3,Baldwin,2022,6,Cotton,Area Plan Crops Only,167500.0,516511.0,0.0,209373.0
+1,Alabama,3,Baldwin,2022,6,Cotton,Excess Moisture/Precip/Rain,3261.5,13283.0,57.9,4077.0
+1,Alabama,3,Baldwin,2022,6,Cotton,Heat,3727.0,10633.0,62.5,6317.0
+1,Alabama,3,Baldwin,2022,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,10546.0,26453.0,718.8009,20676.0
+1,Alabama,3,Baldwin,2022,6,Soybeans,Drought,13722.5,121144.0,482.3525,24613.5
+1,Alabama,3,Baldwin,2022,6,Soybeans,Excess Moisture/Precip/Rain,49416.0,222117.0,1700.475,74896.0
+1,Alabama,3,Baldwin,2022,6,Soybeans,Heat,2671.0,4743.0,103.63,4857.0
+1,Alabama,3,Baldwin,2022,7,Corn,Excess Moisture/Precip/Rain,635.0,4860.0,27.18,793.0
+1,Alabama,3,Baldwin,2022,7,Cotton,Excess Moisture/Precip/Rain,131167.8,492686.5,2220.315,204576.1
+1,Alabama,3,Baldwin,2022,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,6475.0,5221.0,515.554,12696.0
+1,Alabama,3,Baldwin,2022,7,Peanuts,Excess Moisture/Precip/Rain,15043.95,180566.85,662.655,25652.0
+1,Alabama,3,Baldwin,2022,7,Soybeans,Excess Moisture/Precip/Rain,20399.0,174987.0,770.14,30754.0
+1,Alabama,3,Baldwin,2022,8,Corn,Excess Moisture/Precip/Rain,1175.0,12751.0,37.65,2026.0
+1,Alabama,3,Baldwin,2022,8,Cotton,Excess Moisture/Precip/Rain,87603.5,341735.75,1458.0125,124812.75
+1,Alabama,3,Baldwin,2022,8,"Pasture,Rangeland,Forage",Area Plan Crops Only,3801.0,4712.0,207.857,7452.0
+1,Alabama,3,Baldwin,2022,8,Peanuts,Excess Moisture/Precip/Rain,6057.95,74351.85,296.485,10626.5
+1,Alabama,3,Baldwin,2022,8,Soybeans,Excess Moisture/Precip/Rain,18813.5,196438.0,707.3225,32912.5
+1,Alabama,3,Baldwin,2022,9,Corn,Excess Moisture/Precip/Rain,812.0,4752.0,23.71,1477.0
+1,Alabama,3,Baldwin,2022,9,Cotton,Drought,18412.0,67840.0,351.905,31203.0
+1,Alabama,3,Baldwin,2022,9,Cotton,Excess Moisture/Precip/Rain,13328.4,28941.9,249.738,22174.7
+1,Alabama,3,Baldwin,2022,9,Cotton,Wildlife,136.56,328.9,2.7,170.7
+1,Alabama,3,Baldwin,2022,9,Peanuts,Drought,4971.1,30574.3,316.23,7655.5
+1,Alabama,3,Baldwin,2022,9,Peanuts,Excess Moisture/Precip/Rain,1115.0,2383.0,55.9,1616.0
+1,Alabama,3,Baldwin,2022,9,Pecans,Drought,6888.64,13824.7,36.436,10763.3
+1,Alabama,3,Baldwin,2022,9,Soybeans,Excess Moisture/Precip/Rain,4828.0,18164.0,182.69,8778.0
+1,Alabama,3,Baldwin,2022,10,Cotton,Decline In Price,6691.44,16116.1,132.3,8364.3
+1,Alabama,3,Baldwin,2022,10,Peanuts,Drought,17470.0,188598.0,592.41,31760.0
+1,Alabama,3,Baldwin,2022,11,Cotton,Decline In Price,25562.6,41537.35,448.9045,41147.05
+1,Alabama,3,Baldwin,2022,11,Peanuts,Drought,803.0,460.0,68.08,1255.0
+1,Alabama,3,Baldwin,2022,11,Pecans,Excess Moisture/Precip/Rain,96.36,454.3,1.364,150.7
+1,Alabama,3,Baldwin,2022,12,Cotton,Decline In Price,14725.2,39124.5,257.115,23351.4
+1,Alabama,3,Baldwin,2022,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,10691.0,66081.0,612.0793,20946.0
+1,Alabama,3,Baldwin,2022,12,Pecans,Excess Moisture/Precip/Rain,1385.0,6263.0,17.6,2164.0
+1,Alabama,3,Baldwin,2023,1,Oats,Excess Moisture/Precip/Rain,232.0,1487.5,31.755,346.5
+1,Alabama,3,Baldwin,2023,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,14930.0,93881.0,494.7034,29263.0
+1,Alabama,3,Baldwin,2023,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,8194.0,30223.0,544.4152,16066.0
+1,Alabama,3,Baldwin,2023,3,Corn,Excess Moisture/Precip/Rain,3273.0,5846.0,147.0,5398.0
+1,Alabama,3,Baldwin,2023,3,Corn,Freeze,13029.0,13589.0,310.21,26109.0
+1,Alabama,3,Baldwin,2023,3,Potatoes,Excess Moisture/Precip/Rain,6987.0,36249.8,14.25,11841.8
+1,Alabama,3,Baldwin,2023,3,Wheat,Freeze,3436.0,9256.0,117.88,5823.0
+1,Alabama,3,Baldwin,2023,4,Corn,Excess Moisture/Precip/Rain,4005.0,2777.0,124.68,6258.0
+1,Alabama,3,Baldwin,2023,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,14856.0,78900.0,917.8324,29117.0
+1,Alabama,3,Baldwin,2023,4,Wheat,Drought,1540.5,4365.0,62.0,2408.0
+1,Alabama,3,Baldwin,2023,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,1096.0,7352.0,47.6,2149.0
+1,Alabama,3,Baldwin,2023,5,Peanuts,Excess Moisture/Precip/Rain,6709.5,46594.0,313.69,11359.0
+1,Alabama,3,Baldwin,2023,5,Peanuts,Wildlife,736.0,2185.0,29.0,920.0
+1,Alabama,3,Baldwin,2023,5,Potatoes,Insects,2329.0,12083.3,4.75,3947.3
+1,Alabama,3,Baldwin,2023,5,Wheat,Cold Wet Weather,10477.0,46227.0,300.89,17758.0
+1,Alabama,3,Baldwin,2023,5,Wheat,Drought,1540.5,4365.0,62.0,2408.0
+1,Alabama,3,Baldwin,2023,6,Corn,Drought,2888.0,11973.0,64.8,3749.0
+1,Alabama,3,Baldwin,2023,6,Cotton,Drought,768.0,3333.0,19.3,1303.0
+1,Alabama,3,Baldwin,2023,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,18327.0,23382.0,893.9522,35937.0
+1,Alabama,3,Baldwin,2023,6,Peanuts,Excess Moisture/Precip/Rain,4581.0,61508.0,292.46,7263.0
+1,Alabama,3,Baldwin,2023,6,Soybeans,Excess Moisture/Precip/Rain,7452.2,30883.6,297.22,12470.3
+1,Alabama,3,Baldwin,2023,7,Cotton,Drought,15621.5,80755.5,364.64,26478.2
+1,Alabama,3,Baldwin,2023,7,Cotton,Heat,1636.5,8893.5,32.1,2773.8
+1,Alabama,3,Baldwin,2023,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,2222.0,715.0,121.903,4357.0
+1,Alabama,3,Baldwin,2023,7,Peanuts,Drought,20718.0,173234.0,796.34,36631.0
+1,Alabama,3,Baldwin,2023,7,Peanuts,Heat,875.0,2403.3,35.625,1390.3
+1,Alabama,3,Baldwin,2023,7,Soybeans,Drought,7334.8,42489.0,251.105,10331.6
+1,Alabama,3,Baldwin,2023,7,Soybeans,Excess Moisture/Precip/Rain,6217.8,44903.1,255.1695,10210.7
+1,Alabama,3,Baldwin,2023,8,Corn,Drought,4057.0,38015.0,98.3,7376.0
+1,Alabama,3,Baldwin,2023,8,Corn,Heat,2736.0,52392.0,121.19,4976.0
+1,Alabama,3,Baldwin,2023,8,Cotton,Drought,17683.8,70880.5,477.5235,28789.2
+1,Alabama,3,Baldwin,2023,8,Cotton,Heat,10902.2,39701.0,422.6565,17138.3
+1,Alabama,3,Baldwin,2023,8,Grain Sorghum,Drought,2532.0,10201.0,54.62,4603.0
+1,Alabama,3,Baldwin,2023,8,Grain Sorghum,Heat,2832.0,12612.0,59.17,5149.0
+1,Alabama,3,Baldwin,2023,8,Peanuts,Drought,30188.1,582738.0,1255.305,50062.1
+1,Alabama,3,Baldwin,2023,8,Peanuts,Heat,8589.9,96547.2,393.46,14468.1
+1,Alabama,3,Baldwin,2023,8,Soybeans,Drought,33540.9,202455.3,1609.8485,46316.7
+1,Alabama,3,Baldwin,2023,8,Soybeans,Heat,6277.4,40536.6,290.516,8125.2
+1,Alabama,3,Baldwin,2023,8,Soybeans,Other,397.1,1567.2,14.299,563.8
+1,Alabama,3,Baldwin,2023,9,Cotton,Drought,556.0,1229.0,14.0,942.0
+1,Alabama,3,Baldwin,2023,9,Cotton,Heat,1555.0,14342.5,124.075,2429.5
+1,Alabama,3,Baldwin,2023,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,1980.0,1763.0,107.3895,3881.0
+1,Alabama,3,Baldwin,2023,9,Peanuts,Drought,9729.5,122310.5,405.0,16491.5
+1,Alabama,3,Baldwin,2023,9,Soybeans,Drought,18569.5,146300.9,833.1475,28101.6
+1,Alabama,3,Baldwin,2023,9,Soybeans,Other,406.4,4331.8,13.456,527.8
+1,Alabama,3,Baldwin,2023,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,2953.0,24230.0,152.171,5786.0
+1,Alabama,3,Baldwin,2023,10,Soybeans,Drought,1675.5,13400.5,70.7575,2839.8
+1,Alabama,3,Baldwin,2023,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,95.0,671.0,5.7,187.0
+1,Alabama,3,Baldwin,2023,11,Soybeans,Decline In Price,568.5,2182.0,20.821,710.6
+1,Alabama,3,Baldwin,2023,12,Oats,Freeze,850.0,2483.5,74.465,1469.5
+1,Alabama,3,Baldwin,2023,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,4317.0,38164.0,528.836,8464.0
+1,Alabama,3,Baldwin,2024,1,All Other Crops,Area Plan Crops Only,209.0,393.0,15.0,410.0
+1,Alabama,3,Baldwin,2024,1,Oats,Freeze,1244.0,28788.0,230.5,1858.0
+1,Alabama,3,Baldwin,2024,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,22304.0,53950.0,790.5576,43731.0
+1,Alabama,3,Baldwin,2024,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,2267.0,1772.0,77.4,4445.0
+1,Alabama,3,Baldwin,2024,3,Corn,Excess Moisture/Precip/Rain,220.0,374.0,22.39,343.0
+1,Alabama,3,Baldwin,2024,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,14815.0,52503.0,706.7063,29051.0
+1,Alabama,3,Baldwin,2024,5,Peanuts,Excess Moisture/Precip/Rain,37021.9,91047.8,1970.298,58636.8
+1,Alabama,3,Baldwin,2024,5,Potatoes,Excess Moisture/Precip/Rain,4555.0,23317.0,9.0,7721.0
+1,Alabama,3,Baldwin,2024,5,Soybeans,Excess Moisture/Precip/Rain,4551.5,12930.0,221.65,7948.5
+1,Alabama,3,Baldwin,2024,6,All Other Crops,Area Plan Crops Only,180.0,572.0,20.0,353.0
+1,Alabama,3,Baldwin,2024,6,Corn,Drought,3709.0,22908.5,131.45,5389.0
+1,Alabama,3,Baldwin,2024,6,Corn,Heat,887.48,7286.4,30.36,1109.46
+1,Alabama,3,Baldwin,2024,6,Grain Sorghum,Drought,6742.0,6561.0,175.6,8755.0
+1,Alabama,3,Baldwin,2024,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,3931.0,12263.0,189.907,7710.0
+1,Alabama,3,Baldwin,2024,6,Peanuts,Excess Moisture/Precip/Rain,29332.1,83610.2,1121.292,51066.7
+1,Alabama,3,Baldwin,2024,6,Soybeans,Drought,6185.0,49615.0,219.3,9626.0
+1,Alabama,3,Baldwin,2024,7,Corn,Drought,3558.0,79203.0,181.81,6469.0
+1,Alabama,3,Baldwin,2024,7,Corn,Heat,1826.0,44884.0,98.42,3320.0
+1,Alabama,3,Baldwin,2024,7,"Pasture,Rangeland,Forage",Area Plan Crops Only,7188.0,4529.0,238.115,14096.0
+1,Alabama,3,Baldwin,2024,7,Peanuts,Drought,1093.785,10534.59,33.8349,1988.745
+1,Alabama,3,Baldwin,2024,7,Peanuts,Excess Moisture/Precip/Rain,327.0,3927.5,19.0,554.0
+1,Alabama,3,Baldwin,2024,7,Soybeans,Drought,12083.75,178140.0,586.3725,20746.75
+1,Alabama,3,Baldwin,2024,7,Soybeans,Excess Moisture/Precip/Rain,2028.0,1790.0,74.98,2634.0
+1,Alabama,3,Baldwin,2024,7,Soybeans,Heat,2149.75,20283.0,88.2225,2686.75
+1,Alabama,3,Baldwin,2024,7,Soybeans,Wildlife,1556.25,10160.0,54.25,2021.25
+1,Alabama,3,Baldwin,2024,8,Corn,Drought,1692.0,6348.5,62.45,2867.5
+1,Alabama,3,Baldwin,2024,8,Cotton,Drought,8059.43,48344.49,209.955,13659.59
+1,Alabama,3,Baldwin,2024,8,Cotton,Heat,2683.37,19707.21,78.995,4547.81
+1,Alabama,3,Baldwin,2024,8,Peanuts,Decline In Price,962.0,71.0,29.9,1749.0
+1,Alabama,3,Baldwin,2024,8,Peanuts,Drought,15600.675,187583.37,592.1101,27583.565
+1,Alabama,3,Baldwin,2024,8,Peanuts,Heat,10416.21,120677.02,351.8043,18474.53
+1,Alabama,3,Baldwin,2024,8,Soybeans,Drought,10587.6,71382.4,546.1595,14125.75
+1,Alabama,3,Baldwin,2024,8,Soybeans,Heat,23.0,574.0,11.15,23.0
+1,Alabama,3,Baldwin,2024,8,Soybeans,Other,2149.75,20283.0,88.2225,2686.75
+1,Alabama,3,Baldwin,2024,9,Corn,Decline In Price,1129.52,9273.6,38.64,1412.04
+1,Alabama,3,Baldwin,2024,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,1311.0,1058.0,52.864,2570.0
+1,Alabama,3,Baldwin,2024,9,Peanuts,Drought,1508.43,14027.82,52.5202,2695.01
+1,Alabama,3,Baldwin,2024,9,Peanuts,Excess Moisture/Precip/Rain,1028.0,20945.0,63.01,1606.0
+1,Alabama,3,Baldwin,2024,9,Soybeans,Drought,8394.6,57282.4,370.017,13164.75
+1,Alabama,3,Baldwin,2024,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,549.0,189.0,52.2525,1076.0
+1,Alabama,3,Baldwin,2024,10,Peanuts,Excess Moisture/Precip/Rain,2668.0,8489.0,128.87,4104.0
+1,Alabama,3,Baldwin,2024,10,Soybeans,Wildlife,910.0,14581.0,48.5,1542.0
+1,Alabama,3,Baldwin,2024,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,20073.0,93581.0,1418.5449,39359.0
+1,Alabama,3,Baldwin,2024,11,Peanuts,Decline In Price,429.9,4157.7,13.9605,781.65
+1,Alabama,3,Baldwin,2024,11,Soybeans,Decline In Price,1410.8,1567.2,59.136,2379.5
+1,Alabama,3,Baldwin,2024,11,Soybeans,Excess Moisture/Precip/Rain,27938.0,123507.0,1253.08,36957.0
+1,Alabama,3,Baldwin,2024,12,Cotton,Decline In Price,2977.2,5867.3,76.83,5045.6
+1,Alabama,3,Baldwin,2024,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,429.0,1622.0,15.88,841.0
+1,Alabama,3,Baldwin,2025,1,All Other Crops,Area Plan Crops Only,213.0,1039.0,15.0,418.0
+1,Alabama,3,Baldwin,2025,1,"Pasture,Rangeland,Forage",Area Plan Crops Only,31049.0,111811.0,1041.5836,60881.0
+1,Alabama,3,Baldwin,2025,2,"Pasture,Rangeland,Forage",Area Plan Crops Only,8729.0,30359.0,525.1227,17476.0
+1,Alabama,3,Baldwin,2025,3,All Other Crops,Area Plan Crops Only,174.0,1076.0,15.0,342.0
+1,Alabama,3,Baldwin,2025,3,"Pasture,Rangeland,Forage",Area Plan Crops Only,25478.0,129383.0,1065.0607,49960.0
+1,Alabama,3,Baldwin,2025,3,Potatoes,Excess Moisture/Precip/Rain,141865.0,644059.0,285.56,208626.0
+1,Alabama,3,Baldwin,2025,4,Corn,Excess Moisture/Precip/Rain,13398.0,11000.0,727.77,21441.0
+1,Alabama,3,Baldwin,2025,4,"Pasture,Rangeland,Forage",Area Plan Crops Only,2303.0,6720.0,157.941,4516.0
+1,Alabama,3,Baldwin,2025,4,Potatoes,Excess Moisture/Precip/Rain,14713.0,74677.0,31.0,24937.0
+1,Alabama,3,Baldwin,2025,5,All Other Crops,Area Plan Crops Only,185.0,89.0,20.0,362.0
+1,Alabama,3,Baldwin,2025,5,Corn,Excess Moisture/Precip/Rain,2874.6,18609.45,125.5305,4872.7
+1,Alabama,3,Baldwin,2025,5,"Pasture,Rangeland,Forage",Area Plan Crops Only,28186.0,60934.0,1537.2373,55551.0
+1,Alabama,3,Baldwin,2025,5,Peanuts,Drought,264.18,11474.49,39.8208,394.23
+1,Alabama,3,Baldwin,2025,5,Peanuts,Excess Moisture/Precip/Rain,5674.45,21412.75,309.285,8721.8
+1,Alabama,3,Baldwin,2025,5,Peanuts,Heat,253.82,11024.51,38.2592,378.77
+1,Alabama,3,Baldwin,2025,6,"Pasture,Rangeland,Forage",Area Plan Crops Only,7974.0,10097.0,359.271,15992.0
+1,Alabama,3,Baldwin,2025,6,Peanuts,Excess Moisture/Precip/Rain,3468.55,12694.25,203.105,5138.2
+1,Alabama,3,Baldwin,2025,6,Pecans,Excess Moisture/Precip/Rain,407.0,3322.0,13.8,608.0
+1,Alabama,3,Baldwin,2025,6,Soybeans,Excess Moisture/Precip/Rain,5409.5,6067.0,342.645,10434.5
+1,Alabama,3,Baldwin,2025,7,Cotton,Drought,589.56,2136.39,15.3,998.58
+1,Alabama,3,Baldwin,2025,7,Cotton,Heat,566.44,2052.61,14.7,959.42
+1,Alabama,3,Baldwin,2025,7,Peanuts,Drought,7445.0,17384.0,326.1,12620.0
+1,Alabama,3,Baldwin,2025,7,Peanuts,Wildlife,59.7,1603.5,3.087,101.1
+1,Alabama,3,Baldwin,2025,8,Corn,Decline In Price,1303.0,1207.0,53.76,2209.0
+1,Alabama,3,Baldwin,2025,8,Peanuts,Drought,764.0,8506.0,38.46,1175.0
+1,Alabama,3,Baldwin,2025,8,Soybeans,Drought,3051.23,10042.83,163.599,4035.45
+1,Alabama,3,Baldwin,2025,8,Soybeans,Heat,283.22,1655.22,15.19,480.2
+1,Alabama,3,Baldwin,2025,9,Corn,Decline In Price,278.8,3034.1,9.569,472.6
+1,Alabama,3,Baldwin,2025,9,Corn,Drought,1254.6,13653.45,43.0605,2126.7
+1,Alabama,3,Baldwin,2025,9,Grain Sorghum,Drought,6213.0,6675.0,244.18,7766.0
+1,Alabama,3,Baldwin,2025,9,"Pasture,Rangeland,Forage",Area Plan Crops Only,778.0,4062.0,61.026,1855.0
+1,Alabama,3,Baldwin,2025,9,Peanuts,Drought,2279.3,65628.5,127.203,5866.9
+1,Alabama,3,Baldwin,2025,9,Soybeans,Drought,17306.2,95900.05,887.674,26489.65
+1,Alabama,3,Baldwin,2025,9,Soybeans,Heat,206.1,1358.9,15.282,257.7
+1,Alabama,3,Baldwin,2025,10,"Pasture,Rangeland,Forage",Area Plan Crops Only,833.0,437.0,34.842,1633.0
+1,Alabama,3,Baldwin,2025,10,Peanuts,Excess Moisture/Precip/Rain,955.0,588.0,49.38,1619.0
+1,Alabama,3,Baldwin,2025,10,Soybeans,Drought,3232.8,4172.4,156.652,5930.4
+1,Alabama,3,Baldwin,2025,11,"Pasture,Rangeland,Forage",Area Plan Crops Only,10459.0,46351.0,645.0102,20502.0
+1,Alabama,3,Baldwin,2025,11,Soybeans,Decline In Price,193.2,797.6,7.188,364.6
+1,Alabama,3,Baldwin,2025,11,Soybeans,Drought,427.5,2258.0,23.7,777.0
+1,Alabama,3,Baldwin,2025,12,"Pasture,Rangeland,Forage",Area Plan Crops Only,5275.0,25723.0,514.144,10594.0
+1,Alabama,3,Baldwin,2025,12,Soybeans,Decline In Price,2583.25,8215.0,140.7,3229.5
+1,Alabama,5,Barbour,1989,Unspecified,All Other Crops,Excess Moisture/Precip/Rain,24.5,968.1,1101.8,25.2
+1,Alabama,5,Barbour,1989,Unspecified,All Other Crops,Plant Disease,10.5,414.9,472.2,10.8
+1,Alabama,5,Barbour,1989,Unspecified,Cotton,Drought,5.52,335.2,926.4,27.2
+1,Alabama,5,Barbour,1989,Unspecified,Cotton,Excess Moisture/Precip/Rain,1.38,83.8,231.6,6.8
+1,Alabama,5,Barbour,1989,Unspecified,Peanuts,Drought,115.38,23394.0,76710.9,793.2
+1,Alabama,5,Barbour,1989,Unspecified,Peanuts,Excess Moisture/Precip/Rain,362.37,60459.0,236860.1,2425.8
+1,Alabama,5,Barbour,1989,4,Peanuts,Excess Moisture/Precip/Rain,7.3,584.0,2879.0,40.5
+1,Alabama,5,Barbour,1989,5,Peanuts,Excess Moisture/Precip/Rain,20.7,1656.0,173141.0,1731.0
+1,Alabama,5,Barbour,1989,6,All Other Crops,Excess Moisture/Precip/Rain,0.0,0.0,0.0,0.0
+1,Alabama,5,Barbour,1989,6,Corn,Excess Moisture/Precip/Rain,0.0,0.0,0.0,0.0
+1,Alabama,5,Barbour,1989,6,Cotton,Excess Moisture/Precip/Rain,80.1,8507.0,9264.0,204.0
+1,Alabama,5,Barbour,1989,6,Peanuts,Drought,0.0,0.0,0.0,0.0
+1,Alabama,5,Barbour,1989,6,Peanuts,Excess Moisture/Precip/Rain,314.6,22793.0,137344.0,1473.0
+1,Alabama,5,Barbour,1989,6,Peanuts,No Indemnity,0.0,0.0,0.0,0.0
+1,Alabama,5,Barbour,1989,7,Corn,Drought,154.1,2480.0,9385.0,384.0
+1,Alabama,5,Barbour,1989,7,Peanuts,Excess Moisture/Precip/Rain,0.0,0.0,0.0,0.0
+1,Alabama,5,Barbour,1989,8,All Other Crops,Drought,26.7,1095.0,1250.0,25.0
+1,Alabama,5,Barbour,1989,8,Cotton,Drought,168.0,8819.0,25923.0,867.0
+1,Alabama,5,Barbour,1989,8,Peanuts,Drought,1149.99,158412.0,642511.0,6973.5
+1,Alabama,5,Barbour,1989,8,Peanuts,Excess Moisture/Precip/Rain,18.4,1734.0,35771.0,431.0
+1,Alabama,5,Barbour,1989,9,Peanuts,Excess Moisture/Precip/Rain,110.305,20345.0,42091.0,625.0
+1,Alabama,5,Barbour,1989,10,Corn,Drought,96.4,5353.0,6508.0,230.0
+1,Alabama,5,Barbour,1989,10,Corn,Heat,105.4,8154.0,10257.0,271.0
+1,Alabama,5,Barbour,1989,10,Cotton,Drought,568.6,72275.0,140291.0,3672.0
+1,Alabama,5,Barbour,1989,10,Peanuts,Drought,2788.91,569195.0,1867545.0,18503.0
+1,Alabama,5,Barbour,1989,10,Peanuts,Excess Moisture/Precip/Rain,318.33,68747.0,360197.0,2024.0
+1,Alabama,5,Barbour,1989,11,Peanuts,Drought,10.0,1465.0,5098.0,61.0
+1,Alabama,5,Barbour,1989,11,Peanuts,Excess Moisture/Precip/Rain,32.5,216.0,19056.0,190.0
+1,Alabama,5,Barbour,1990,Unspecified,All Other Crops,Insects,13.0,449.0,709.0,17.0
+1,Alabama,5,Barbour,1990,Unspecified,Corn,Drought,21.2,1463.0,487.666667,17.0
+1,Alabama,5,Barbour,1990,Unspecified,Corn,Excess Moisture/Precip/Rain,42.4,362.0,975.333334,34.0
+1,Alabama,5,Barbour,1990,Unspecified,Cotton,Drought,2.5,247.0,555.0,16.0
+1,Alabama,5,Barbour,1990,Unspecified,Peanuts,Drought,1072.467,380198.8,615908.799999999,5829.4
+1,Alabama,5,Barbour,1990,Unspecified,Peanuts,Mycotoxin (Aflatoxin),45.82,20211.2,27053.2,262.6
+1,Alabama,5,Barbour,1990,3,All Other Crops,Plant Disease,33.0,1277.0,1742.0,41.0
+1,Alabama,5,Barbour,1990,3,Corn,Excess Moisture/Precip/Rain,48.8,2054.0,2413.0,54.0
+1,Alabama,5,Barbour,1990,5,Cotton,Excess Moisture/Precip/Rain,20.9,3430.0,4025.0,119.0
+1,Alabama,5,Barbour,1990,5,Peanuts,Drought,28.0,2240.0,6845.5,92.0
+1,Alabama,5,Barbour,1990,5,Peanuts,Excess Moisture/Precip/Rain,11.0,880.0,46055.0,414.5
+1,Alabama,5,Barbour,1990,6,Corn,Drought,200.0,9799.0,11234.5,429.0
+1,Alabama,5,Barbour,1990,6,Cotton,Plant Disease,54.0,10580.0,10837.0,322.0
+1,Alabama,5,Barbour,1990,6,Peanuts,Drought,448.8,164392.0,263468.5,2765.0
+1,Alabama,5,Barbour,1990,6,Peanuts,Mycotoxin (Aflatoxin),95.9,44979.0,49501.0,579.0
+1,Alabama,5,Barbour,1990,7,Corn,Heat,90.75,10581.5,13609.0,272.0
+1,Alabama,5,Barbour,1990,7,Cotton,Drought,34.1,6329.0,7635.0,199.0
+1,Alabama,5,Barbour,1990,7,Peanuts,Drought,2128.94,911156.0,1193882.0,13059.0
+1,Alabama,5,Barbour,1990,7,Peanuts,Excess Moisture/Precip/Rain,19.0,1520.0,6887.0,80.5
+1,Alabama,5,Barbour,1990,7,Peanuts,Failure Of Irrigation Supply,171.8,41973.0,94724.0,853.0
+1,Alabama,5,Barbour,1990,7,Peanuts,Heat,211.85,47837.0,186349.0,1688.0
+1,Alabama,5,Barbour,1990,7,Peanuts,Mycotoxin (Aflatoxin),217.0,28961.0,137700.0,1363.0
+1,Alabama,5,Barbour,1990,8,All Other Crops,Drought,10.6,153.0,342.0,7.0
+1,Alabama,5,Barbour,1990,8,Cotton,Drought,76.7,5845.0,11921.0,428.0
+1,Alabama,5,Barbour,1990,8,Peanuts,Drought,1247.086,376240.5,629288.2,7181.7
+1,Alabama,5,Barbour,1990,8,Peanuts,Failure Of Irrigation Supply,20.84,4010.0,52563.0,480.0
+1,Alabama,5,Barbour,1990,8,Peanuts,Mycotoxin (Aflatoxin),641.62,280668.0,347603.2,3946.6
+1,Alabama,5,Barbour,1990,9,Cotton,Drought,143.34,28625.0,39755.0,1070.0
+1,Alabama,5,Barbour,1990,9,Peanuts,Drought,3306.263,1477789.0,2119240.0,20033.0
+1,Alabama,5,Barbour,1990,10,Corn,Mycotoxin (Aflatoxin),147.45,13481.5,17130.5,395.0
+1,Alabama,5,Barbour,1990,10,Cotton,Drought,229.3,10601.0,42060.0,1252.0
+1,Alabama,5,Barbour,1990,10,Peanuts,Drought,4103.7,1875427.4,2371914.4,25510.7
+1,Alabama,5,Barbour,1990,10,Peanuts,Failure Of Irrigation Supply,29.16,0.0,52563.0,480.0
+1,Alabama,5,Barbour,1990,10,Peanuts,Heat,159.65,91184.6,108647.4,845.2
+1,Alabama,5,Barbour,1990,10,Peanuts,Mycotoxin (Aflatoxin),228.964,80387.5,151863.8,1439.8
+1,Alabama,5,Barbour,1990,11,Corn,Drought,168.0,12304.0,14200.0,365.0
+1,Alabama,5,Barbour,1990,11,Cotton,Drought,607.0,70472.0,143377.0,4035.0
+1,Alabama,5,Barbour,1990,11,Peanuts,Drought,690.425,461458.0,654186.0,4577.0
+1,Alabama,5,Barbour,1990,11,Peanuts,Mycotoxin (Aflatoxin),20.2,8554.0,11138.0,130.0
+1,Alabama,5,Barbour,1990,12,Peanuts,Drought,241.9,131995.0,154838.0,1482.0
+1,Alabama,5,Barbour,1990,12,Peanuts,Heat,281.3,19131.0,199205.0,1624.0
+1,Alabama,5,Barbour,1991,Unspecified,Peanuts,Drought,103.26,22968.8,31405.0,282.6
+1,Alabama,5,Barbour,1991,Unspecified,Peanuts,Excess Moisture/Precip/Rain,24.14,11828.4,17094.8,184.8
+1,Alabama,5,Barbour,1991,Unspecified,Peanuts,Mycotoxin (Aflatoxin),46.62,9215.7,18744.9,168.6
+1,Alabama,5,Barbour,1991,Unspecified,Peanuts,Plant Disease,5.82,2671.6,4680.0,50.4
+1,Alabama,5,Barbour,1991,4,Peanuts,Excess Moisture/Precip/Rain,79.8,14932.8,56511.0,610.2
+1,Alabama,5,Barbour,1991,5,All Other Crops,Excess Moisture/Precip/Rain,53.2,1502.0,2125.0,52.0
+1,Alabama,5,Barbour,1991,5,Peanuts,Excess Moisture/Precip/Rain,231.219999999999,22302.4,222544.2,2880.8
+1,Alabama,5,Barbour,1991,6,Cotton,Excess Moisture/Precip/Rain,27.5,2978.0,4723.0,173.0
+1,Alabama,5,Barbour,1991,6,Peanuts,Excess Moisture/Precip/Rain,72.1,10195.0,142407.0,1901.0
+1,Alabama,5,Barbour,1991,6,Peanuts,Hail,80.0,15799.0,24141.0,586.0
+1,Alabama,5,Barbour,1991,7,Peanuts,Excess Moisture/Precip/Rain,804.83,157867.4,443732.1,5795.9
+1,Alabama,5,Barbour,1991,8,Peanuts,Drought,261.68,78480.4,139673.0,1363.6
+1,Alabama,5,Barbour,1991,8,Peanuts,Excess Moisture/Precip/Rain,111.1,12247.0,61302.0,799.0
+1,Alabama,5,Barbour,1991,8,Peanuts,Freeze,8.3,723.0,5081.0,64.0
+1,Alabama,5,Barbour,1991,8,Peanuts,Plant Disease,459.14,134429.7,218889.099999999,2062.2
+1,Alabama,5,Barbour,1991,9,Corn,Excess Moisture/Precip/Rain,100.5,5943.0,10911.5,313.5
+1,Alabama,5,Barbour,1991,9,Corn,Wind/Excess Wind,128.0,12599.0,9917.5,232.5
+1,Alabama,5,Barbour,1991,10,Corn,Excess Moisture/Precip/Rain,10.5,108.0,582.0,29.0
+1,Alabama,5,Barbour,1991,10,Cotton,Drought,30.5,3698.0,4794.0,190.0
+1,Alabama,5,Barbour,1991,10,Peanuts,Drought,426.7,62364.0,232536.0,2881.0
+1,Alabama,5,Barbour,1991,10,Peanuts,Excess Moisture/Precip/Rain,742.87,121778.0,633765.1,6618.9
+1,Alabama,5,Barbour,1991,10,Peanuts,Heat,16.2,2705.0,9917.0,99.0
+1,Alabama,5,Barbour,1991,10,Peanuts,Plant Disease,60.7,10551.0,40717.2,467.4
+1,Alabama,5,Barbour,1991,10,Peanuts,Wildlife,8.1,1447.8,4569.6,57.6
+1,Alabama,5,Barbour,1991,11,Peanuts,Drought,66.5,17709.0,44410.0,509.0
+1,Alabama,5,Barbour,1991,11,Peanuts,Excess Moisture/Precip/Rain,46.2,2415.0,25972.0,340.0
+1,Alabama,5,Barbour,1991,12,Peanuts,Excess Moisture/Precip/Rain,25.2,2122.0,15466.0,195.0
+1,Alabama,5,Barbour,1992,4,Corn,Excess Moisture/Precip/Rain,23.0,423.0,3112.0,109.0
+1,Alabama,5,Barbour,1992,5,Peanuts,Drought,134.8,11121.0,146268.0,2341.0
+1,Alabama,5,Barbour,1992,6,Corn,Drought,28.5,700.0,2041.0,73.0
+1,Alabama,5,Barbour,1992,6,Peanuts,Drought,16.0,866.0,95126.0,1332.0
+1,Alabama,5,Barbour,1992,7,Peanuts,Drought,67.55,16801.2,35186.6,538.6
+1,Alabama,5,Barbour,1992,8,Corn,Mycotoxin (Aflatoxin),180.0,11771.0,12852.0,471.0
+1,Alabama,5,Barbour,1992,8,Peanuts,Drought,25.32,2585.8,15092.4,220.8
+1,Alabama,5,Barbour,1992,8,Peanuts,Excess Moisture/Precip/Rain,81.65,17462.0,73204.0,1024.0
+1,Alabama,5,Barbour,1992,8,Peanuts,Plant Disease,197.579999999999,11374.2,119448.6,1672.2
+1,Alabama,5,Barbour,1992,9,Peanuts,Excess Moisture/Precip/Rain,358.15,54517.4,173061.8,2689.8
+1,Alabama,5,Barbour,1992,9,Peanuts,Plant Disease,34.6,8254.4,15469.6,262.6
+1,Alabama,5,Barbour,1992,10,Cotton,Drought,27.0,2969.0,4216.0,209.0
+1,Alabama,5,Barbour,1992,10,Peanuts,Drought,41.8,10891.0,25643.0,352.0
+1,Alabama,5,Barbour,1992,10,Peanuts,Excess Moisture/Precip/Rain,120.25,18472.0,59644.0,1076.0
+1,Alabama,5,Barbour,1992,11,Cotton,Excess Moisture/Precip/Rain,202.6,25736.0,36891.0,1618.0
+1,Alabama,5,Barbour,1992,11,Peanuts,Excess Moisture/Precip/Rain,224.6,36260.0,131099.0,1989.0
+1,Alabama,5,Barbour,1992,11,Peanuts,Plant Disease,43.0,8869.0,20760.0,374.0
+1,Alabama,5,Barbour,1992,12,Cotton,Excess Moisture/Precip/Rain,92.4,25133.0,30944.0,891.0
+1,Alabama,5,Barbour,1993,4,Corn,Excess Moisture/Precip/Rain,72.3,1329.0,5290.0,171.5
+1,Alabama,5,Barbour,1993,5,Corn,Drought,116.46,6461.4,7425.6,409.8
+1,Alabama,5,Barbour,1993,5,Cotton,Drought,277.0,33461.0,82119.0,2303.0
+1,Alabama,5,Barbour,1993,6,Corn,Drought,122.539999999999,7249.6,8048.4,422.2
+1,Alabama,5,Barbour,1993,6,Cotton,Drought,142.03,11135.6,23045.4,1267.7
+1,Alabama,5,Barbour,1993,6,Peanuts,Drought,301.0,53319.5,137755.4,2868.4
+1,Alabama,5,Barbour,1993,7,Corn,Drought,204.3,13699.0,9854.0,434.5
+1,Alabama,5,Barbour,1993,7,Cotton,Drought,142.17,9197.4,34028.6,1239.3
+1,Alabama,5,Barbour,1993,7,Cotton,Heat,76.5,12582.0,22353.0,737.0
+1,Alabama,5,Barbour,1993,7,Peanuts,Drought,3790.2,835792.3,2218013.1,36024.75
+1,Alabama,5,Barbour,1993,7,Peanuts,Heat,680.545,166660.8,359305.8,6128.8
+1,Alabama,5,Barbour,1993,8,Cotton,Drought,74.3,7117.0,14478.0,659.0
+1,Alabama,5,Barbour,1993,8,Peanuts,Drought,4167.38,1095934.0,2408335.8,38708.45
+1,Alabama,5,Barbour,1993,8,Peanuts,Heat,108.35,29318.4,55780.9,1164.6
+1,Alabama,5,Barbour,1994,Unspecified,Peanuts,Drought,112.0,0.0,20256.775,486.15
+1,Alabama,5,Barbour,1994,Unspecified,Peanuts,Excess Moisture/Precip/Rain,141.2,0.0,113289.5,2259.0
+1,Alabama,5,Barbour,1994,5,Peanuts,Drought,30.0,2438.4,18747.6,337.6
+1,Alabama,5,Barbour,1994,5,Peanuts,Excess Moisture/Precip/Rain,3.75,299.8,4079.7,75.9
+1,Alabama,5,Barbour,1994,5,Peanuts,Wildlife,8.0,639.2,1632.8,39.6
+1,Alabama,5,Barbour,1994,6,Cotton,Excess Moisture/Precip/Rain,6.2,987.0,991.0,44.0
+1,Alabama,5,Barbour,1994,6,Cotton,Flood,29.0,6421.0,6421.0,205.0
+1,Alabama,5,Barbour,1994,6,Peanuts,Drought,80.5,6440.0,20256.775,486.15
+1,Alabama,5,Barbour,1994,6,Peanuts,Excess Moisture/Precip/Rain,383.799999999999,101735.0,149492.95,3581.7
+1,Alabama,5,Barbour,1994,7,Cotton,Excess Moisture/Precip/Rain,352.3,26899.0,53425.0,2479.0
+1,Alabama,5,Barbour,1994,7,Cotton,Flood,80.45,8353.0,8490.0,502.0
+1,Alabama,5,Barbour,1994,7,Peanuts,Excess Moisture/Precip/Rain,2477.47,516745.6,1353756.3,27197.1
+1,Alabama,5,Barbour,1994,7,Peanuts,Flood,19.05,1347.0,9897.0,208.0
+1,Alabama,5,Barbour,1994,8,Peanuts,Drought,3.7,318.8,1186.4,40.2
+1,Alabama,5,Barbour,1994,8,Peanuts,Excess Moisture/Precip/Rain,99.44,16438.0,49319.8,1003.0
+1,Alabama,5,Barbour,1994,8,Peanuts,Plant Disease,21.5,2224.0,9986.0,239.0
+1,Alabama,5,Barbour,1994,9,Peanuts,Plant Disease,2.34,864.6,1342.8,27.0
+1,Alabama,5,Barbour,1994,9,Peanuts,Wildlife,3.2,1789.6,1789.6,37.6
+1,Alabama,5,Barbour,1994,10,Cotton,Flood,9.7,2106.0,2106.0,67.0
+1,Alabama,5,Barbour,1995,Unspecified,Cotton,Hurricane/Tropical Depression,115.0,0.0,20367.0,2444.0
+1,Alabama,5,Barbour,1995,4,Oats,Drought,113.25,1083.75,1083.75,139.5
+1,Alabama,5,Barbour,1995,4,Oats,Plant Disease,37.75,361.25,361.25,46.5
+1,Alabama,5,Barbour,1995,5,Peanuts,Drought,268.7,960.0,154212.0,4856.0
+1,Alabama,5,Barbour,1995,6,Corn,Drought,5.95,255.5,340.0,38.5
+1,Alabama,5,Barbour,1995,6,Cotton,Drought,372.89,44795.1,100581.3,4968.6
+1,Alabama,5,Barbour,1995,6,Peanuts,Drought,204.3,59426.0,89599.0,3577.0
+1,Alabama,5,Barbour,1995,6,Peanuts,Heat,15.0,0.0,26988.0,1142.5
+1,Alabama,5,Barbour,1995,7,Corn,Drought,25.45,1152.0,1682.0,162.0
+1,Alabama,5,Barbour,1995,7,Corn,Hurricane/Tropical Depression,12.84,219.6,312.0,55.8
+1,Alabama,5,Barbour,1995,7,Cotton,Drought,431.73,82177.3,161553.5,5782.7
+1,Alabama,5,Barbour,1995,7,Cotton,No Indemnity,120.0,0.0,10685.0,1144.0
+1,Alabama,5,Barbour,1995,7,Peanuts,Drought,1529.855,428918.95,707269.85,27085.55
+1,Alabama,5,Barbour,1995,7,Peanuts,Heat,180.0,70947.0,89536.0,3367.0
+1,Alabama,5,Barbour,1995,7,Peanuts,No Indemnity,18.5,0.0,2040.0,220.0
+1,Alabama,5,Barbour,1995,7,Peanuts,Plant Disease,234.84,71759.8,127194.1,3978.2
+1,Alabama,5,Barbour,1995,8,Corn,Drought,19.5,896.5,1342.0,123.5
+1,Alabama,5,Barbour,1995,8,Cotton,Drought,534.785,91383.15,148611.65,6224.75
+1,Alabama,5,Barbour,1995,8,Cotton,Hurricane/Tropical Depression,94.14,5182.2,20578.8,1010.4
+1,Alabama,5,Barbour,1995,8,Peanuts,Drought,1085.645,332903.55,576636.75,22075.05
+1,Alabama,5,Barbour,1995,8,Peanuts,Heat,39.8,11986.1,17105.6,703.8
+1,Alabama,5,Barbour,1995,9,Cotton,Drought,7.7,128.0,1336.5,104.0
+1,Alabama,5,Barbour,1995,9,Peanuts,Drought,117.82,28829.4,61044.5,2039.7
+1,Alabama,5,Barbour,1995,10,Corn,Drought,124.29,1071.7,2413.5,566.0
+1,Alabama,5,Barbour,1995,10,Corn,Hurricane/Tropical Depression,477.469999999999,13086.7,17107.5,2408.2
+1,Alabama,5,Barbour,1995,10,Corn,No Indemnity,484.0,0.0,9516.0,2639.0
+1,Alabama,5,Barbour,1995,10,Cotton,Drought,62.76,3454.8,13719.2,673.6
+1,Alabama,5,Barbour,1995,10,Cotton,Flood,47.52,9668.8,13671.2,559.2
+1,Alabama,5,Barbour,1995,10,Cotton,Hurricane/Tropical Depression,1359.655,213877.65,345484.95,19289.05
+1,Alabama,5,Barbour,1995,10,Cotton,Wind/Excess Wind,101.22,14353.0,30746.9,1175.7
+1,Alabama,5,Barbour,1995,10,Peanuts,Excess Moisture/Precip/Rain,123.34,56001.2,74378.2,2101.7
+1,Alabama,5,Barbour,1996,Unspecified,Peanuts,Drought,45.6,0.0,16536.5,706.5
+1,Alabama,5,Barbour,1996,5,Corn,Drought,86.2,11183.0,14082.0,773.0
+1,Alabama,5,Barbour,1996,5,Peanuts,Drought,62.0,4358.0,44126.5,1906.5
+1,Alabama,5,Barbour,1996,6,Corn,Drought,82.2,2112.0,5795.0,570.0
+1,Alabama,5,Barbour,1996,7,Corn,Drought,54.0,2018.0,8514.0,525.0
+1,Alabama,5,Barbour,1996,7,Cotton,Drought,184.345,26675.5,48990.6,2579.1
+1,Alabama,5,Barbour,1996,7,Peanuts,Drought,578.1,87880.6,275737.1,12459.6
+1,Alabama,5,Barbour,1996,8,Cotton,Drought,203.62,23473.45,49234.7999999999,2836.7
+1,Alabama,5,Barbour,1996,8,Cotton,Excess Moisture/Precip/Rain,50.7,5410.2,10666.2,774.0
+1,Alabama,5,Barbour,1996,8,Peanuts,Drought,615.115,107097.5,323186.0,13113.85
+1,Alabama,5,Barbour,1996,8,Peanuts,Excess Moisture/Precip/Rain,69.78,14955.0,48992.7,1515.9
+1,Alabama,5,Barbour,1996,9,Cotton,Drought,33.8,3606.8,7110.8,516.0
+1,Alabama,5,Barbour,1996,9,Cotton,Excess Moisture/Precip/Rain,164.535,25259.05,42185.6,2381.2
+1,Alabama,5,Barbour,1996,9,Cotton,Flood,184.8,24373.0,51384.0,2507.0
+1,Alabama,5,Barbour,1996,9,Peanuts,Excess Moisture/Precip/Rain,269.055,38134.9,119060.2,5605.65
+1,Alabama,5,Barbour,1997,Unspecified,Peanuts,Drought,49.411,0.0,21583.7,1280.75
+1,Alabama,5,Barbour,1997,Unspecified,Peanuts,Other,0.0,-9757.0,-185921.0,-8142.0
+1,Alabama,5,Barbour,1997,5,Cotton,Cold Wet Weather,7.4,42.4,1802.6,105.6
+1,Alabama,5,Barbour,1997,5,Cotton,Drought,266.095,41472.2,74283.025,4527.475
+1,Alabama,5,Barbour,1997,5,Cotton,Excess Moisture/Precip/Rain,9.6,879.0,1364.4,115.8
+1,Alabama,5,Barbour,1997,5,Peanuts,Drought,48.75,7070.25,20205.0,988.5
+1,Alabama,5,Barbour,1997,6,Corn,Drought,21.8,790.0,1458.0,133.0
+1,Alabama,5,Barbour,1997,6,Cotton,Cold Wet Weather,84.48,3057.6,15080.4,920.4
+1,Alabama,5,Barbour,1997,6,Cotton,Drought,340.7,50355.7999999999,71807.0,4407.6
+1,Alabama,5,Barbour,1997,6,Cotton,Excess Moisture/Precip/Rain,150.63,25403.4,41865.3,2411.4
+1,Alabama,5,Barbour,1997,6,Cotton,Wildlife,22.8,4647.0,6735.0,364.8
+1,Alabama,5,Barbour,1997,6,Peanuts,Drought,62.9,8040.75,27469.0,1252.75
+1,Alabama,5,Barbour,1997,6,Peanuts,Excess Moisture/Precip/Rain,6.78,2135.4,2938.2,128.4
+1,Alabama,5,Barbour,1997,7,Cotton,Drought,324.5,21750.0,95716.0,4934.0
+1,Alabama,5,Barbour,1997,7,Peanuts,Drought,1061.3957,211670.75,500810.75,20961.25
+1,Alabama,5,Barbour,1997,8,Cotton,Cold Wet Weather,136.055,20339.25,31002.35,2007.05
+1,Alabama,5,Barbour,1997,8,Cotton,Drought,1674.08,209606.5,449405.475,25672.075
+1,Alabama,5,Barbour,1997,8,Peanuts,Cold Wet Weather,22.85,3965.0,10244.0,452.75
+1,Alabama,5,Barbour,1997,8,Peanuts,Drought,1679.9643,408546.8,842783.25,33483.1
+1,Alabama,5,Barbour,1997,8,Peanuts,Mycotoxin (Aflatoxin),22.0,10296.0,11750.8,441.2
+1,Alabama,5,Barbour,1997,9,Cotton,Cold Wet Weather,70.3049999999999,9494.7,22156.9,1083.5
+1,Alabama,5,Barbour,1997,9,Cotton,Drought,167.67,11685.9,44669.1,2404.8
+1,Alabama,5,Barbour,1997,9,Peanuts,Drought,10.7,2177.75,3705.4,199.0
+1,Alabama,5,Barbour,1997,9,Peanuts,Excess Moisture/Precip/Rain,29.2,8848.0,14420.0,1028.0
+1,Alabama,5,Barbour,1997,9,Peanuts,Mycotoxin (Aflatoxin),71.4,23344.3,33440.6,1246.05
+1,Alabama,5,Barbour,1997,10,Cotton,Drought,69.4,13576.0,19352.4,1118.8
+1,Alabama,5,Barbour,1997,11,Cotton,Cold Wet Weather,9.15,1284.5,2015.0,151.0
+1,Alabama,5,Barbour,1997,11,Cotton,Excess Moisture/Precip/Rain,70.385,3412.45,16391.05,808.9
+1,Alabama,5,Barbour,1997,12,Cotton,Excess Moisture/Precip/Rain,25.35,4272.3,5022.0,382.8
+1,Alabama,5,Barbour,1998,Unspecified,Corn,Drought,6.0,-124.2,142.8,34.8
+1,Alabama,5,Barbour,1998,Unspecified,Peanuts,Drought,13.44,-5687.4,7833.0,323.4
+1,Alabama,5,Barbour,1998,1,Wheat,Excess Moisture/Precip/Rain,25.0,1598.0,2610.0,78.0
+1,Alabama,5,Barbour,1998,4,Peanuts,Drought,27.48,6037.2,10801.8,621.6
+1,Alabama,5,Barbour,1998,5,Corn,Drought,438.625,27099.1,29445.0,2634.8
+1,Alabama,5,Barbour,1998,5,Cotton,Drought,136.2,12185.2,33365.0,2310.2
+1,Alabama,5,Barbour,1998,5,Peanuts,Drought,430.74,67751.85,234089.5,10553.1
+1,Alabama,5,Barbour,1998,6,Corn,Drought,916.76,55906.2,59816.5,5801.95
+1,Alabama,5,Barbour,1998,6,Corn,Heat,40.65,2832.9,3294.0,249.599999999999
+1,Alabama,5,Barbour,1998,6,Corn,Mycotoxin (Aflatoxin),76.2,2390.5,2390.5,466.0
+1,Alabama,5,Barbour,1998,6,Cotton,Drought,240.4,33606.4,58253.4,4317.7
+1,Alabama,5,Barbour,1998,6,Peanuts,Drought,605.88,124935.0,255884.0,12899.2
+1,Alabama,5,Barbour,1998,6,Peanuts,Heat,3.6,928.5,1487.7,72.0
+1,Alabama,5,Barbour,1998,7,Corn,Drought,290.11,9616.3,9674.6,1647.05
+1,Alabama,5,Barbour,1998,7,Cotton,Drought,1144.94999999999,436764.35,509175.55,20014.15
+1,Alabama,5,Barbour,1998,7,Cotton,Fire,12.0,2972.4,3204.6,204.6
+1,Alabama,5,Barbour,1998,7,Peanuts,Drought,1959.6425,554829.8,1018225.8,41811.225
+1,Alabama,5,Barbour,1998,7,Peanuts,Heat,76.55,22231.5,30683.5,2284.0
+1,Alabama,5,Barbour,1998,8,Corn,Drought,63.08,1851.19999999999,2043.6,363.8
+1,Alabama,5,Barbour,1998,8,Cotton,Drought,117.92,27512.9,33401.0,1906.5
+1,Alabama,5,Barbour,1998,8,Peanuts,Drought,2567.4675,803918.6,1464953.45,52735.575
+1,Alabama,5,Barbour,1998,8,Peanuts,Wildlife,22.5,6401.25,6401.25,368.25
+1,Alabama,5,Barbour,1998,9,Cotton,Drought,8.0,1981.6,2136.4,136.4
+1,Alabama,5,Barbour,1998,9,Cotton,Excess Moisture/Precip/Rain,80.4,12087.0,20850.2,1370.4
+1,Alabama,5,Barbour,1998,9,Cotton,Hurricane/Tropical Depression,140.53,37929.55,41102.25,2375.75
+1,Alabama,5,Barbour,1998,9,Peanuts,Drought,122.5,11667.1,53730.4,2520.65
+1,Alabama,5,Barbour,1998,9,Peanuts,Excess Moisture/Precip/Rain,166.39,44622.3999999999,75074.8,3568.4
+1,Alabama,5,Barbour,1998,9,Peanuts,Hurricane/Tropical Depression,64.0,17835.0,22320.0,656.0
+1,Alabama,5,Barbour,1998,10,Cotton,Excess Moisture/Precip/Rain,33.6,4119.6,6783.6,672.3
+1,Alabama,5,Barbour,1998,10,Peanuts,Excess Moisture/Precip/Rain,6.96,583.2,3016.8,145.6
+1,Alabama,5,Barbour,1999,Unspecified,Peanuts,Drought,9.778,0.0,7796.6,665.2
+1,Alabama,5,Barbour,1999,5,Peanuts,Excess Moisture/Precip/Rain,32.3,2584.0,14625.0,905.5
+1,Alabama,5,Barbour,1999,6,Corn,Drought,11.04,408.0,519.2,136.8
+1,Alabama,5,Barbour,1999,7,Cotton,Drought,431.2,60177.15,104833.25,9704.6
+1,Alabama,5,Barbour,1999,7,Peanuts,Drought,170.925,30827.6,78165.0,5371.7
+1,Alabama,5,Barbour,1999,8,Corn,Wildlife,2.76,102.0,129.8,34.2
+1,Alabama,5,Barbour,1999,8,Cotton,Drought,995.9,202179.8,346603.4,33745.0
+1,Alabama,5,Barbour,1999,8,Cotton,Heat,30.56,5775.6,7430.79999999999,767.6
+1,Alabama,5,Barbour,1999,8,Peanuts,Drought,1634.587,291995.4,831595.0,61167.8
+1,Alabama,5,Barbour,1999,8,Peanuts,Heat,17.15,2741.6,7966.8,581.0
+1,Alabama,5,Barbour,1999,8,Peanuts,Wildlife,15.0,4014.75,4014.75,408.75
+1,Alabama,5,Barbour,1999,9,Cotton,Drought,34.14,7515.59999999999,8458.8,845.4
+1,Alabama,5,Barbour,1999,9,Peanuts,Drought,29.8,5940.25,11482.25,980.65
+1,Alabama,5,Barbour,1999,10,Peanuts,Excess Moisture/Precip/Rain,9.1,480.0,1636.0,190.4
+1,Alabama,5,Barbour,1999,10,Peanuts,Mycotoxin (Aflatoxin),37.36,5276.4,20673.2,1309.2
+1,Alabama,5,Barbour,1999,10,Soybeans,Excess Moisture/Precip/Rain,136.0,4324.0,4324.0,506.0
+1,Alabama,5,Barbour,1999,11,Cotton,Wind/Excess Wind,37.8,6035.85,9654.75,914.4
+1,Alabama,5,Barbour,2000,Unspecified,Peanuts,Drought,24.7,780.0,4688.0,566.0
+1,Alabama,5,Barbour,2000,1,Cotton,Drought,538.0,27428.0,90840.0,8012.0
+1,Alabama,5,Barbour,2000,2,Wheat,Drought,99.1,1437.0,4719.0,336.0
+1,Alabama,5,Barbour,2000,4,Corn,Drought,308.95,28530.6,29543.0,2476.8
+1,Alabama,5,Barbour,2000,4,Peanuts,Drought,56.16,15956.2,26584.6,1648.4
+1,Alabama,5,Barbour,2000,5,Corn,Drought,559.22,27349.4,30029.7,3032.5
+1,Alabama,5,Barbour,2000,5,Corn,Failure Of Irrigation Supply,246.6,40932.0,41746.5,2980.8
+1,Alabama,5,Barbour,2000,5,Cotton,Drought,1791.7,409788.0,470194.0,43312.0
+1,Alabama,5,Barbour,2000,5,Peanuts,Drought,3727.58,1371392.59999999,2031101.2,124835.4
+1,Alabama,5,Barbour,2000,5,Peanuts,Heat,70.0,21160.0,40254.0,1365.0
+1,Alabama,5,Barbour,2000,5,Wheat,Drought,55.8,793.0,4719.0,336.0
+1,Alabama,5,Barbour,2000,6,Corn,Drought,658.599999999999,39912.0,41335.0,3701.0
+1,Alabama,5,Barbour,2000,6,Cotton,Drought,682.1,159933.5,200392.199999999,15129.799999
+1,Alabama,5,Barbour,2000,6,Peanuts,Drought,1274.64999999999,408956.0,622452.0,43938.0
+1,Alabama,5,Barbour,2000,6,Peanuts,Mycotoxin (Aflatoxin),27.96,11641.2,13660.8,938.0
+1,Alabama,5,Barbour,2000,7,Corn,Drought,113.6,7336.0,7388.0,747.0
+1,Alabama,5,Barbour,2000,7,Peanuts,Drought,1762.31,776220.8,942458.4,63144.4
+1,Alabama,5,Barbour,2000,7,Peanuts,Plant Disease,8.88,2753.2,4335.6,311.6
+1,Alabama,5,Barbour,2000,8,Corn,Drought,6.6,306.0,424.2,60.0
+1,Alabama,5,Barbour,2000,8,Corn,Mycotoxin (Aflatoxin),190.13,11596.0,12944.6,1094.9
+1,Alabama,5,Barbour,2000,8,Peanuts,Drought,1083.685,343746.0,554458.0,39048.0
+1,Alabama,5,Barbour,2000,8,Peanuts,Mycotoxin (Aflatoxin),8.6,2957.2,3782.8,266.4
+1,Alabama,5,Barbour,2000,9,Cotton,Drought,84.0,20056.0,21717.0,1874.0
+1,Alabama,5,Barbour,2000,9,Peanuts,Mycotoxin (Aflatoxin),141.92,50612.5,69224.3,4935.3
+1,Alabama,5,Barbour,2000,10,Cotton,Heat,137.7,46534.5,52297.7999999999,3160.2
+1,Alabama,5,Barbour,2000,10,Peanuts,Mycotoxin (Aflatoxin),112.13,38068.9,57047.1,3528.7
+1,Alabama,5,Barbour,2000,11,Peanuts,Drought,13.3,6055.0,6204.8,401.8
+1,Alabama,5,Barbour,2000,11,Peanuts,Mycotoxin (Aflatoxin),20.8,9042.4,9704.4,698.0
+1,Alabama,5,Barbour,2000,11,Soybeans,Drought,148.8,973.0,4226.0,509.0
+1,Alabama,5,Barbour,2000,12,Cotton,Drought,121.0,1900.0,33436.0,2491.0
+1,Alabama,5,Barbour,2001,4,Corn,Drought,5.0,461.0,461.0,40.0
+1,Alabama,5,Barbour,2001,5,Corn,Drought,14.0,1198.4,1585.2,221.4
+1,Alabama,5,Barbour,2001,5,Cotton,Drought,260.95,26930.5,59103.0,14198.0
+1,Alabama,5,Barbour,2001,5,Cotton,Frost,9.0,466.8,2364.6,270.6
+1,Alabama,5,Barbour,2001,5,Peanuts,Drought,285.35,35190.6,120439.3,11195.3
+1,Alabama,5,Barbour,2001,6,Peanuts,Drought,17.0,1986.0,8300.0,720.0
+1,Alabama,5,Barbour,2001,7,Cotton,Drought,260.1,32839.0,61672.4,9741.1
+1,Alabama,5,Barbour,2001,7,Cotton,Wildlife,13.85,2434.5,2713.0,474.0
+1,Alabama,5,Barbour,2001,7,Peanuts,Drought,2154.88,827840.0,1567758.0,102771.0
+1,Alabama,5,Barbour,2001,7,Peanuts,Excess Moisture/Precip/Rain,65.1,32334.4,53741.8,3487.4
+1,Alabama,5,Barbour,2001,7,Peanuts,Heat,12.0,2063.0,7953.0,381.0
+1,Alabama,5,Barbour,2001,7,Peanuts,Plant Disease,25.48,4925.9,14099.4,1056.3
+1,Alabama,5,Barbour,2001,8,Cotton,Excess Moisture/Precip/Rain,6.8,1934.4,2720.4,249.2
+1,Alabama,5,Barbour,2001,8,Peanuts,Drought,248.32,40522.1,171412.6,12111.7
+1,Alabama,5,Barbour,2001,9,Corn,Wildlife,2.5,229.6,294.8,42.6
+1,Alabama,5,Barbour,2001,9,Peanuts,Plant Disease,93.33,21523.2,42335.9,3418.25
+1,Alabama,5,Barbour,2001,9,Peanuts,Wildlife,7.92,1677.0,3487.2,425.85
+1,Alabama,5,Barbour,2001,10,Cotton,Cold Winter,9.1,938.0,2133.6,200.9
+1,Alabama,5,Barbour,2001,10,Cotton,Drought,70.8,11966.8,16399.4,2299.0
+1,Alabama,5,Barbour,2001,10,Cotton,Freeze,43.2,7770.4,9882.0,1412.4
+1,Alabama,5,Barbour,2001,10,Cotton,Frost,116.6,12254.4,47973.0,4175.4
+1,Alabama,5,Barbour,2001,10,Cotton,Other,41.6,5139.2,10581.6,1286.4
+1,Alabama,5,Barbour,2001,10,Peanuts,Drought,41.5,13586.0,21924.0,1941.0
+1,Alabama,5,Barbour,2001,10,Peanuts,Excess Moisture/Precip/Rain,49.9,2621.8,21558.8,2476.2
+1,Alabama,5,Barbour,2001,11,Cotton,Frost,340.3,74916.0,110848.0,9868.0
+1,Alabama,5,Barbour,2001,12,Cotton,Decline In Price,335.7,11295.0,81003.0,11751.0
+1,Alabama,5,Barbour,2001,12,Cotton,Frost,273.0,33666.0,63980.0,6664.0
+1,Alabama,5,Barbour,2001,12,Cotton,Wildlife,128.0,23052.0,38103.0,4328.0
+1,Alabama,5,Barbour,2002,Unspecified,Cotton,Drought,14.2,0.0,2288.5,677.0
+1,Alabama,5,Barbour,2002,Unspecified,Peanuts,Other,9.2,-237.0,607.0,75.0
+1,Alabama,5,Barbour,2002,3,All Other Crops,Drought,98.7,1109.0,5463.0,192.0
+1,Alabama,5,Barbour,2002,4,Corn,Drought,5.0,328.0,485.0,58.0
+1,Alabama,5,Barbour,2002,5,Corn,Drought,23.0,438.0,631.0,196.0
+1,Alabama,5,Barbour,2002,5,Cotton,Drought,174.0,21052.2,37210.8,6415.8
+1,Alabama,5,Barbour,2002,5,Cotton,Excess Moisture/Precip/Rain,24.3,2905.2,4966.2,779.4
+1,Alabama,5,Barbour,2002,5,Cotton,Hail,40.2,4055.0,10285.0,726.0

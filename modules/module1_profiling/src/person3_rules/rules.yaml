@@ -1,0 +1,101 @@
+# Settings for the Profiling Rule Engine
+# Change a number or a word here and the engine uses it nect time it runs
+# no Pyhton code needs to be edited
+
+version: 1
+# Values treated as missing everywhere, before any rule runs
+null_markers: ["", "NA", "N/A", "null", "-999", "(D)"]
+
+rules:
+  # Flags columns where every value is empty
+  all_null:
+    #set to false to switch this rule off
+    enabled: true
+    # How serious the problem is 
+    severity: high
+
+  # Flags columns that contain only one value in every row
+  constant_column:
+    enabled: true
+    severity: medium
+
+  # Flags columns where almost every value is different not including the ID
+  near_unique:
+    enabled: true
+    severity: low
+    # How sure the rule is when it flags a column, from 0 (a guess) to 1 (certain)
+    confidence: 0.8
+    # flags if more than 95% of values are distinct
+    threshold: 0.95
+    # skips very small datasets, where everything looks unique
+    min_rows: 20
+    # names that are allowed to be unique
+    id_name_patterns: [id, code, key, uuid, number, fips]
+  
+  # Flags column names that suggest the answe is hiding in the data
+  leakage_names:
+    enabled: true
+    severity: high
+    confidence: 0.6
+    #words to look for in column name
+    patterns: [target, label, outcome, payout, result]
+
+  # Flags number columns with a few huge values and many small ones
+  extreme_skew:
+    enabled: true
+    severity: low
+    confidence: 0.9
+    # flag if skewness is above 5 or below -5
+    threshold: 5.0
+    # identifier-like columns
+    skip_name_patterns: [id, code, fips, key, number, county, state, year]
+  
+  # Flags text columns whose values do not all follow one format
+  # (mixed dates, mixed casing, mixed phone patterns, odd-one-out shapes)
+  format_inconsistency:
+    enabled: true
+    severity: medium
+    confidence: 0.85
+    # skip columns with fewer values than this
+    min_rows: 20 
+    # one shape must cover this share for odd ones to count            
+    dominant_share: 0.95 
+    # a column is a date column if this share look like dates    
+    date_share: 0.8  
+    # same idea for phone numbers        
+    phone_share: 0.8  
+    # more shapes than this means free text, so don't flag       
+    max_shapes: 5  
+    # casing check only on columns with many repeated values          
+    max_distinct_ratio: 0.5
+    # look at a random sample of this many rows at most  
+    sample_size: 50000       
+ 
+  # Flags columns that probably contain personal data
+  # Confidence is worked out from the signals (name, regex, Presidio), not set here
+  pii:
+    enabled: true
+    severity: high
+    # only flag if the combined confidence reaches this
+    min_confidence: 0.5     
+    min_rows: 5
+    # rows checked with regex
+    sample_size: 5000 
+    # share of values that must match a pattern       
+    regex_min_share: 0.5 
+    # set to false to skip Presidio (faster)    
+    use_presidio: true       
+    presidio_model: en_core_web_sm
+    # distinct values per column shown to Presidio
+    presidio_sample: 50  
+    # share of sampled values Presidio must recognise    
+    presidio_min_share: 0.3  
+    presidio_min_score: 0.5
+    # How much each signal adds; they combine, so two agreeing signals score higher
+    weights:
+      name: 0.55
+      regex: 0.6
+      presidio: 0.45
+      semantic: 0.3
+    # PII types that need a matching column name (place names look like people)
+    name_hint_required: [person_name]

@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  module1:
+    name: Module 1 - profiling
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: modules/module1_profiling
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run tests
+        run: pytest tests/ -v
+      - name: Build Docker image
+        run: docker build -t module1-profiling:ci .
+
+  # When a module gets code and tests, copy the module1 job above, change the
+  # name and working-directory (e.g. modules/module2_cleaning), and merge it.
+  # Cross-module tests (tests/ at the repo root) get their own job once they exist.

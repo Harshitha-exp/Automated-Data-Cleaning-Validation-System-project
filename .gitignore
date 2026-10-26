@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+
+# Real datasets and generated outputs stay out of git (use DVC / Git LFS for data versioning)
+*.csv
+*.xlsx
+*.parquet
+!sample_data/*.csv
+profiling_report.json
+validation_report.json
+cleaning_log.json
+cleaned_data.csv
+results/

@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cadetx.local/module1/profiling_report.schema.json",
+  "title": "profiling_report.json",
+  "description": "Module 1 output: the combined result of Person 1 (metadata), Person 2 (statistics + visualisations) and Person 3 (rule-engine flags), as assembled by Person 4's orchestrator.generate_report().",
+  "type": "object",
+  "required": [
+    "schema_version", "generated_at", "n_rows", "n_columns",
+    "metadata", "statistics", "visualisations", "flags", "total_flags", "errors"
+  ],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "n_rows": { "type": "integer", "minimum": 0 },
+    "n_columns": { "type": "integer", "minimum": 0 },
+
+    "metadata": {
+      "type": "object",
+      "description": "Person 1's build_metadata() output.",
+      "required": ["schema_version", "n_rows", "n_columns", "columns"],
+      "properties": {
+        "schema_version": { "type": "string" },
+        "n_rows": { "type": "integer" },
+        "n_columns": { "type": "integer" },
+        "columns": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "required": ["dtype", "type", "semantic", "is_mixed_type", "n_unique", "n_missing", "cardinality_ratio"],
+            "properties": {
+              "dtype": { "type": "string" },
+              "type": {
+                "type": "string",
+                "enum": ["integer", "float", "boolean", "datetime", "categorical", "text", "unknown"]
+              },
+              "semantic": { "type": ["string", "null"] },
+              "semantic_confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+              "semantic_basis": { "type": "array", "items": { "type": "string" } },
+              "is_mixed_type": { "type": "boolean" },
+              "type_breakdown": { "type": "object" },
+              "n_unique": { "type": "integer", "minimum": 0 },
+              "n_missing": { "type": "integer", "minimum": 0 },
+              "cardinality_ratio": { "type": "number", "minimum": 0, "maximum": 1 }
+            }
+          }
+        }
+      }
+    },
+
+    "statistics": {
+      "type": "object",
+      "description": "Person 2's compute_statistics() output.",
+      "properties": {
+        "missing": {
+          "type": "object",
+          "properties": {
+            "per_column": { "type": "object" },
+            "total_cells": { "type": "integer" },
+            "total_missing_cells": { "type": "integer" },
+            "pct_missing_overall": { "type": "number" },
+            "rows_with_any_missing": { "type": "integer" },
+            "pct_rows_with_any_missing": { "type": "number" }
+          }
+        },
+        "type_consistency": { "type": "object" },
+        "cardinality": { "type": "object" },
+        "distributions": { "type": "object" },
+        "correlations": {
+          "type": "object",
+          "properties": {
+            "numeric": {
+              "type": "object",
+              "properties": {
+                "columns": { "type": "array", "items": { "type": "string" } },
+                "matrix": { "type": "array" }
+              }
+            },
+            "categorical": {
+              "type": "object",
+              "properties": {
+                "columns": { "type": "array", "items": { "type": "string" } },
+                "matrix": { "type": "array" }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "visualisations": {
+      "type": "object",
+      "description": "Person 2's generate_visualisations() output: {} if skipped via include_visualisations=False.",
+      "patternProperties": {
+        "^(missing_heatmap|outlier_distribution|correlation_heatmap)$": {
+          "type": "object",
+          "required": ["format", "encoding", "data"],
+          "properties": {
+            "format": { "type": "string", "enum": ["png"] },
+            "encoding": { "type": "string", "enum": ["base64", "path"] },
+            "data": { "type": "string" }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+
+    "flags": {
+      "type": "array",
+      "description": "Person 3's run_rules() flags.",
+      "items": {
+        "type": "object",
+        "required": ["column", "rule", "severity", "confidence"],
+        "properties": {
+          "column": { "type": "string" },
+          "rule": { "type": "string" },
+          "severity": { "type": "string", "enum": ["high", "medium", "low"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "evidence": {},
+          "suggestion": { "type": "string" }
+        }
+      }
+    },
+    "total_flags": { "type": "integer", "minimum": 0 },
+
+    "errors": {
+      "type": "array",
+      "description": "Per-stage failures. Empty on a clean run; a non-empty entry here means one module's output is missing or partial, not that the whole report failed.",
+      "items": {
+        "type": "object",
+        "required": ["stage", "error"],
+        "properties": {
+          "stage": {
+            "type": "string",
+            "enum": ["person1_metadata", "person2_statistics", "person2_visualisations", "person3_rules"]
+          },
+          "error": { "type": "string" },
+          "traceback": { "type": "string" }
+        }
+      }
+    }
+  }
+}

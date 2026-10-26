@@ -1,0 +1,24 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+PyYAML>=6.0
+
+# Person 2 — charts
+matplotlib>=3.8
+
+# Person 3 — PII detection (Presidio degrades gracefully to name+regex
+# only if the spaCy model below isn't installed; see person3_rules/README.md)
+presidio-analyzer>=2.2
+spacy>=3.7
+
+# Person 4 — API
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+openpyxl>=3.1
+
+# Tests
+pytest>=7.0
+httpx>=0.27
+jsonschema>=4.20

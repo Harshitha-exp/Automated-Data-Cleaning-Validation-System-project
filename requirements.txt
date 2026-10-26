@@ -1,0 +1,6 @@
+# Everything needed to run the whole project locally.
+# Each module keeps its own requirements.txt; add a line here when a module gets one.
+-r modules/module1_profiling/requirements.txt
+# -r modules/module2_cleaning/requirements.txt
+# -r modules/module3_validation/requirements.txt
+# -r modules/module4_automation/requirements.txt
