@@ -34,7 +34,7 @@ PHONE_NAME_WORDS = {"phone", "mobile", "tel", "telephone", "fax", "cell"}
 PHONE_CHARS = re.compile(r"^\+?[\d\s().\-]{7,20}$")
 PLAIN_NUMBER = re.compile(r"^-?\d+(\.\d+)?$")
 SSN_LIKE = re.compile(r"^\d{3}-\d{2}-\d{4}$")
-
+EXTENSION = re.compile(r"\s*(x|ext\.?|extension)\s*\d{1,6}$", re.IGNORECASE)
 
 def _get_cfg(cfg):
     """Use the given settings, or read this rule's section of rules.yaml."""
@@ -51,9 +51,10 @@ def date_format_of(value):
             return name
     return None
 
-
 def looks_like_phone(value):
     """True for values shaped like a phone number (formatted, 7 to 15 digits)."""
+    # ignore a trailing extension like 'x123'
+    value = EXTENSION.sub("", value)            
     if PLAIN_NUMBER.match(value) or SSN_LIKE.match(value) or date_format_of(value):
         return False
     if not PHONE_CHARS.match(value):
@@ -62,12 +63,10 @@ def looks_like_phone(value):
         return False
     return 7 <= sum(ch.isdigit() for ch in value) <= 15
 
-
 def value_shape(value, max_len=40):
     """Describe a value's shape: digits -> 9, letters -> A, symbols kept."""
     shape = "".join("9" if ch.isdigit() else "A" if ch.isalpha() else ch for ch in value)
     return shape if len(shape) <= max_len else shape[:max_len] + "..."
-
 
 def _describe(counter, total, top=3):
     """'YYYY-MM-DD (95.0%), NN/NN/YYYY (5.0%)' from a Counter of formats."""
@@ -76,7 +75,6 @@ def _describe(counter, total, top=3):
         parts.append(f"+{len(counter) - top} more")
     return ", ".join(parts)
 
-
 def _text_values(series, sample_size):
     """Non-empty values of one column as stripped text, sampled if very large."""
     s = series.dropna().astype(str).str.strip()
@@ -84,7 +82,6 @@ def _text_values(series, sample_size):
     if len(s) > sample_size:
         s = s.sample(sample_size, random_state=0)
     return s
-
 
 def detect_format_inconsistency(df, cfg=None, metadata=None):
     """Find columns whose values do not all follow one format.

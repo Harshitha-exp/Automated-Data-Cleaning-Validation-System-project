@@ -26,7 +26,6 @@ SSN_RE = re.compile(r"^\d{3}-\d{2}-\d{4}$")
 UK_NI_RE = re.compile(r"^[A-CEGHJ-PR-TW-Z]{2}\d{6}[A-D]$")
 IPV4_RE = re.compile(r"^((25[0-5]|2[0-4]\d|1?\d?\d)\.){3}(25[0-5]|2[0-4]\d|1?\d?\d)$")
 
-
 def _luhn_ok(value):
     digits = [int(c) for c in value if c.isdigit()]
     if not 13 <= len(digits) <= 19 or not re.fullmatch(r"[\d \-]+", value):
@@ -40,10 +39,8 @@ def _luhn_ok(value):
         total += d
     return total % 10 == 0
 
-
 def _is_national_id(value):
     return bool(SSN_RE.match(value) or UK_NI_RE.match(value.replace(" ", "").upper()))
-
 
 def _person_name_hint(col):
     """'name', 'full_name', 'first_name'... but not 'county_name' or 'crop_name'."""
@@ -54,7 +51,6 @@ def _person_name_hint(col):
     qualifiers = {"first", "last", "full", "sur", "given", "family", "middle", "fore",
                   "person", "customer", "client", "farmer", "holder", "policyholder", "insured"}
     return "name" in words and bool(words & qualifiers)
-
 
 # What we know about each kind of PII.
 # hints = whole words in the column name; compact = text found inside the squashed name.
@@ -85,17 +81,16 @@ SEMANTIC_TO_TYPE = {
     "ssn": "national_id", "national_id": "national_id",
     "credit_card": "credit_card", "ip_address": "ip_address", "ip": "ip_address",
     "dob": "date_of_birth", "date_of_birth": "date_of_birth", "address": "address",
+    "zip": "address",
 }
 
 _analyzer_cache = {}
-
 
 def _get_cfg(cfg):
     if cfg is not None:
         return cfg
     from engine import load_config   # imported here to avoid a circular import
     return load_config()["rules"].get(RULE_NAME, {})
-
 
 def _get_analyzer(model_name):
     """Load Presidio once (it is slow to start). Returns None if it can't be used."""
@@ -121,13 +116,11 @@ def _get_analyzer(model_name):
     _analyzer_cache[model_name] = analyzer
     return analyzer
 
-
 def _name_hint(col, spec):
     if "hint_fn" in spec:
         return spec["hint_fn"](col)
     compact = re.sub(r"[^a-z0-9]", "", str(col).lower())
     return bool(name_words(col) & spec["hints"]) or any(c in compact for c in spec["compact"])
-
 
 def _presidio_shares(values, analyzer, cfg):
     """Share of sampled values in which Presidio found each entity type."""
@@ -146,7 +139,6 @@ def _presidio_shares(values, analyzer, cfg):
         for entity in found:
             hits[entity] = hits.get(entity, 0) + 1
     return {entity: n / len(sample) for entity, n in hits.items()}
-
 
 def detect_pii(df, cfg=None, metadata=None):
     """Find columns that probably contain personal data.
