@@ -1,0 +1,51 @@
+farmer_id,full_name,email,phone,address,date_of_birth,county_fips,crop,cause_of_loss,claim_amount
+F1000,Ryan Gallagher,david77@example.net,(331)770-6690x7439,"806 Tanya Stream, New Jeffreymouth, NM 72965",1961-08-25,01001,Corn,Hail,6336.98
+F1001,Michael Hodges,sara68@example.net,624-615-8683,"690 Sanchez Union Suite 625, Christopherhaven, CT 21957",1981-03-27,19153,Cotton,Freeze,39541.81
+F1002,Jacqueline Oconnor,twilliams@example.net,001-596-822-8303,"4890 Bowers View Apt. 883, Herringfort, VI 48307",1984-07-29,01001,Cotton,Drought,44719.19
+F1003,Teresa Gutierrez,robert08@example.net,+1-695-279-0328x921,"07043 Rodriguez Road, West Kelly, GA 21423",1963-02-26,19153,Cotton,Drought,34943.73
+F1004,Carol Nelson,shawn57@example.com,604-565-6341,"Unit 6030 Box 6202, DPO AA 92855",1980-03-29,19153,Soybeans,Drought,45120.66
+F1005,Kimberly Walker,pwalker@example.org,(695)460-4230x4114,"08093 Jackson Ways Apt. 635, East Ashleychester, OR 25944",1979-04-17,01001,Corn,Drought,32652.53
+F1006,Maxwell Phillips,nsmith@example.com,702-935-9256x3416,"01222 Joseph Isle, Michealmouth, DE 38671",1961-10-16,01001,Cotton,Excess Moisture/Precip/Rain,48467.51
+F1007,Lindsey Best,jtaylor@example.org,506-316-2251x99619,"USNV Macdonald, FPO AP 70532",12/05/1980,17031,Corn,Excess Moisture/Precip/Rain,38303.2
+F1008,Donald Buchanan,alexander01@example.com,403-539-6217,"6848 Dawson Island, East Deniseton, AK 01878",1999-05-02,19153,Soybeans,Hail,11927.89
+F1009,Mrs. Linda Cole,raymond15@example.net,614.539.8754x283,"1719 Shepard Loaf, Blakeburgh, MD 76392",1966-05-24,01001,Cotton,Hail,46362.08
+F1010,Brian Carr,sanchezandrew@example.org,(314)781-1004x5772,"22541 Martinez Ford, New Renee, AZ 41928",2001-08-28,19153,Corn,Excess Moisture/Precip/Rain,31652.97
+F1011,Regina Meadows,gregoryreynolds@example.org,9349176848,"47069 Bryan Knoll Apt. 922, Tonyaview, MO 74435",1973-01-29,17031,Wheat,Drought,37285.76
+F1012,Brandon Tucker,allisonmason@example.net,533.257.7365x894,"PSC 8528, Box 3444, APO AP 49209",1957-01-10,17031,Cotton,Excess Moisture/Precip/Rain,15516.74
+F1013,Nancy Wheeler,mosleysusan@example.net,(422)246-3907x6568,"1412 Sean Garden, Casechester, MO 22095",1967-12-08,17031,Cotton,Freeze,29655.61
+F1014,Marcus Freeman,davidburke@example.com,944-236-8038,"3242 Joshua Prairie, Marisamouth, WY 22518",1982-11-25,01001,Cotton,Excess Moisture/Precip/Rain,37314.67
+F1015,Jason Martinez,ashleyreyes@example.com,701-690-8421,"501 Robbins Keys Suite 865, Wilsonfurt, MS 27228",1983-09-07,1001,Cotton,Excess Moisture/Precip/Rain,18672.63
+F1016,Donald George,valeriemurray@example.net,(742)379-8358x06966,"406 Cynthia Locks, Meghanland, GU 79860",1946-06-23,17031,Wheat,Drought,22228.6
+F1017,Dennis Erickson,edwin47@example.org,280.448.1961x517,"164 Clark Fords, West Joseph, CA 92145",1981-05-23,17031,Corn,Excess Moisture/Precip/Rain,26286.45
+F1018,Julie Grant,jacksondenise@example.net,+1-945-693-6862,"349 Megan Burgs Suite 563, Jamesburgh, VI 76410",1975-12-22,19153,Wheat,Freeze,36771.91
+F1019,Tasha Hernandez,stephen22@example.org,001-875-746-3134x113,"00903 Troy Pines, Petersonview, DE 80879",1992-12-02,19153,Corn,Hail,35317.41
+F1020,Daniel Hall,kgray@example.org,747.989.6374,"00075 Charles Heights, South Ernest, GU 99927",1989-10-01,17031,Cotton,Excess Moisture/Precip/Rain,9999999.0
+F1021,Thomas Smith,nancydaniels@example.net,(642)317-4008x0820,"72437 Rivera Grove, Darlenebury, IA 08389",1985-10-17,01001,Corn,Excess Moisture/Precip/Rain,27211.06
+F1022,Leslie Bailey,steinamy@example.net,386.414.9142,"0018 Mason Courts, Billyside, AZ 58611",1990-12-28,17031,Soybeans,Freeze,25931.7
+F1023,James Zimmerman,hjohnson@example.com,745-414-0604,"41638 Mark Junction Suite 971, Lake Lisa, NC 73723",1994-09-28,17031,Wheat,Freeze,45532.87
+F1024,Lauren Meyer,princemarie@example.com,001-223-656-8516x5291,"4554 Goodman Pike Apt. 812, Robinmouth, WY 43435",1984-10-14,17031,Corn,Freeze,39290.93
+F1025,William Castillo,sara61@example.net,7207879439,"Unit 5647 Box 9588, DPO AE 04311",1955-11-19,17031,,Excess Moisture/Precip/Rain,21591.49
+F1026,Daniel Anderson,lopezrobert@example.net,+1-301-584-1341x981,"609 Yoder Oval, Jeffreyborough, PA 65200",1961-10-17,01001,Cotton,Hail,28714.97
+F1027,Michael Stephens,laurenswanson@example.com,(230)786-8716x98996,"34081 Hunt Summit Suite 898, Aliciaside, GU 68378",1973-07-28,01001,Cotton,Freeze,40760.9
+F1028,Lauren Chavez,williamwillis@example.net,001-224-806-9056x64011,"7567 Timothy Drive Suite 202, Michealberg, OR 38137",1973-11-19,19153,Wheat,Drought,27154.7
+F1029,Jose Stevenson,ryan73@example.net,966.311.2323x0142,"16908 Amanda Key, Lake Taraville, WA 72962",1991-12-31,17031,Wheat,Freeze,30192.83
+F1030,Michael Wilson,gabrielle27@example.net,8313617487,"26932 Butler Plain Suite 783, Michelleville, AL 99824",1995-06-01,01001,Soybeans,Excess Moisture/Precip/Rain,43119.94
+F1031,Tammy Novak,brian74@example.org,584.843.6224,"982 Nelson Neck, Josephborough, NM 48694",1986-07-20,17031,Wheat,Drought,42166.37
+F1032,George Obrien,jocelyncarpenter@example.com,+1-920-985-8235,"43180 Gail Fork, New Ashley, FM 40853",1974-07-10,17031,Corn,Drought,43469.87
+F1033,Raymond Underwood,christopherwalker@example.net,+1-454-298-6015x5214,"145 Joseph Causeway, Anthonyberg, MO 49267",1994-10-14,19153,Corn,Hail,12853.18
+F1034,Dana Frazier,alan51@example.com,+1-829-646-1998x7968,"PSC 4820, Box 9812, APO AE 28684",1975-05-13,01001,Soybeans,Hail,14869.07
+F1035,Alejandro Ryan,thomas61@example.net,(418)458-8890x947,"375 Oneal Estate, Port Laura, MP 58135",1973-05-23,01001,Soybeans,Hail,26605.33
+F1036,Kyle Nelson,medinaalec@example.net,(668)717-0696,"17000 Brenda Pines Suite 849, Leahbury, AS 82000",1962-02-08,01001,Wheat,Hail,23007.73
+F1037,Trevor Wiggins,franksabrina@example.com,(454)209-6665x45739,"287 Todd Crossing, South Phyllisfurt, SC 23400",1972-10-26,19153,Cotton,Freeze,6152.44
+F1038,Ariana Rogers,diane77@example.com,836.876.8197x4220,"127 Contreras Union, Samanthaberg, NC 14359",1963-02-10,19153,Cotton,Hail,21335.47
+F1039,James Schultz,amandamyers@example.org,+1-436-422-5318,"363 Shari Stream, Lake William, RI 86163",1982-04-25,01001,Wheat,Drought,13046.18
+F1040,James Marshall,hughesann@example.net,708.930.0474x6292,"Unit 6826 Box 6374, DPO AA 20356",1963-06-11,17031,Soybeans,Freeze,40943.46
+F1041,Sarah Norman,simonmatthew@example.org,544-556-4970x224,"639 Angela Lock, North Colleen, CA 20565",1999-04-15,01001,Soybeans,Drought,20167.11
+F1042,Amanda Sullivan,lfleming@example.net,(888)713-6243,"42578 Davis Views, Jasonmouth, AK 38550",2000-04-06,01001,Soybeans,Freeze,35377.98
+F1043,Leslie Gilbert,dscott@example.org,822-411-6933x88613,"013 Alvarado Plains Apt. 402, Port Robert, KY 87222",1974-06-13,17031,Cotton,Excess Moisture/Precip/Rain,48860.32
+F1044,Johnny Caldwell,jacobsmith@example.org,536.885.3110x6732,"59150 Williams Ridge, East Melissa, LA 61994",1948-09-19,17031,Cotton,Excess Moisture/Precip/Rain,26432.82
+F1045,Amy Cline,zdavis@example.net,001-246-845-7087,"99841 Perry Pike Apt. 991, New Alyssaville, MH 44022",1968-09-12,01001,Cotton,Hail,33161.28
+F1046,Nicole Johnson,brandi71@example.net,358.880.2553x292,"5495 Jennifer Trafficway Apt. 468, Audreyland, CA 93379",1957-05-20,19153,Corn,Hail,6721.32
+F1047,Tiffany Gutierrez,justinbarber@example.com,331.747.0843,"207 Lloyd Camp Apt. 562, Lake Briannahaven, NE 24666",1959-03-23,01001,Corn,Hail,4000.98
+F1048,Kevin Beltran,griffithstephen@example.org,(275)295-3007x024,"208 Jason Heights, South William, MD 51878",1990-04-03,01001,Wheat,Hail,37320.18
+F1049,Kristopher Lopez,stephanie96@example.net,850.570.1996x9551,"988 Greene Streets Suite 972, Emmahaven, ME 74353",1997-11-03,19153,Wheat,Excess Moisture/Precip/Rain,919.77
