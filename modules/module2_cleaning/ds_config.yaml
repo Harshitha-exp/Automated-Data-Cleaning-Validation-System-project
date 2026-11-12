@@ -1,0 +1,25 @@
+version: 1
+# Values treated as missing before anything else happens.
+# Keep this the same as null_markers in the rule engine's rules.yaml.
+null_markers: ["", "NA", "N/A", "null"]
+
+imputation:
+  max_missing_share: 0.6        # skip columns with more than this share missing (leave for ML or drop)
+  numeric_strategy: median      # mean | median  (median copes better with skewed money columns)
+  categorical_strategy: mode    # mode | constant
+  categorical_constant: "Unknown"   # used when strategy is constant, or when a column has no mode
+  boolean_strategy: mode
+  impute_text: false            # free-text columns are not imputed
+  skip_semantics: [id, person_name, email, phone, national_id, credit_card, address, ip_address, date_of_birth, zip]
+  skip_columns: []              # column names to never impute
+  group_by: {}                  # fill from similar rows, e.g. {"County name": ["State", "County"]}
+
+quality:
+  weights:                      # how much each dimension counts in the overall score
+    completeness: 0.35
+    uniqueness: 0.20
+    validity: 0.30
+    consistency: 0.15
+  sample_size: 50000            # validity and consistency look at a random sample this big
+  duplicate_subset: null        # list of columns that define a duplicate, or null for whole rows
+  categorical_max_ratio: 0.5    # casing check only on columns with many repeated values
